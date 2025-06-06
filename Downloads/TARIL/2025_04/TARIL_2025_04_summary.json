@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "company": "TARIL",
+    "report_generated_on": "2025-04-15",
+    "source_documents": [
+      {
+        "file_name": "TARIL_Earnings_Call_Transcript_08_April_2025.pdf",
+        "type": "Earnings Call Transcript",
+        "period_covered": "Q4 FY25 and FY25",
+        "url": ""
+      },
+      {
+        "file_name": "TARIL_Investor_Presentation_08_April_2025.pdf",
+        "type": "Investor Presentation",
+        "period_covered": "Q4 FY25 and FY25",
+        "url": ""
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q4 FY25",
+      "revenue": {
+        "total_inr": 6470000000,
+        "total_usd": null,
+        "cc_growth_pct": {
+          "qoq": null,
+          "yoy": null
+        },
+        "usd_growth_pct": {
+          "qoq": null,
+          "yoy": null
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": 1149700000,
+        "ebitda_margin_pct": 17.46,
+        "ebit_inr": null,
+        "ebit_margin_pct": null,
+        "pat_inr": 765800000,
+        "pat_usd": null,
+        "pat_margin_pct": 11.63,
+        "basic_eps_inr": 12.7
+      },
+      "order_book": {
+        "tcv_new_deals": 21440000000,
+        "pipeline_commentary": "Robust order inflow resulting in highest ever order book of INR 5,132 Cr ensuring clear revenue visibility for the next 15-18 months. Order pipeline of INR 22,000\u002B Cr."
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": 1667700000,
+        "cash_and_investments_usd": null,
+        "dso_days": 114
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": null
+      }
+    },
+    "current_fy": {
+      "period_label": "FY25",
+      "revenue": {
+        "total_inr": 19500000000,
+        "total_usd": null,
+        "cc_growth_pct_yoy": null,
+        "usd_growth_pct_yoy": null
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": 3200000000,
+        "ebitda_margin_pct": 16.12,
+        "ebit_inr": null,
+        "ebit_margin_pct": null,
+        "pat_inr": 1870000000,
+        "pat_usd": null,
+        "pat_margin_pct": 9.45,
+        "basic_eps_inr": null
+      },
+      "order_book": {
+        "tcv_fy": 45040000000,
+        "tcv_growth_pct_yoy": null,
+        "pipeline_commentary": "Order book at INR 5,132 Cr and order pipeline at INR 22,000\u002B Cr."
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": 1667700000,
+        "cash_and_investments_usd": null,
+        "dso_days": 114
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": null
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "TARIL achieved record performance in FY25, exceeding its revenue guidance of INR 2,000 Cr with a group revenue of INR 2,051 Cr and a PAT margin of 10.1%. Standalone revenue grew by 53% YoY to INR 1,950 Cr. EBITDA increased by 149% YoY to INR 320 Cr, with margins expanding to 16.12% from 10.03%. PAT jumped by 325% to INR 187 Cr, with margins improving to 9.45% from 3.24%. Q4 FY25 also saw strong performance with standalone revenue of INR 647 Cr, EBITDA margin of 17.1%, and PAT margin of 11.6%. Key highlights include record production of 29,118 MVA, securing the largest ever single order of INR 740 Cr from GETCO, and raising INR 500 Cr via QIP.",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": "Q4 FY25 saw strong revenue growth of 29% YoY. EBITDA increased significantly by 135% YoY, driven by higher revenues and improved operating leverage. PAT also witnessed substantial growth of 113% YoY, primarily due to higher EBITDA and improved PAT margins.\n\nSuitable Charts:\n1. Bar chart comparing Q4 FY25 revenue, EBITDA, and PAT with Q4 FY24 and Q3 FY25.\n2. Line chart showing the trend of EBITDA and PAT margins over the last few quarters."
+      },
+      "full_year": {
+        "narrative": "FY25 witnessed robust revenue growth of 53% YoY, driven by strong execution and a healthy order book. EBITDA grew by 149% YoY, driven by higher revenues and operating leverage. PAT margins showed significant improvement, increasing from 3.24% in FY24 to 9.45% in FY25, primarily due to higher EBITDA and improved cost efficiencies.\n\nSuitable Charts:\n1. Bar chart comparing FY25 revenue, EBITDA, and PAT with FY24.\n2. Line chart showing the trend of EBITDA and PAT margins over the last few years."
+      }
+    },
+    "segment_geographic_deep_dive": "No specific segment or geographic performance data was available in the provided documents.",
+    "deal_wins_pipeline_quality": "TARIL\u0027s order book stands at a healthy INR 5,132 Cr, providing revenue visibility for the next 15-18 months. The company secured a record order inflow of INR 4,504 Cr in FY25, including a landmark order of INR 740 Cr from GETCO. The order pipeline remains strong at INR 22,000\u002B Cr, indicating continued growth momentum.",
+    "management_commentary_outlook": "Management is optimistic about FY26, targeting an order book input of INR 8,000 Cr. They are focused on margin expansion through operational efficiency, improving return ratios, strengthening backward integration, and becoming debt-free within the next 1-2 years. The company aims to achieve US$1 billion revenue within the next 3 years. Key strategies include strengthening backward integration, investing in automation and digital transformation, and focusing on clean energy solutions. Management expressed confidence in achieving its long-term goals through consistent execution and customer-centric innovation.",
+    "comparison_to_expectations": "TARIL exceeded its revenue guidance of INR 2,000 Cr for FY25, achieving INR 2,051 Cr. No other specific guidance or market expectations were mentioned in the provided documents.",
+    "key_risks_headwinds": "No specific risks or headwinds were explicitly mentioned in the provided documents.",
+    "operational_efficiency": "DSO improved significantly to 114 days from 156 days in FY24.  Utilization is currently at 60-65% and expected to reach 80% in FY26. No information on attrition or headcount changes was provided in the documents."
+  }
+}

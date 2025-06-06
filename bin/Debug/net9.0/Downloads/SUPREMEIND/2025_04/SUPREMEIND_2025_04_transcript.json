@@ -1,0 +1,176 @@
+﻿{
+  "metadata": {
+    "company": "SUPREMEIND",
+    "report_generated_on": "2025-04-30",
+    "source_documents": [
+      {
+        "file_name": "SH132025_Earnings_Call_Transcript.pdf",
+        "type": "Earnings Call Transcript",
+        "period_covered": "Q4 FY25 and FY25",
+        "url": ""
+      },
+      {
+        "file_name": "SH132025_Investor_Presentation.pdf",
+        "type": "Investor Presentation",
+        "period_covered": "FY25",
+        "url": ""
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q4 FY25",
+      "revenue": {
+        "total_inr": 3027.07,
+        "total_usd": null,
+        "cc_growth_pct": {
+          "qoq": 20.61,
+          "yoy": 0.64
+        },
+        "usd_growth_pct": {
+          "qoq": null,
+          "yoy": null
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": 416.81,
+        "ebitda_margin_pct": 13.77,
+        "ebit_inr": 325.46,
+        "ebit_margin_pct": null,
+        "pat_inr": 261.63,
+        "pat_usd": null,
+        "pat_margin_pct": null,
+        "basic_eps_inr": 20.6
+      },
+      "order_book": {
+        "tcv_new_deals": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [
+        {
+          "segment": "Plastic Piping Products",
+          "revenue_inr": 2074,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Industrial Products",
+          "revenue_inr": 346,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Packaging Products",
+          "revenue_inr": 426,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Consumer Products",
+          "revenue_inr": 136,
+          "growth_pct_qoq": null
+        }
+      ],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": null
+      }
+    },
+    "current_fy": {
+      "period_label": "FY25",
+      "revenue": {
+        "total_inr": 10446.25,
+        "total_usd": null,
+        "cc_growth_pct_yoy": 3.08,
+        "usd_growth_pct_yoy": null
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": 1433,
+        "ebitda_margin_pct": 13.72,
+        "ebit_inr": 1074.13,
+        "ebit_margin_pct": null,
+        "pat_inr": 896.8,
+        "pat_usd": null,
+        "pat_margin_pct": null,
+        "basic_eps_inr": 70.6
+      },
+      "order_book": {
+        "tcv_fy": null,
+        "tcv_growth_pct_yoy": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": 944,
+        "cash_and_investments_usd": null,
+        "dso_days": 29
+      },
+      "segment_performance": [
+        {
+          "segment": "Plastic Piping Products",
+          "revenue_inr": 7035,
+          "growth_pct_yoy": null
+        },
+        {
+          "segment": "Industrial Products",
+          "revenue_inr": 1313,
+          "growth_pct_yoy": null
+        },
+        {
+          "segment": "Packaging Products",
+          "revenue_inr": 1592,
+          "growth_pct_yoy": null
+        },
+        {
+          "segment": "Consumer Products",
+          "revenue_inr": 444,
+          "growth_pct_yoy": null
+        }
+      ],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": 6000,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": 34
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": ""
+      },
+      "full_year": {
+        "narrative": ""
+      }
+    },
+    "segment_geographic_deep_dive": "",
+    "deal_wins_pipeline_quality": "",
+    "management_commentary_outlook": "",
+    "comparison_to_expectations": "",
+    "key_risks_headwinds": "",
+    "operational_efficiency": ""
+  }
+}

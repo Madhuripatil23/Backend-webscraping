@@ -1,0 +1,156 @@
+﻿{
+  "metadata": {
+    "company": "TANLA",
+    "report_generated_on": "2025-05-01",
+    "source_documents": [
+      {
+        "file_name": "Tanla Platforms Limited Q4FY25 Earnings Conference Call Transcript.pdf",
+        "type": "Earnings Call Transcript",
+        "period_covered": "Q4 FY25 and Full Year FY25",
+        "url": ""
+      },
+      {
+        "file_name": "Tanla Platforms Limited Investor Update Q4 FY25 and Full Year FY25.pdf",
+        "type": "Investor Presentation",
+        "period_covered": "Q4 FY25 and Full Year FY25",
+        "url": ""
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q4 FY25",
+      "revenue": {
+        "total_inr": 10244,
+        "total_usd": null,
+        "cc_growth_pct": {
+          "qoq": 2.4,
+          "yoy": 1.9
+        },
+        "usd_growth_pct": {
+          "qoq": null,
+          "yoy": null
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": 25.3,
+        "ebitda_inr": 1635,
+        "ebitda_margin_pct": 16,
+        "ebit_inr": 1364,
+        "ebit_margin_pct": 13.3,
+        "pat_inr": 1173,
+        "pat_usd": null,
+        "pat_margin_pct": 11.5,
+        "basic_eps_inr": 8.74
+      },
+      "order_book": {
+        "tcv_new_deals": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": 1.46,
+        "fcf_to_pat_ratio": 1.46,
+        "cash_and_investments_inr": 10085,
+        "cash_and_investments_usd": null,
+        "dso_days": 72
+      },
+      "segment_performance": [
+        {
+          "segment": "Digital Platforms",
+          "revenue_inr": 938,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Enterprise Communications",
+          "revenue_inr": 9306,
+          "growth_pct_qoq": null
+        }
+      ],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": 6
+      }
+    },
+    "current_fy": {
+      "period_label": "FY25",
+      "revenue": {
+        "total_inr": 40277,
+        "total_usd": null,
+        "cc_growth_pct_yoy": 2.5,
+        "usd_growth_pct_yoy": null
+      },
+      "profitability": {
+        "gross_margin_pct": 26.1,
+        "ebitda_inr": 6908,
+        "ebitda_margin_pct": 17.2,
+        "ebit_inr": 5931,
+        "ebit_margin_pct": null,
+        "pat_inr": 5073,
+        "pat_usd": null,
+        "pat_margin_pct": 12.6,
+        "basic_eps_inr": 37.76
+      },
+      "order_book": {
+        "tcv_fy": null,
+        "tcv_growth_pct_yoy": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": 1.01,
+        "fcf_to_pat_ratio": 1.01,
+        "cash_and_investments_inr": 10085,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [
+        {
+          "segment": "Digital Platforms",
+          "revenue_inr": 3640,
+          "growth_pct_yoy": -1.3
+        },
+        {
+          "segment": "Enterprise Communications",
+          "revenue_inr": 36637,
+          "growth_pct_yoy": 2.9
+        }
+      ],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": null
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": ""
+      },
+      "full_year": {
+        "narrative": ""
+      }
+    },
+    "segment_geographic_deep_dive": "",
+    "deal_wins_pipeline_quality": "",
+    "management_commentary_outlook": "",
+    "comparison_to_expectations": "",
+    "key_risks_headwinds": "",
+    "operational_efficiency": ""
+  }
+}

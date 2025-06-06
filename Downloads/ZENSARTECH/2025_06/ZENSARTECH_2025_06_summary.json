@@ -1,0 +1,155 @@
+{
+  "metadata": {
+    "company": "ZENSARTECH",
+    "report_generated_on": "2025-04-26",
+    "source_documents": [
+      {
+        "file_name": "Zensar Technologies Limited Q4 FY \u002725 Earnings Conference Call Transcript - April 25, 2025.pdf",
+        "type": "Earnings Call Transcript",
+        "period_covered": "Q4 FY25",
+        "url": ""
+      },
+      {
+        "file_name": "Zensar Technologies Limited_RPG Annual Investor Conference 2025_June 2, 2025.pdf",
+        "type": "Investor Presentation",
+        "period_covered": "FY25",
+        "url": ""
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q4 FY25",
+      "revenue": {
+        "total_inr": null,
+        "total_usd": 156.8,
+        "cc_growth_pct": {
+          "qoq": 0.9,
+          "yoy": 6.3
+        },
+        "usd_growth_pct": {
+          "qoq": null,
+          "yoy": null
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": 30.3,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": 15.6,
+        "ebit_inr": null,
+        "ebit_margin_pct": null,
+        "pat_inr": null,
+        "pat_usd": null,
+        "pat_margin_pct": 13,
+        "basic_eps_inr": null
+      },
+      "order_book": {
+        "tcv_new_deals": 213.5,
+        "pipeline_commentary": "Healthy traction, AI-led pipeline continues to grow."
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [
+        {
+          "segment": "Telecom, Media and Technology",
+          "revenue_inr": null,
+          "growth_pct_qoq": 1.7
+        },
+        {
+          "segment": "Banking and Financial Services",
+          "revenue_inr": null,
+          "growth_pct_qoq": 3.4
+        },
+        {
+          "segment": "Health care",
+          "revenue_inr": null,
+          "growth_pct_qoq": -1.4
+        },
+        {
+          "segment": "Manufacturing \u0026 Consumer Services",
+          "revenue_inr": null,
+          "growth_pct_qoq": -2.6
+        }
+      ],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": 185,
+        "attrition_pct_ttm": 9.9,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": 11
+      }
+    },
+    "current_fy": {
+      "period_label": "FY25",
+      "revenue": {
+        "total_inr": null,
+        "total_usd": 624.5,
+        "cc_growth_pct_yoy": 5.1,
+        "usd_growth_pct_yoy": 5.4
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": 15.5,
+        "ebit_inr": null,
+        "ebit_margin_pct": null,
+        "pat_inr": null,
+        "pat_usd": null,
+        "pat_margin_pct": 12.3,
+        "basic_eps_inr": null
+      },
+      "order_book": {
+        "tcv_fy": 774.6,
+        "tcv_growth_pct_yoy": 17.6,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": 290.5,
+        "dso_days": null
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": 10700,
+        "net_additions_yoy": 353,
+        "attrition_pct_ttm": 9.9,
+        "utilization_excl_trainees_pct": 84.6
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": 13
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "ZENSARTECH reported solid Q4 FY25 and FY25 results, with overall growth across geographies and sustained profitability. Q4 FY25 revenue was $156.8M, up 0.9% QoQ and 6.3% YoY in CC terms. FY25 revenue reached $624.5M, a 5.4% YoY increase (5.1% in CC). EBITDA margin remained stable at 15.6% in Q4 and 15.5% for FY25, while PAT margin was 13% in Q4 and 12.3% for the full year. Order book remained strong at $213.5M in Q4 and $774.6M for FY25, reflecting healthy traction and a growing AI-led pipeline.",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": "Q4 FY25 showed growth across most key metrics compared to both Q3 FY25 and Q4 FY24. Revenue grew by 0.9% QoQ and 6.3% YoY in CC.  EBITDA margin remained stable at 15.6%. PAT margin reached 13%. A bar chart would effectively visualize the QoQ and YoY revenue growth, while line charts could track margin trends."
+      },
+      "full_year": {
+        "narrative": "FY25 demonstrated overall revenue growth of 5.4% YoY and stable operating margins around the mid-teens. Key factors influencing this performance include cost management efforts, improved utilization, and sustained order book growth. A bar chart comparing FY25 revenue and profitability with previous years would provide a clear visual representation."
+      }
+    },
+    "segment_geographic_deep_dive": "In Q4 FY25, Telecom, Media and Technology grew by 1.7% QoQ, BFSI by 3.4% QoQ, while Healthcare and Manufacturing \u0026 Consumer Services declined by 1.4% and 2.6% QoQ, respectively.  No specific geographic performance data was provided. Management highlighted deeper farming efforts leading to a key customer moving into the $20M\u002B bucket.",
+    "deal_wins_pipeline_quality": "ZENSARTECH maintains a healthy order book and deal pipeline. The order book reached $213.5M in Q4, the third consecutive quarter exceeding $200M.  The company secured a large infrastructure deal with Tesco. Management noted a rightward shift in demand towards the end of Q4 due to macro uncertainties, but the AI-led pipeline continues to grow.",
+    "management_commentary_outlook": "Management acknowledges macro uncertainties and a cautious client sentiment. While they expect growth in Q1 FY26, they are cautious about providing definitive guidance due to the volatile environment. They emphasize their focus on execution and client-centric approach. They also highlight their strategic focus on verticalization, deepening service lines, and investing in AI solutions.",
+    "comparison_to_expectations": "",
+    "key_risks_headwinds": "Management cited macro uncertainties, including tariff concerns, geopolitical situations, and cautious client sentiment, as key risks and headwinds. They noted a rightward shift in demand due to these uncertainties.",
+    "operational_efficiency": "Voluntary attrition decreased to 9.9% in Q4 FY25. Utilization improved by 170 bps QoQ and 90 bps YoY.  The company added 353 employees net in FY25, with continued rigor in fulfillment and capability enrichment. Management mentioned the impact of furloughs on Q4 and FY25 results."
+  }
+}

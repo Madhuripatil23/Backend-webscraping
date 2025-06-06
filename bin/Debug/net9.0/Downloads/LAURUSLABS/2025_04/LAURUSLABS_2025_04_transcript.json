@@ -1,0 +1,166 @@
+﻿{
+  "metadata": {
+    "company": "LAURUSLABS",
+    "report_generated_on": "2025-04-28",
+    "source_documents": [
+      {
+        "file_name": "Laurus Labs Limited Q4 FY25 Earnings Conference Call Transcript - April 24, 2025.pdf",
+        "type": "Earnings Call Transcript",
+        "period_covered": "Q4 FY25",
+        "url": ""
+      },
+      {
+        "file_name": "Laurus Labs Limited FY25 Results Presentation - April 24, 2025.pdf",
+        "type": "Investor Presentation",
+        "period_covered": "FY25",
+        "url": ""
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q4 FY25",
+      "revenue": {
+        "total_inr": 1720,
+        "total_usd": null,
+        "cc_growth_pct": {
+          "qoq": null,
+          "yoy": 19
+        },
+        "usd_growth_pct": {
+          "qoq": null,
+          "yoy": null
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": 54.5,
+        "ebitda_inr": 477,
+        "ebitda_margin_pct": 27.7,
+        "ebit_inr": null,
+        "ebit_margin_pct": null,
+        "pat_inr": 234,
+        "pat_usd": null,
+        "pat_margin_pct": 13.6,
+        "basic_eps_inr": 4.3
+      },
+      "order_book": {
+        "tcv_new_deals": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": 100,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [
+        {
+          "segment": "CDMO - Small Molecules",
+          "revenue_inr": 461,
+          "growth_pct_qoq": 15
+        },
+        {
+          "segment": "CDMO - Bio",
+          "revenue_inr": 29,
+          "growth_pct_qoq": -40
+        },
+        {
+          "segment": "Generics - API",
+          "revenue_inr": 686,
+          "growth_pct_qoq": 29
+        },
+        {
+          "segment": "Generics - FDF",
+          "revenue_inr": 544,
+          "growth_pct_qoq": 25
+        }
+      ],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": 0.8
+      }
+    },
+    "current_fy": {
+      "period_label": "FY25",
+      "revenue": {
+        "total_inr": 5554,
+        "total_usd": null,
+        "cc_growth_pct_yoy": 10,
+        "usd_growth_pct_yoy": null
+      },
+      "profitability": {
+        "gross_margin_pct": 55.4,
+        "ebitda_inr": 1115,
+        "ebitda_margin_pct": 20.1,
+        "ebit_inr": null,
+        "ebit_margin_pct": null,
+        "pat_inr": 358,
+        "pat_usd": null,
+        "pat_margin_pct": 6.4,
+        "basic_eps_inr": 6.6
+      },
+      "order_book": {
+        "tcv_fy": null,
+        "tcv_growth_pct_yoy": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [
+        {
+          "segment": "CDMO",
+          "revenue_inr": 1534,
+          "growth_pct_yoy": 42
+        },
+        {
+          "segment": "Generics",
+          "revenue_inr": 4020,
+          "growth_pct_yoy": 2
+        }
+      ],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": 7042,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": null
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": ""
+      },
+      "full_year": {
+        "narrative": ""
+      }
+    },
+    "segment_geographic_deep_dive": "",
+    "deal_wins_pipeline_quality": "",
+    "management_commentary_outlook": "",
+    "comparison_to_expectations": "",
+    "key_risks_headwinds": "",
+    "operational_efficiency": ""
+  }
+}

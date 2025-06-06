@@ -1,0 +1,134 @@
+﻿{
+  "metadata": {
+    "company": "HUHTAMAKI",
+    "report_generated_on": "2025-04-29",
+    "source_documents": [
+      {
+        "file_name": "HUHTAMAKI_Earnings Call Transcript_Q1_2025.pdf",
+        "type": "Earnings Call Transcript",
+        "period_covered": "Q1 2025",
+        "url": ""
+      },
+      {
+        "file_name": "HUHTAMAKI_Investor Presentation_Q1_2025.pdf",
+        "type": "Investor Presentation",
+        "period_covered": "Q1 2025",
+        "url": ""
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q1 2025",
+      "revenue": {
+        "total_inr": 5930.4,
+        "total_usd": null,
+        "cc_growth_pct": {
+          "qoq": null,
+          "yoy": null
+        },
+        "usd_growth_pct": {
+          "qoq": null,
+          "yoy": null
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": 497.5,
+        "ebitda_margin_pct": 8.4,
+        "ebit_inr": 370.7,
+        "ebit_margin_pct": 6.3,
+        "pat_inr": 261.5,
+        "pat_usd": null,
+        "pat_margin_pct": null,
+        "basic_eps_inr": 3.46
+      },
+      "order_book": {
+        "tcv_new_deals": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": null
+      }
+    },
+    "current_fy": {
+      "period_label": null,
+      "revenue": {
+        "total_inr": null,
+        "total_usd": null,
+        "cc_growth_pct_yoy": null,
+        "usd_growth_pct_yoy": null
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": null,
+        "ebit_margin_pct": null,
+        "pat_inr": null,
+        "pat_usd": null,
+        "pat_margin_pct": null,
+        "basic_eps_inr": null
+      },
+      "order_book": {
+        "tcv_fy": null,
+        "tcv_growth_pct_yoy": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": null
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "Huhtamaki India reported flat revenue and slightly improved EBITDA for Q1 2025 compared to Q1 2024, despite lower volumes both QoQ and YoY. Margins improved QoQ due to a better sales mix.  PBT and EPS were slightly lower YoY.",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": "Q1 2025 net sales (INR 5930.4 cr) were marginally lower QoQ (vs. INR 6012 cr in Q4 2024) and nearly flat YoY (vs. INR 5936.5 cr in Q1 2024). EBIT (INR 370.7 cr) increased significantly QoQ (vs. INR 182 cr in Q4 2024) but decreased YoY (vs. INR 398.5 cr in Q1 2024). EBIT margin followed a similar trend at 6.3%, up from 3.0% in Q4 2024 but down from 6.7% in Q1 2024. PAT also followed this trend. A bar chart would effectively visualize the QoQ and YoY comparisons for revenue, EBIT, and PAT. Line charts could illustrate the margin trends over the quarters.\nThe drivers for these changes include lower sales volumes, improved sales mix leading to higher margins QoQ, and cost optimization initiatives contributing to higher profitability QoQ despite lower volumes."
+      },
+      "full_year": {
+        "narrative": ""
+      }
+    },
+    "segment_geographic_deep_dive": "",
+    "deal_wins_pipeline_quality": "",
+    "management_commentary_outlook": "Management highlighted the challenging and volatile market environment and muted consumer sentiment, particularly in urban areas, as impacting performance. They emphasized a focus on efficiency measures, a strategic shift towards a more profitable portfolio mix, and driving profitable volume growth as key priorities. They expressed confidence in navigating the current challenges and achieving long-term sustainable growth.",
+    "comparison_to_expectations": "",
+    "key_risks_headwinds": "Key headwinds mentioned include muted consumer sentiments, volatile market conditions, and challenging urban demand. Management also noted subdued consumption patterns in the market.",
+    "operational_efficiency": "The company is focusing on efficiency measures across the organization, including world-class operations, cost control, and operating expense management. While employee costs remain a focus area for improvement through digitalization and IT infrastructure enhancements, specific data on DSO, utilization, and attrition was not provided."
+  }
+}

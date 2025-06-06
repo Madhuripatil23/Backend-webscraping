@@ -1,0 +1,605 @@
+{
+  "type": "object",
+  "properties": {
+    "metadata": {
+      "type": "object",
+      "properties": {
+        "company": {
+          "type": "string"
+        },
+        "report_generated_on": {
+          "type": "string",
+          "format": "date"
+        },
+        "source_documents": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "file_name": {
+                "type": "string"
+              },
+              "type": {
+                "type": "string"
+              },
+              "period_covered": {
+                "type": "string"
+              },
+              "url": {
+                "type": "string"
+              }
+            },
+            "required": []
+          }
+        },
+        "base_currency": {
+          "type": "object",
+          "properties": {
+            "inr": {
+              "type": "string"
+            },
+            "usd": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "inr",
+            "usd"
+          ]
+        }
+      },
+      "required": [
+        "company",
+        "report_generated_on",
+        "base_currency"
+      ]
+    },
+    "data_extraction": {
+      "type": "object",
+      "properties": {
+        "latest_quarter": {
+          "type": "object",
+          "properties": {
+            "period_label": {
+              "type": "string"
+            },
+            "revenue": {
+              "type": "object",
+              "properties": {
+                "total_inr": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "total_usd": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "cc_growth_pct": {
+                  "type": "object",
+                  "properties": {
+                    "qoq": {
+                      "type": [
+                        "number",
+                        "null"
+                      ]
+                    },
+                    "yoy": {
+                      "type": [
+                        "number",
+                        "null"
+                      ]
+                    }
+                  }
+                },
+                "usd_growth_pct": {
+                  "type": "object",
+                  "properties": {
+                    "qoq": {
+                      "type": [
+                        "number",
+                        "null"
+                      ]
+                    },
+                    "yoy": {
+                      "type": [
+                        "number",
+                        "null"
+                      ]
+                    }
+                  }
+                }
+              }
+            },
+            "profitability": {
+              "type": "object",
+              "properties": {
+                "gross_margin_pct": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "ebitda_inr": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "ebitda_margin_pct": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "ebit_inr": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "ebit_margin_pct": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "pat_inr": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "pat_usd": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "pat_margin_pct": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "basic_eps_inr": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                }
+              }
+            },
+            "order_book": {
+              "type": "object",
+              "properties": {
+                "tcv_new_deals": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "pipeline_commentary": {
+                  "type": "string"
+                }
+              }
+            },
+            "cash_flow_balance_sheet": {
+              "type": "object",
+              "properties": {
+                "ocf_to_pat_ratio": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "fcf_to_pat_ratio": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "cash_and_investments_inr": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "cash_and_investments_usd": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "dso_days": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                }
+              }
+            },
+            "segment_performance": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "segment": {
+                    "type": "string"
+                  },
+                  "revenue_inr": {
+                    "type": [
+                      "number",
+                      "null"
+                    ]
+                  },
+                  "growth_pct_qoq": {
+                    "type": [
+                      "number",
+                      "null"
+                    ]
+                  }
+                }
+              }
+            },
+            "geographic_performance": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "region": {
+                    "type": "string"
+                  },
+                  "revenue_inr": {
+                    "type": [
+                      "number",
+                      "null"
+                    ]
+                  },
+                  "growth_pct_qoq": {
+                    "type": [
+                      "number",
+                      "null"
+                    ]
+                  }
+                }
+              }
+            },
+            "headcount_metrics": {
+              "type": "object",
+              "properties": {
+                "total_headcount": {
+                  "type": [
+                    "integer",
+                    "null"
+                  ]
+                },
+                "net_additions_yoy": {
+                  "type": [
+                    "integer",
+                    "null"
+                  ]
+                },
+                "attrition_pct_ttm": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "utilization_excl_trainees_pct": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                }
+              }
+            },
+            "dividend": {
+              "type": "object",
+              "properties": {
+                "final_dividend_per_share_inr": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "current_fy": {
+          "type": "object",
+          "properties": {
+            "period_label": {
+              "type": "string"
+            },
+            "revenue": {
+              "type": "object",
+              "properties": {
+                "total_inr": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "total_usd": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "cc_growth_pct_yoy": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "usd_growth_pct_yoy": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                }
+              }
+            },
+            "profitability": {
+              "type": "object",
+              "properties": {
+                "gross_margin_pct": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "ebitda_inr": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "ebitda_margin_pct": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "ebit_inr": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "ebit_margin_pct": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "pat_inr": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "pat_usd": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "pat_margin_pct": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "basic_eps_inr": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                }
+              }
+            },
+            "order_book": {
+              "type": "object",
+              "properties": {
+                "tcv_fy": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "tcv_growth_pct_yoy": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "pipeline_commentary": {
+                  "type": "string"
+                }
+              }
+            },
+            "cash_flow_balance_sheet": {
+              "type": "object",
+              "properties": {
+                "ocf_to_pat_ratio": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "fcf_to_pat_ratio": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "cash_and_investments_inr": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "cash_and_investments_usd": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "dso_days": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                }
+              }
+            },
+            "segment_performance": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "segment": {
+                    "type": "string"
+                  },
+                  "revenue_inr": {
+                    "type": [
+                      "number",
+                      "null"
+                    ]
+                  },
+                  "growth_pct_yoy": {
+                    "type": [
+                      "number",
+                      "null"
+                    ]
+                  }
+                }
+              }
+            },
+            "geographic_performance": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "region": {
+                    "type": "string"
+                  },
+                  "revenue_inr": {
+                    "type": [
+                      "number",
+                      "null"
+                    ]
+                  },
+                  "growth_pct_yoy": {
+                    "type": [
+                      "number",
+                      "null"
+                    ]
+                  }
+                }
+              }
+            },
+            "headcount_metrics": {
+              "type": "object",
+              "properties": {
+                "total_headcount": {
+                  "type": [
+                    "integer",
+                    "null"
+                  ]
+                },
+                "net_additions_yoy": {
+                  "type": [
+                    "integer",
+                    "null"
+                  ]
+                },
+                "attrition_pct_ttm": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "utilization_excl_trainees_pct": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                }
+              }
+            },
+            "dividend": {
+              "type": "object",
+              "properties": {
+                "total_dividend_per_share_inr": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "financial_analysis": {
+      "type": "object",
+      "properties": {
+        "performance_summary": {
+          "type": "string"
+        },
+        "trend_analysis": {
+          "type": "object",
+          "properties": {
+            "latest_quarter": {
+              "type": "object",
+              "properties": {
+                "narrative": {
+                  "type": "string"
+                }
+              }
+            },
+            "full_year": {
+              "type": "object",
+              "properties": {
+                "narrative": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        },
+        "segment_geographic_deep_dive": {
+          "type": "string"
+        },
+        "deal_wins_pipeline_quality": {
+          "type": "string"
+        },
+        "management_commentary_outlook": {
+          "type": "string"
+        },
+        "comparison_to_expectations": {
+          "type": "string"
+        },
+        "key_risks_headwinds": {
+          "type": "string"
+        },
+        "operational_efficiency": {
+          "type": "string"
+        }
+      }
+    }
+  },
+  "required": [
+    "metadata",
+    "data_extraction",
+    "financial_analysis"
+  ]
+}

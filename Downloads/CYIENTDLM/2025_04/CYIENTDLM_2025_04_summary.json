@@ -1,0 +1,155 @@
+{
+  "metadata": {
+    "company": "CYIENTDLM",
+    "report_generated_on": "2025-04-24",
+    "source_documents": [
+      {
+        "file_name": "CYIENT DLM Limited_Earnings Call Transcript_Q4FY25.pdf",
+        "type": "Earnings Call Transcript",
+        "period_covered": "Q4 FY25",
+        "url": ""
+      },
+      {
+        "file_name": "CYIENT DLM Limited_Investor Presentation_Q4FY25.pdf",
+        "type": "Investor Presentation",
+        "period_covered": "Q4 FY25",
+        "url": ""
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q4 FY25",
+      "revenue": {
+        "total_inr": 4281,
+        "total_usd": null,
+        "cc_growth_pct": {
+          "qoq": null,
+          "yoy": 18.3
+        },
+        "usd_growth_pct": {
+          "qoq": null,
+          "yoy": null
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": 574,
+        "ebitda_margin_pct": 13.4,
+        "ebit_inr": null,
+        "ebit_margin_pct": null,
+        "pat_inr": 310,
+        "pat_usd": null,
+        "pat_margin_pct": 7.3,
+        "basic_eps_inr": null
+      },
+      "order_book": {
+        "tcv_new_deals": null,
+        "pipeline_commentary": "Robust pipeline expected to convert into orders quickly."
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": 76
+      },
+      "segment_performance": [
+        {
+          "segment": "Aerospace",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Defense",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Industrial",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Med-Tech",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        }
+      ],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": null
+      }
+    },
+    "current_fy": {
+      "period_label": "FY25",
+      "revenue": {
+        "total_inr": 15196,
+        "total_usd": null,
+        "cc_growth_pct_yoy": 27.5,
+        "usd_growth_pct_yoy": null
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": 1452,
+        "ebitda_margin_pct": 9.6,
+        "ebit_inr": null,
+        "ebit_margin_pct": null,
+        "pat_inr": 740,
+        "pat_usd": null,
+        "pat_margin_pct": 4.9,
+        "basic_eps_inr": null
+      },
+      "order_book": {
+        "tcv_fy": 19061,
+        "tcv_growth_pct_yoy": null,
+        "pipeline_commentary": "Robust pipeline, with several key opportunities."
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": null
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "CYIENTDLM reported strong Q4 FY25 results with significant margin expansion, primarily driven by favorable business mix and one-off gains. Full year FY25 revenue grew by 27.5% YoY, driven by acquisitions and growth in key sectors. However, order backlog declined both QoQ and YoY, posing a challenge for future growth.",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": "Q4 FY25 revenue grew by 18.3% YoY, driven by strong performance in Aerospace and acquisitions. EBITDA margin expanded significantly to 13.4%, benefiting from favorable mix and one-off gains. PAT margin also improved to 7.3%. Order backlog declined QoQ, primarily due to completion of a large order from an Indian customer. Suitable charts would include bar charts comparing Q4 FY25 performance with Q4 FY24 and Q3 FY25 for revenue, EBITDA, and PAT, as well as line charts showing margin trends over the past few quarters."
+      },
+      "full_year": {
+        "narrative": "FY25 revenue grew by 27.5% YoY, driven by acquisitions and organic growth in key sectors. Adjusted EBITDA margin expanded to 9.6%, while adjusted PAT margin reached 4.9%. Order backlog declined YoY. Operating margin trajectory was positive over FY25, driven by favorable mix and operational efficiency. Key influencing factors include acquisitions, completion of large orders, and ongoing supply chain uncertainties."
+      }
+    },
+    "segment_geographic_deep_dive": "Aerospace segment witnessed strong growth in FY25, while Defense segment declined due to completion of a large order. Industrial and Med-Tech segments benefited from acquisitions. Geographic performance details were not available in the provided documents.",
+    "deal_wins_pipeline_quality": "CYIENTDLM added six new logos in FY25, including key players in various industries. The company has a robust pipeline, with several key opportunities, particularly in the US market, driven by the Altek acquisition and increasing interest in diversifying supply chains away from China.",
+    "management_commentary_outlook": "Management expects a soft start to FY26, followed by recovery and a good year overall. They are confident in the robust pipeline and expect it to convert into orders quickly. They also highlighted the opportunities arising from US tariffs and the company\u0027s strategic positioning to benefit from the \u0022China Plus One\u0022 trend. Management refrained from providing specific guidance for FY26 due to market uncertainties.",
+    "comparison_to_expectations": "",
+    "key_risks_headwinds": "Key risks and headwinds include supply chain vulnerabilities, geopolitical tensions, trade restrictions, and potential delays in order conversion. Management is addressing these uncertainties through supply chain diversification, leveraging government policies, and expanding domestic market presence.",
+    "operational_efficiency": "DSO remained relatively stable in Q4 FY25.  Information on utilization and attrition was not available in the provided documents. The company generated positive free cash flow in Q4 FY25, driven by improvements in working capital management."
+  }
+}

@@ -1,0 +1,134 @@
+﻿{
+  "metadata": {
+    "company": "Shilchar Technologies Limited",
+    "report_generated_on": "2024-04-26",
+    "source_documents": [
+      {
+        "file_name": "shilchar-technologies-q4fy25-transcript.pdf",
+        "type": "Earnings Call Transcript",
+        "period_covered": "Q4 FY25",
+        "url": "https://shilchar.com/upload/power_investor_relations/shilchar-technologies-q4fy25-transcript.pdf"
+      },
+      {
+        "file_name": null,
+        "type": "Investor Presentation",
+        "period_covered": "Q4 FY25",
+        "url": null
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q4 FY25",
+      "revenue": {
+        "total_inr": 231.86,
+        "total_usd": null,
+        "cc_growth_pct": {
+          "qoq": null,
+          "yoy": null
+        },
+        "usd_growth_pct": {
+          "qoq": null,
+          "yoy": null
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": 71.24,
+        "ebitda_margin_pct": 30.7,
+        "ebit_inr": null,
+        "ebit_margin_pct": null,
+        "pat_inr": 55.36,
+        "pat_usd": null,
+        "pat_margin_pct": 23,
+        "basic_eps_inr": 72.59
+      },
+      "order_book": {
+        "tcv_new_deals": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": 100
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": 12.5
+      }
+    },
+    "current_fy": {
+      "period_label": "FY25",
+      "revenue": {
+        "total_inr": 623.15,
+        "total_usd": null,
+        "cc_growth_pct_yoy": null,
+        "usd_growth_pct_yoy": null
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": 184.75,
+        "ebitda_margin_pct": 29.6,
+        "ebit_inr": null,
+        "ebit_margin_pct": null,
+        "pat_inr": 146.85,
+        "pat_usd": null,
+        "pat_margin_pct": 23,
+        "basic_eps_inr": 192.55
+      },
+      "order_book": {
+        "tcv_fy": 400,
+        "tcv_growth_pct_yoy": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": 29.82,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": 77
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": null
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "Shilchar Technologies reported strong financial performance in Q4 FY25 and FY25, exceeding expectations. The company achieved full capacity utilization in Q4, ahead of schedule. Revenue and profitability reached record highs, driven by robust growth in both domestic and export markets. The company maintains a strong profitability profile with healthy gross and operating margins.  A final dividend of \u20B912.5 per share and a bonus issue of 1:2 have been recommended.",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": "Q4 FY25 saw substantial YoY growth in revenue (120%) and PAT (121%). EBITDA also increased significantly (127% YoY), with margins expanding by 99 bps to 30.7%.  A bar chart would effectively illustrate the revenue, EBITDA, and PAT growth across Q4 FY24, Q3 FY25, and Q4 FY25. A line chart would be suitable to visualize the trend in EBITDA margin over the same period."
+      },
+      "full_year": {
+        "narrative": "FY25 performance showed strong YoY growth, with revenue up 57% and PAT up 60%. EBITDA increased by 63% YoY, and EBITDA margin expanded by 110 bps to 29.6%. The trajectory of operating margins has been positive throughout FY25.  A bar chart could compare FY24 and FY25 revenue, EBITDA, and PAT. A line chart would effectively display the EBITDA margin trend over the two financial years."
+      }
+    },
+    "segment_geographic_deep_dive": "The domestic business experienced higher growth in FY25, leading to a greater share of domestic revenue. North American sales represent less than 20% of total revenue. The majority of export sales are concentrated in the Middle East and North Africa. The company exports a diverse range of transformers, including IDTs and distribution transformers.",
+    "deal_wins_pipeline_quality": "The company has a healthy order book of approximately \u20B9400 crore.  Demand is strong in both domestic and export markets, with inquiries exceeding current capacity. The company is experiencing favorable market dynamics, with limited supply and strong demand creating a positive pricing environment.",
+    "management_commentary_outlook": "Management is optimistic about the future, anticipating continued growth in both domestic and export markets. They expect higher growth in the domestic market in the next financial year.  The company is considering further capacity expansion and is actively evaluating plans for higher MVA and higher kV class transformers.  Management is focused on maintaining operational excellence and achieving growth objectives.  They are targeting around \u20B9750 crore in sales for FY26.",
+    "comparison_to_expectations": "",
+    "key_risks_headwinds": "Management mentioned the potential risk of reciprocal tariffs on transformer exports from India to the US. While there is no immediate impact, the company is closely monitoring the situation. The company is also aware of the increasing capacity in the transformer industry, which could lead to increased competition in the next few years.",
+    "operational_efficiency": "The company achieved 100% capacity utilization in Q4 FY25, well ahead of the FY26 target. Full-year utilization was at 77%.  The company employs a domestic supply chain with an assembly focus, outsourcing lower value-add components. This strategy prioritizes quick order fulfillment and turnaround time.  DSO appears high, but this is due to the use of 180-day LCs, which the company chooses not to encash early due to sufficient cash flow.  No information on headcount changes, fresher onboarding, or attrition was provided."
+  }
+}

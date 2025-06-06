@@ -1,0 +1,134 @@
+﻿{
+  "metadata": {
+    "company": "Waaree Renewable Technologies Limited",
+    "report_generated_on": "2024-04-17",
+    "source_documents": [
+      {
+        "file_name": "WAAREE RTL Q4 \u0026 FY25 Earnings Conference Call Transcript.pdf",
+        "type": "Earnings Call Transcript",
+        "period_covered": "Q4 \u0026 FY2025",
+        "url": ""
+      },
+      {
+        "file_name": "WAAREE RTL Q4 \u0026 FY25 Earnings Presentation.pdf",
+        "type": "Investor Presentation",
+        "period_covered": "Q4 \u0026 FY2025",
+        "url": ""
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q4 FY2025",
+      "revenue": {
+        "total_inr": 476.58,
+        "total_usd": null,
+        "cc_growth_pct": {
+          "qoq": null,
+          "yoy": null
+        },
+        "usd_growth_pct": {
+          "qoq": null,
+          "yoy": null
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": 126.33,
+        "ebitda_margin_pct": 26.51,
+        "ebit_inr": null,
+        "ebit_margin_pct": null,
+        "pat_inr": 93.77,
+        "pat_usd": null,
+        "pat_margin_pct": 19.67,
+        "basic_eps_inr": 9.00
+      },
+      "order_book": {
+        "tcv_new_deals": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": 78.76,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": null
+      }
+    },
+    "current_fy": {
+      "period_label": "FY2025",
+      "revenue": {
+        "total_inr": 1597.75,
+        "total_usd": null,
+        "cc_growth_pct_yoy": null,
+        "usd_growth_pct_yoy": 82.29
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": 310.90,
+        "ebitda_margin_pct": 19.46,
+        "ebit_inr": null,
+        "ebit_margin_pct": null,
+        "pat_inr": 228.92,
+        "pat_usd": null,
+        "pat_margin_pct": 14.33,
+        "basic_eps_inr": 22.0
+      },
+      "order_book": {
+        "tcv_fy": null,
+        "tcv_growth_pct_yoy": null,
+        "pipeline_commentary": "Unexecuted order book stood at 3.2 GWp."
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": 26.79,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": null
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": ""
+      },
+      "full_year": {
+        "narrative": ""
+      }
+    },
+    "segment_geographic_deep_dive": "",
+    "deal_wins_pipeline_quality": "",
+    "management_commentary_outlook": "",
+    "comparison_to_expectations": "",
+    "key_risks_headwinds": "",
+    "operational_efficiency": ""
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "metadata": {
+    "company": "HCLTECH",
+    "report_generated_on": "2025-04-25",
+    "source_documents": [
+      {
+        "file_name": "HCL Technologies Ltd_Earnings Call Transcript_Q4 2025.pdf",
+        "type": "Earnings Call Transcript",
+        "period_covered": "Q4 2025",
+        "url": ""
+      },
+      {
+        "file_name": "HCL Technologies Ltd_Earnings Presentation_Q4 2025.pdf",
+        "type": "Investor Presentation",
+        "period_covered": "Q4 2025",
+        "url": ""
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q4 FY25",
+      "revenue": {
+        "total_inr": 30246,
+        "total_usd": 3498,
+        "cc_growth_pct": {
+          "qoq": -0.8,
+          "yoy": 2.9
+        },
+        "usd_growth_pct": {
+          "qoq": -1.0,
+          "yoy": 2.0
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": 6482,
+        "ebitda_margin_pct": 21.4,
+        "ebit_inr": 5442,
+        "ebit_margin_pct": 18.0,
+        "pat_inr": 4307,
+        "pat_usd": 496,
+        "pat_margin_pct": 14.2,
+        "basic_eps_inr": 64.16
+      },
+      "order_book": {
+        "tcv_new_deals": 3000,
+        "pipeline_commentary": "Pipeline continues to be near all-time high, supported by multiple deals across ITBS, ERS, and HCL Software. Al and GenAl are integral components of almost every deal. Both Americas and Europe have shown considerable growth."
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": 8245,
+        "cash_and_investments_usd": 964,
+        "dso_days": 80
+      },
+      "segment_performance": [
+        {
+          "segment": "IT and Business Services",
+          "revenue_inr": null,
+          "growth_pct_qoq": -0.3
+        },
+        {
+          "segment": "Engineering and R\u0026D Services",
+          "revenue_inr": null,
+          "growth_pct_qoq": 5.5
+        },
+        {
+          "segment": "HCLTech Services",
+          "revenue_inr": null,
+          "growth_pct_qoq": 0.7
+        },
+        {
+          "segment": "HCLSoftware",
+          "revenue_inr": null,
+          "growth_pct_qoq": -12.9
+        }
+      ],
+      "geographic_performance": [
+        {
+          "region": "Americas",
+          "revenue_inr": null,
+          "growth_pct_qoq": 0.1
+        },
+        {
+          "region": "Europe",
+          "revenue_inr": null,
+          "growth_pct_qoq": 4.3
+        },
+        {
+          "region": "ROW",
+          "revenue_inr": null,
+          "growth_pct_qoq": 23.2
+        }
+      ],
+      "headcount_metrics": {
+        "total_headcount": 223420,
+        "net_additions_yoy": 2665,
+        "attrition_pct_ttm": 13.0,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": 18
+      }
+    },
+    "current_fy": {
+      "period_label": "FY25",
+      "revenue": {
+        "total_inr": 117055,
+        "total_usd": 13840,
+        "cc_growth_pct_yoy": 4.7,
+        "usd_growth_pct_yoy": 4.3
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": 25504,
+        "ebitda_margin_pct": 21.8,
+        "ebit_inr": 21420,
+        "ebit_margin_pct": 18.3,
+        "pat_inr": 17390,
+        "pat_usd": 2041,
+        "pat_margin_pct": 14.9,
+        "basic_eps_inr": 64.09
+      },
+      "order_book": {
+        "tcv_fy": 9268,
+        "tcv_growth_pct_yoy": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": 1.29,
+        "fcf_to_pat_ratio": 1.23,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [
+        {
+          "segment": "IT and Business Services",
+          "revenue_inr": null,
+          "growth_pct_yoy": 4.6
+        },
+        {
+          "segment": "Engineering and R\u0026D Services",
+          "revenue_inr": null,
+          "growth_pct_yoy": 5.5
+        },
+        {
+          "segment": "HCLTech Services",
+          "revenue_inr": null,
+          "growth_pct_yoy": 4.8
+        },
+        {
+          "segment": "HCLSoftware",
+          "revenue_inr": null,
+          "growth_pct_yoy": 3.5
+        }
+      ],
+      "geographic_performance": [
+        {
+          "region": "Americas",
+          "revenue_inr": null,
+          "growth_pct_yoy": 5.3
+        },
+        {
+          "region": "ROW",
+          "revenue_inr": null,
+          "growth_pct_yoy": 4.7
+        },
+        {
+          "region": "Europe",
+          "revenue_inr": null,
+          "growth_pct_yoy": 3.5
+        }
+      ],
+      "headcount_metrics": {
+        "total_headcount": 223420,
+        "net_additions_yoy": -4061,
+        "attrition_pct_ttm": 13.0,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": 60
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "HCLTECH demonstrated resilience in FY25, achieving revenue growth of 4.7% CC and 4.3% USD, with operating margin expanding by 7 bps to 18.3%.  Q4 FY25 saw a slight decline in revenue (-0.8% QoQ CC, -1.0% QoQ USD) due to software seasonality, but still achieved YoY CC growth of 2.9% and USD growth of 2%.  New deal TCV for FY25 was $9.268B, with a strong Q4 booking of $3B.  HCLTech emphasized its focus on AI and GenAI, highlighting significant deal wins and client adoption across its offerings.  The company also noted a reduction in headcount (-1.8%) despite revenue growth, attributed to AI-led automation.",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": "Q4 FY25 revenue declined 0.8% QoQ CC and 1% QoQ USD, primarily due to software seasonality.  YoY, revenue grew 2.9% CC and 2% USD.  EBIT margin decreased to 17.9% from 19.5% in the previous quarter, impacted by software seasonality, wage increases, and investments in sales and GenAI capabilities.  PAT declined 6.2% QoQ and grew 8.1% YoY, following the trend in revenue and EBIT.  Suitable charts would include bar charts comparing revenue, EBIT, and PAT across Q3 and Q4 FY25 and Q4 FY24, and line charts showing margin trends."
+      },
+      "full_year": {
+        "narrative": "FY25 revenue grew 4.7% CC and 4.3% USD YoY.  EBIT margin improved by 7 bps to 18.3%, driven by Project Ascend cost optimization efforts, partially offset by wage increases and investments in GenAI.  PAT increased by 10.8% YoY.  A line chart depicting operating margin over the quarters of FY25 would illustrate the margin trajectory and the impact of various factors."
+      }
+    },
+    "segment_geographic_deep_dive": "Engineering and R\u0026D Services was the key growth driver in Q4 with 5.5% QoQ CC growth, while HCLSoftware declined 12.9% QoQ CC due to seasonality.  For FY25, Services grew 4.8% YoY CC and HCLSoftware grew 3.5% YoY CC.  Geographically, ROW showed the strongest growth in Q4 with 23.2% QoQ CC growth, while Americas and Europe saw modest growth.  For FY25, Americas led with 5.3% YoY CC growth, followed by ROW (4.7%) and Europe (3.5%).  The company highlighted strong performance in Telecom, Media and Publishing (43.4% YoY growth), Retail \u0026 CPG (10.7% YoY growth), and Technology and Services (6.7% YoY growth) verticals.",
+    "deal_wins_pipeline_quality": "HCLTECH reported strong bookings in Q4 FY25 at $3B, the second highest after the September 2023 quarter.  Total new booking TCV for FY25 reached $9.3B.  The company highlighted a balanced distribution of bookings across service lines, geographies, and verticals, with record high bookings in Engineering and R\u0026D Services (75% YoY growth).  The deal pipeline remains strong, with a healthy mix of deals across ITBS, ERS, and HCL Software, and increasing integration of AI and GenAI components.",
+    "management_commentary_outlook": "Management expressed cautious optimism for FY26, providing revenue growth guidance of 2-5% CC for both Services and the company overall, and an EBIT margin guidance of 18-19%.  They acknowledge potential headwinds from a subdued discretionary spending environment and macroeconomic challenges, but also see growth opportunities arising from market uncertainties and the increasing adoption of AI.  One large deal was deferred in Q4 due to the broader environment, but the company expects several large deals to close in Q1 FY26.",
+    "comparison_to_expectations": "The company\u0027s FY25 performance was in line with the initial guidance of 3-5% CC revenue growth.  The Q4 revenue performance was as expected, with the company having previously indicated a potential impact from the completion of a large program in the Retail CPG segment.",
+    "key_risks_headwinds": "Management cited several risks and headwinds, including subdued discretionary spending, macroeconomic challenges, potential impact of geopolitical factors like tariffs and deglobalization on IT services budgets, and potential contract renegotiations or delays.  They also acknowledged the need to closely monitor evolving developments.",
+    "operational_efficiency": "HCLTECH achieved a reduction in headcount (-1.8%) despite revenue growth in FY25, driven by AI-led automation efforts.  LTM attrition remained low at 13%. DSO improved by three days YoY to 80 days. The company is focusing on driving non-linearity in its business through increased automation and a shift towards agentic solutions."
+  }
+}

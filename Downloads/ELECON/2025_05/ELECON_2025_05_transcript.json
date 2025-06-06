@@ -1,0 +1,156 @@
+﻿{
+  "metadata": {
+    "company": "ELECON",
+    "report_generated_on": "2025-05-02",
+    "source_documents": [
+      {
+        "file_name": "ELECON_Earnings_Call_Transcript_Q4_FY25.pdf",
+        "type": "Earnings Call Transcript",
+        "period_covered": "Q4 FY25",
+        "url": ""
+      },
+      {
+        "file_name": "ELECON_Investor_Presentation_Q4_FY25.pdf",
+        "type": "Investor Presentation",
+        "period_covered": "Q4 FY25",
+        "url": ""
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q4 FY25",
+      "revenue": {
+        "total_inr": 798,
+        "total_usd": null,
+        "cc_growth_pct": {
+          "qoq": null,
+          "yoy": 41.3
+        },
+        "usd_growth_pct": {
+          "qoq": null,
+          "yoy": null
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": 44.3,
+        "ebitda_inr": 195,
+        "ebitda_margin_pct": 24.5,
+        "ebit_inr": 195,
+        "ebit_margin_pct": 24.4,
+        "pat_inr": 146,
+        "pat_usd": null,
+        "pat_margin_pct": 18.4,
+        "basic_eps_inr": 6.53
+      },
+      "order_book": {
+        "tcv_new_deals": 645,
+        "pipeline_commentary": "We are also encouraged by sustained strength in inquiry levels and market sentiment improvement. We see a strong pipeline shaping up for FY26."
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": 159,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [
+        {
+          "segment": "Gears",
+          "revenue_inr": 597,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "MHE",
+          "revenue_inr": 200,
+          "growth_pct_qoq": null
+        }
+      ],
+      "geographic_performance": [
+        {
+          "region": "Domestic",
+          "revenue_inr": 662,
+          "growth_pct_qoq": null
+        },
+        {
+          "region": "Overseas",
+          "revenue_inr": 136,
+          "growth_pct_qoq": null
+        }
+      ],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": 1.5
+      }
+    },
+    "current_fy": {
+      "period_label": "FY25",
+      "revenue": {
+        "total_inr": 2227,
+        "total_usd": null,
+        "cc_growth_pct_yoy": 14.9,
+        "usd_growth_pct_yoy": null
+      },
+      "profitability": {
+        "gross_margin_pct": 46.7,
+        "ebitda_inr": 543,
+        "ebitda_margin_pct": 24.4,
+        "ebit_inr": 542,
+        "ebit_margin_pct": 24.3,
+        "pat_inr": 415,
+        "pat_usd": null,
+        "pat_margin_pct": 18.6,
+        "basic_eps_inr": 18.5
+      },
+      "order_book": {
+        "tcv_fy": 948,
+        "tcv_growth_pct_yoy": 19.1,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": 740,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": null
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "ELECON achieved record revenue and EBITDA in Q4 FY25 and FY25, exceeding annual guidance. The Gear division saw a strong recovery in Q4, driven by robust domestic and international demand, particularly in steel, power, and cement. The MHE division continued its strong growth trajectory, nearly doubling revenue YoY in Q4.  EBITDA margins improved to 24.5% in Q4 and 24.4% for FY25. Key challenges included sectoral headwinds earlier in the year and global macroeconomic uncertainties.",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": "Q4 FY25 Revenue (INR 798 crores) increased significantly YoY compared to Q4 FY24 (INR 565 crores), representing a 41.3% growth. EBIT (INR 195 crores) also saw a substantial YoY increase from INR 136 crores in Q4 FY24, with the margin improving slightly to 24.4% from 24.1%. PAT (INR 146 crores) increased YoY from INR 104 crores, with a stable margin of 18.4%.\n\nSuitable charts: \n* Bar chart comparing Q4 FY25 and Q4 FY24 revenue, EBIT, and PAT. \n* Line chart showing EBIT and PAT margin trends for the same periods."
+      },
+      "full_year": {
+        "narrative": "FY25 Revenue (INR 2227 crores) grew 14.9% YoY compared to FY24 (INR 1937 crores). EBITDA (INR 543 crores) increased YoY from INR 474 crores, with a stable margin of 24.4%. PAT (INR 415 crores) increased YoY from INR 356 crores, with a margin improvement to 18.6% from 18.4%. Operating margin trajectory for FY25 remained relatively stable despite initial headwinds. Key influencing factors include a change in product mix in the gear segment, robust demand in MHE, and operational efficiencies."
+      }
+    },
+    "segment_geographic_deep_dive": "The Gear division, contributing 75% of Q4 revenue, saw a 28.9% YoY growth, driven by robust demand in steel, power, and cement.  The MHE division (25% of Q4 revenue) achieved remarkable 98.2% YoY growth, driven by strong product supply and aftermarket demand. Domestic market contributed 83% to the consolidated revenue, while overseas markets contributed 17%. The steel sector experienced a 6% dip in the gear segment, impacting overall revenue. Other sectors performed in line with expectations.",
+    "deal_wins_pipeline_quality": "The order book stands at INR 948 crores as of March 31, 2025, a 19.1% YoY increase. The Gear division order book is INR 583 crores, and MHE is INR 365 crores. The pipeline appears strong, with sustained inquiry levels and healthy demand across core sectors.  The company is focusing on customized high-quality engineering solutions, which should support future deal wins.",
+    "management_commentary_outlook": "Management provided guidance of INR 2650 crores in consolidated revenue for FY26, with a 24% EBITDA margin. They expect the Gears division to contribute INR 2000 crores and the MHE division INR 650 crores. They are optimistic about continued growth, driven by a strong order book, proactive client engagement, and strategic initiatives. They are closely monitoring the global economic and geopolitical situation, which remains fluid.  Management also highlighted the opportunity presented by US tariffs to expand in Canada and Latin America.",
+    "comparison_to_expectations": "ELECON exceeded its annual guidance for FY25, achieving a 40 basis point higher EBITDA margin than projected, demonstrating strong operational efficiency and cost management. They also met their revenue guidance, achieving record revenue and EBITDA.",
+    "key_risks_headwinds": "Management mentioned global macroeconomic uncertainties and the fluid geopolitical situation as key risks.  Sector-specific slowdowns, like the weakness in the sugar sector, were also noted. US tariffs were mentioned as a potential challenge, but also an opportunity for geographic diversification.",
+    "operational_efficiency": "DSO data was not available. Utilization and attrition rates were not provided. Employee expenses were higher in Q4 due to increased hiring in business development and R\u0026D, aligning with the company\u0027s growth trajectory.  This increase is considered sustainable."
+  }
+}

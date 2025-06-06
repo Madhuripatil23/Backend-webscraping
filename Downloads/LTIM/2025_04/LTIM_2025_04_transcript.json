@@ -1,0 +1,218 @@
+﻿{
+  "metadata": {
+    "company": "LTIM",
+    "report_generated_on": "2025-04-28",
+    "source_documents": [
+      {
+        "file_name": "LTIM/SE/STAT/2025-26/14",
+        "type": "Earnings Call Transcript",
+        "period_covered": "Q4 FY2025",
+        "url": ""
+      },
+      {
+        "file_name": "LTIM/SE/STAT/2025-26/11",
+        "type": "Investor Presentation",
+        "period_covered": "FY2025",
+        "url": ""
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q4 FY2025",
+      "revenue": {
+        "total_inr": 97717,
+        "total_usd": 1131,
+        "cc_growth_pct": {
+          "qoq": -0.6,
+          "yoy": 6.3
+        },
+        "usd_growth_pct": {
+          "qoq": -0.7,
+          "yoy": 5.8
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": 27.9,
+        "ebitda_inr": 15962,
+        "ebitda_margin_pct": 16.3,
+        "ebit_inr": 13454,
+        "ebit_margin_pct": 13.8,
+        "pat_inr": 11286,
+        "pat_usd": 130.6,
+        "pat_margin_pct": 11.5,
+        "basic_eps_inr": 38.1
+      },
+      "order_book": {
+        "tcv_new_deals": 1600,
+        "pipeline_commentary": "Our year-end deal pipeline continues to remain robust."
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": 98.8,
+        "fcf_to_pat_ratio": 78.5,
+        "cash_and_investments_inr": 133460,
+        "cash_and_investments_usd": 1560,
+        "dso_days": 79
+      },
+      "segment_performance": [
+        {
+          "segment": "Banking, Financial Services \u0026 Insurance",
+          "revenue_inr": 36242,
+          "growth_pct_qoq": 1.2
+        },
+        {
+          "segment": "Technology, Media \u0026 Communications",
+          "revenue_inr": 22952,
+          "growth_pct_qoq": -1.5
+        },
+        {
+          "segment": "Manufacturing \u0026 Resources",
+          "revenue_inr": 19486,
+          "growth_pct_qoq": 2.3
+        },
+        {
+          "segment": "Consumer Business",
+          "revenue_inr": 13705,
+          "growth_pct_qoq": -2.4
+        },
+        {
+          "segment": "Healthcare, Life Sciences \u0026 Public Services",
+          "revenue_inr": 5332,
+          "growth_pct_qoq": -14
+        }
+      ],
+      "geographic_performance": [
+        {
+          "region": "North America",
+          "revenue_inr": null,
+          "growth_pct_qoq": -1
+        },
+        {
+          "region": "Europe",
+          "revenue_inr": null,
+          "growth_pct_qoq": -2
+        },
+        {
+          "region": "Rest of the world",
+          "revenue_inr": null,
+          "growth_pct_qoq": 2.9
+        }
+      ],
+      "headcount_metrics": {
+        "total_headcount": 84307,
+        "net_additions_yoy": 2657,
+        "attrition_pct_ttm": 14.4,
+        "utilization_excl_trainees_pct": 85.8
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": 45
+      }
+    },
+    "current_fy": {
+      "period_label": "FY2025",
+      "revenue": {
+        "total_inr": 380081,
+        "total_usd": 4492.5,
+        "cc_growth_pct_yoy": 5,
+        "usd_growth_pct_yoy": 4.8
+      },
+      "profitability": {
+        "gross_margin_pct": 29.4,
+        "ebitda_inr": 64949,
+        "ebitda_margin_pct": 17.1,
+        "ebit_inr": 55034,
+        "ebit_margin_pct": 14.5,
+        "pat_inr": 46020,
+        "pat_usd": 543.9,
+        "pat_margin_pct": 12.1,
+        "basic_eps_inr": 155.3
+      },
+      "order_book": {
+        "tcv_fy": 6000,
+        "tcv_growth_pct_yoy": 6.1,
+        "pipeline_commentary": "Our year-end deal pipeline continues to remain robust."
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": 133463,
+        "cash_and_investments_usd": null,
+        "dso_days": 79
+      },
+      "segment_performance": [
+        {
+          "segment": "Banking, Financial Services \u0026 Insurance",
+          "revenue_inr": null,
+          "growth_pct_yoy": 4.6
+        },
+        {
+          "segment": "Technology, Media \u0026 Communications",
+          "revenue_inr": null,
+          "growth_pct_yoy": 8.7
+        },
+        {
+          "segment": "Manufacturing \u0026 Resources",
+          "revenue_inr": null,
+          "growth_pct_yoy": 7.2
+        },
+        {
+          "segment": "Consumer Business",
+          "revenue_inr": null,
+          "growth_pct_yoy": -0.5
+        },
+        {
+          "segment": "Healthcare, Life Sciences \u0026 Public Services",
+          "revenue_inr": null,
+          "growth_pct_yoy": -3
+        }
+      ],
+      "geographic_performance": [
+        {
+          "region": "North America",
+          "revenue_inr": null,
+          "growth_pct_yoy": 7.1
+        },
+        {
+          "region": "Europe",
+          "revenue_inr": null,
+          "growth_pct_yoy": -1.2
+        },
+        {
+          "region": "Rest of the World",
+          "revenue_inr": null,
+          "growth_pct_yoy": -1.7
+        }
+      ],
+      "headcount_metrics": {
+        "total_headcount": 84307,
+        "net_additions_yoy": 2657,
+        "attrition_pct_ttm": 14.4,
+        "utilization_excl_trainees_pct": 85.8
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": 65
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": ""
+      },
+      "full_year": {
+        "narrative": ""
+      }
+    },
+    "segment_geographic_deep_dive": "",
+    "deal_wins_pipeline_quality": "",
+    "management_commentary_outlook": "",
+    "comparison_to_expectations": "",
+    "key_risks_headwinds": "",
+    "operational_efficiency": ""
+  }
+}

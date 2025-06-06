@@ -1,0 +1,208 @@
+{
+  "metadata": {
+    "company": "LTTS",
+    "report_generated_on": "2025-04-30",
+    "source_documents": [
+      {
+        "file_name": "LTTS Q4 FY25 Earnings Call Transcript.pdf",
+        "type": "Earnings Call Transcript",
+        "period_covered": "Q4 FY25",
+        "url": ""
+      },
+      {
+        "file_name": "LTTS Q4 FY25 Press Release and Investor Release.pdf",
+        "type": "Press Release and Investor Presentation",
+        "period_covered": "Q4 FY25",
+        "url": ""
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q4 FY25",
+      "revenue": {
+        "total_inr": 29824,
+        "total_usd": 345.1,
+        "cc_growth_pct": {
+          "qoq": 10.5,
+          "yoy": 14.2
+        },
+        "usd_growth_pct": {
+          "qoq": 10.7,
+          "yoy": 13.1
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": 27.8,
+        "ebitda_inr": 4755,
+        "ebitda_margin_pct": 15.9,
+        "ebit_inr": 3939,
+        "ebit_margin_pct": 13.2,
+        "pat_inr": 3111,
+        "pat_usd": null,
+        "pat_margin_pct": 10.4,
+        "basic_eps_inr": 29.38
+      },
+      "order_book": {
+        "tcv_new_deals": null,
+        "pipeline_commentary": "Large deal momentum recorded the highest ever TCV bookings, including one $80M\u002B deal, one $50M\u002B deal, along with one $30M\u002B deal, one $20M\u002B deal, and three $10M\u002B deals. Order inflow on large deals alone is up QoQ \u003E25%. Half of these deals were won against competition. Deal pipeline is robust due to value enhancement across client product lifecycle and digital transformation."
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": 29760,
+        "cash_and_investments_usd": null,
+        "dso_days": 106
+      },
+      "segment_performance": [
+        {
+          "segment": "Mobility",
+          "revenue_inr": null,
+          "growth_pct_qoq": -0.2
+        },
+        {
+          "segment": "Sustainability",
+          "revenue_inr": null,
+          "growth_pct_qoq": 1.9
+        },
+        {
+          "segment": "Tech",
+          "revenue_inr": null,
+          "growth_pct_qoq": 27.9
+        }
+      ],
+      "geographic_performance": [
+        {
+          "region": "North America",
+          "revenue_inr": null,
+          "growth_pct_qoq": 11.4
+        },
+        {
+          "region": "Europe",
+          "revenue_inr": null,
+          "growth_pct_qoq": 0.6
+        },
+        {
+          "region": "India",
+          "revenue_inr": null,
+          "growth_pct_qoq": 18.8
+        },
+        {
+          "region": "Rest of the World",
+          "revenue_inr": null,
+          "growth_pct_qoq": 5.5
+        }
+      ],
+      "headcount_metrics": {
+        "total_headcount": 24258,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": 14.3,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": 38
+      }
+    },
+    "current_fy": {
+      "period_label": "FY25",
+      "revenue": {
+        "total_inr": 106701,
+        "total_usd": 1259,
+        "cc_growth_pct_yoy": 8.9,
+        "usd_growth_pct_yoy": 8.2
+      },
+      "profitability": {
+        "gross_margin_pct": 28.8,
+        "ebitda_inr": 18925,
+        "ebitda_margin_pct": 17.7,
+        "ebit_inr": 15872,
+        "ebit_margin_pct": 14.9,
+        "pat_inr": 12667,
+        "pat_usd": null,
+        "pat_margin_pct": 11.9,
+        "basic_eps_inr": 119.7
+      },
+      "order_book": {
+        "tcv_fy": null,
+        "tcv_growth_pct_yoy": null,
+        "pipeline_commentary": "Closed a total of 32 deals greater than $10M in TCV, including one $80M\u002B, three $50M\u002B, five $30M-$50M, and ten $15M-$25M deals. Expect deal momentum to continue."
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": 109,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [
+        {
+          "segment": "Mobility",
+          "revenue_inr": null,
+          "growth_pct_yoy": 8.7
+        },
+        {
+          "segment": "Sustainability",
+          "revenue_inr": null,
+          "growth_pct_yoy": 5.3
+        },
+        {
+          "segment": "Tech",
+          "revenue_inr": null,
+          "growth_pct_yoy": 10.1
+        }
+      ],
+      "geographic_performance": [
+        {
+          "region": "North America",
+          "revenue_inr": null,
+          "growth_pct_yoy": 2.6
+        },
+        {
+          "region": "Europe",
+          "revenue_inr": null,
+          "growth_pct_yoy": 20.9
+        },
+        {
+          "region": "India",
+          "revenue_inr": null,
+          "growth_pct_yoy": 12.7
+        },
+        {
+          "region": "Rest of World",
+          "revenue_inr": null,
+          "growth_pct_yoy": 8.7
+        }
+      ],
+      "headcount_metrics": {
+        "total_headcount": 24258,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": 14.3,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": 55
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "LTTS achieved key milestones in Q4 FY25, including record high large deal bookings, surpassing \u20B910,000 crore in annual revenue, and exceeding 1,500 patent filings. Revenue grew by 12.4% QoQ and 17.5% YoY in INR. However, EBIT margin declined to 13.2% due to macro headwinds, Intelliswift integration costs, and investments in strategic clients. For FY25, revenue grew by 10.6% YoY in INR and 8.9% in USD CC. EBIT margin was 14.9%.",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": "Q4 FY25 revenue showed strong QoQ and YoY growth, driven by Tech and Sustainability segments. However, EBIT and PAT margins declined QoQ and YoY due to factors mentioned above. Suitable charts would be bar charts comparing revenues, EBIT, and PAT across Q3 FY25 and Q4 FY25, and line charts showing margin trends."
+      },
+      "full_year": {
+        "narrative": "FY25 saw healthy revenue growth, driven by large deal wins and growth across segments. Operating margins were impacted by H1 investments, Intelliswift integration, and Q4 macro headwinds. A line chart showing the trajectory of operating margins over the four quarters of FY25 would be helpful."
+      }
+    },
+    "segment_geographic_deep_dive": "Tech segment showed the strongest growth in Q4 and FY25, driven by Smart World and Software \u0026 Platforms. Sustainability also performed well. Mobility faced headwinds but is expected to recover. Europe showed the strongest geographic growth in FY25. Key client wins were mentioned across segments and geographies.",
+    "deal_wins_pipeline_quality": "Order book and deal pipeline are strong, with record high TCV bookings in Q4 and a robust pipeline for future deals. Deal types include digital transformation, product lifecycle enhancements, and AI-led solutions. Significant wins include an $80M\u002B deal in Industrial Products and a \u20AC50M deal in SDV with a European OEM.",
+    "management_commentary_outlook": "Management is cautiously optimistic for the next few quarters due to macro uncertainties but bullish on deal wins. They expect FY26 to be a better year than FY25, with double-digit revenue growth in USD CC. They reaffirm their medium-term outlook of $2 billion revenue. They are focused on operational efficiency and margin improvement, targeting mid-16% EBIT margins by Q4 FY27/Q1 FY28.",
+    "comparison_to_expectations": "While specific guidance wasn\u0027t provided, management acknowledged that Q4 revenue growth was lower than anticipated due to delayed ramp-ups and investments in strategic clients.",
+    "key_risks_headwinds": "Key risks and headwinds include macro uncertainties, tightening demand conditions, and potential delays in deal ramp-ups. Management is actively working to mitigate these risks through operational efficiency and cost optimization.",
+    "operational_efficiency": "DSO improved in Q4. Offshore mix decreased due to Intelliswift integration. Headcount increased due to the acquisition. Attrition remained range-bound. Management is focused on improving utilization and managing headcount effectively."
+  }
+}

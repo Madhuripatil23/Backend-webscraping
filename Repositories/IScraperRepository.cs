@@ -5,8 +5,8 @@ namespace webscrapperapi.Repositories
 {
     public interface IScraperRepository
     {
-        Task<List<ScrapeResult>> ProcessCompanyAsync();
-        Task<List<CompanyItem>> GetAllCompaniesAsync();
+        Task<List<ScrapeResult>> ProcessCompanyAsync(int userId);
+        Task<List<CompanyItem>> GetAllCompaniesAsync(int userId);
     }
     
 }

@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "company": "OBEROIRLTY",
+    "report_generated_on": "2025-04-29",
+    "source_documents": [
+      {
+        "file_name": "Oberoi Realty Limited Q4 FY25 Earnings Conference Call",
+        "type": "Earnings Call Transcript",
+        "period_covered": "Q4 FY25",
+        "url": ""
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q4 FY25",
+      "revenue": {
+        "total_inr": null,
+        "total_usd": null,
+        "cc_growth_pct": {
+          "qoq": null,
+          "yoy": null
+        },
+        "usd_growth_pct": {
+          "qoq": null,
+          "yoy": null
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": null,
+        "ebit_margin_pct": null,
+        "pat_inr": null,
+        "pat_usd": null,
+        "pat_margin_pct": null,
+        "basic_eps_inr": null
+      },
+      "order_book": {
+        "tcv_new_deals": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": null
+      }
+    },
+    "current_fy": {
+      "period_label": "FY25",
+      "revenue": {
+        "total_inr": 52860000000,
+        "total_usd": null,
+        "cc_growth_pct_yoy": null,
+        "usd_growth_pct_yoy": null
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": null,
+        "ebit_margin_pct": null,
+        "pat_inr": null,
+        "pat_usd": null,
+        "pat_margin_pct": null,
+        "basic_eps_inr": null
+      },
+      "order_book": {
+        "tcv_fy": 52810000000,
+        "tcv_growth_pct_yoy": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": null
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "Oberoi Realty reported its highest ever annual consolidated revenue of Rs. 5,286 crores and highest ever annual booking value of over Rs. 5,281 crores in FY25. Q4 FY25 performance was driven by steady residential sales and the soft launch of Sky City Mall in Borivali.  The commercial portfolio, including Commerz III, continues to attract marquee tenants. I-Ven Realty received a Rs. 1,250 crore investment for a 21.74% stake. The company is preparing for the launch of Elysian Tower D.",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": "QoQ and YoY performance for Q4 FY25 revenue, EBIT, and PAT are not available in the provided document. Charts would be beneficial to visualize the performance. A bar chart could compare revenues, EBIT, and PAT across Q3 FY25 and Q4 FY24, while line charts could illustrate margin trends."
+      },
+      "full_year": {
+        "narrative": "YoY analysis for FY25 revenue and profitability compared to FY24 is not possible due to the lack of FY24 data in the provided document. Analysis of operating margin trajectory over FY25 and influencing factors is also not possible due to missing data."
+      }
+    },
+    "segment_geographic_deep_dive": "Segment and geographic performance data are not available in the provided transcript.",
+    "deal_wins_pipeline_quality": "The company achieved a record booking value of over Rs. 5,281 crores in FY25. The upcoming Elysian Tower D launch is expected to see robust demand based on initial EOIs.  Further details on deal types and specific wins are not provided.",
+    "management_commentary_outlook": "Management anticipates launching Borivali Tower H and three other city projects, along with the Gurgaon project in the second half of FY26.  They plan to launch the Thane project after developing a mall, hotel, and school on the larger land parcel. Management expressed confidence in the Indian economy and the company\u0027s positioning within it.",
+    "comparison_to_expectations": "The document does not provide information on previous guidance or market expectations.",
+    "key_risks_headwinds": "The document does not explicitly mention specific risks and headwinds, although management acknowledges general market uncertainties.",
+    "operational_efficiency": "Information on DSO, utilization, and attrition is not available in the provided transcript. Hence, analysis of these metrics and the impact of headcount changes cannot be performed."
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "metadata": {
+    "company": "GREAVESCOT",
+    "report_generated_on": "2023-10-27",
+    "source_documents": [
+      {
+        "file_name": "Greaves Cotton Limited Q4 \u0026 FY25 Earnings Call Transcript.pdf",
+        "type": "Earnings Call Transcript",
+        "period_covered": "Q4 FY25",
+        "url": ""
+      },
+      {
+        "file_name": "Greaves Cotton Limited Q4 \u0026 FY25 Earnings Presentation.pdf",
+        "type": "Investor Presentation",
+        "period_covered": "Q4 FY25",
+        "url": ""
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q4 FY25",
+      "revenue": {
+        "total_inr": 823,
+        "total_usd": null,
+        "cc_growth_pct": {
+          "qoq": null,
+          "yoy": 22
+        },
+        "usd_growth_pct": {
+          "qoq": null,
+          "yoy": null
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": 46,
+        "ebitda_margin_pct": 5.6,
+        "ebit_inr": 27,
+        "ebit_margin_pct": 3.3,
+        "pat_inr": null,
+        "pat_usd": null,
+        "pat_margin_pct": null,
+        "basic_eps_inr": null
+      },
+      "order_book": {
+        "tcv_new_deals": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": 561,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [
+        {
+          "segment": "Greaves Engines",
+          "revenue_inr": 410,
+          "growth_pct_qoq": 12.5
+        },
+        {
+          "segment": "Greaves Retail",
+          "revenue_inr": 164,
+          "growth_pct_qoq": 1
+        },
+        {
+          "segment": "GCL",
+          "revenue_inr": 573,
+          "growth_pct_qoq": 13.2
+        },
+        {
+          "segment": "Excel",
+          "revenue_inr": 75,
+          "growth_pct_qoq": 29.7
+        },
+        {
+          "segment": "GCL \u002B Excel",
+          "revenue_inr": 649,
+          "growth_pct_qoq": 16.4
+        }
+      ],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": null
+      }
+    },
+    "current_fy": {
+      "period_label": "FY25",
+      "revenue": {
+        "total_inr": 2918,
+        "total_usd": null,
+        "cc_growth_pct_yoy": 11,
+        "usd_growth_pct_yoy": null
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": 136,
+        "ebitda_margin_pct": 4.7,
+        "ebit_inr": 71,
+        "ebit_margin_pct": 2.4,
+        "pat_inr": null,
+        "pat_usd": null,
+        "pat_margin_pct": null,
+        "basic_eps_inr": null
+      },
+      "order_book": {
+        "tcv_fy": null,
+        "tcv_growth_pct_yoy": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": 379,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [
+        {
+          "segment": "Greaves Engines",
+          "revenue_inr": 1360,
+          "growth_pct_yoy": 14
+        },
+        {
+          "segment": "Greaves Retail",
+          "revenue_inr": 628,
+          "growth_pct_yoy": 7
+        },
+        {
+          "segment": "GCL",
+          "revenue_inr": 1988,
+          "growth_pct_yoy": 12
+        },
+        {
+          "segment": "Excel",
+          "revenue_inr": 268,
+          "growth_pct_yoy": null
+        },
+        {
+          "segment": "Electric Mobility",
+          "revenue_inr": 659,
+          "growth_pct_yoy": 7.4
+        }
+      ],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": null
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": ""
+      },
+      "full_year": {
+        "narrative": ""
+      }
+    },
+    "segment_geographic_deep_dive": "",
+    "deal_wins_pipeline_quality": "",
+    "management_commentary_outlook": "",
+    "comparison_to_expectations": "",
+    "key_risks_headwinds": "",
+    "operational_efficiency": ""
+  }
+}

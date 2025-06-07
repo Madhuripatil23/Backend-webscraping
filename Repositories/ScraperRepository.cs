@@ -19,9 +19,9 @@ namespace webscrapperapi.Repositories
             _connectionString = configuration.GetConnectionString("DefaultConnection");
         }
 
-        public async Task<List<ScrapeResult>> ProcessCompanyAsync()
+        public async Task<List<ScrapeResult>> ProcessCompanyAsync(int userId)
         {
-            var allCompanies = await GetAllCompaniesAsync();
+            var allCompanies = await GetAllCompaniesAsync(userId);
             string currentYM = $"{DateTime.Now:yyyy}_{(((DateTime.Now.Month - 1) / 3) * 3) + 1:00}";
 
             // Filter companies that do NOT have current YM reports
@@ -110,7 +110,7 @@ namespace webscrapperapi.Repositories
         }
 
 
-        public async Task<List<CompanyItem>> GetAllCompaniesAsync()
+        public async Task<List<CompanyItem>> GetAllCompaniesAsync(int userId)
         {
             var companiesDict = new Dictionary<int, CompanyItem>();
 
@@ -118,6 +118,9 @@ namespace webscrapperapi.Repositories
             using (SqlCommand cmd = new SqlCommand("usp_GetCompany", conn))
             {
                 cmd.CommandType = CommandType.StoredProcedure;
+
+                cmd.Parameters.AddWithValue("@UserId", userId);
+                
                 await conn.OpenAsync();
 
                 using (var reader = await cmd.ExecuteReaderAsync())
@@ -168,49 +171,6 @@ namespace webscrapperapi.Repositories
 
             return companiesDict.Values.ToList();
         }
-
-
-
-        // public async Task<List<CompanyItem>> GetAllCompaniesAsync()
-        // {
-        //     var companies = new List<CompanyItem>();
-
-        //     using (SqlConnection conn = new SqlConnection(_connectionString))
-        //     using (SqlCommand cmd = new SqlCommand("usp_GetCompany", conn))
-        //     {
-        //         cmd.CommandType = CommandType.StoredProcedure;
-        //         await conn.OpenAsync();
-
-        //         using (var reader = await cmd.ExecuteReaderAsync())
-        //         {
-        //             while (await reader.ReadAsync())
-        //             {
-        //                 var ym = reader["c_ym"]?.ToString() ?? "";
-        //                 var pptUrl = reader["c_ppt_url"]?.ToString() ?? "";
-        //                 var transcriptUrl = reader["c_transcript_url"]?.ToString() ?? "";
-
-        //                 companies.Add(new CompanyItem
-        //                 {
-        //                     CompanyId = Convert.ToInt32(reader["pkc_company_id"]),
-        //                     CompanyName = reader["c_company_name"]?.ToString() ?? "",
-        //                     Symbol = reader["c_symbol"]?.ToString() ?? "",
-        //                     ScreenerUrl = reader["c_screener_url"]?.ToString() ?? "",
-        //                     YM = string.IsNullOrWhiteSpace(ym) && string.IsNullOrWhiteSpace(pptUrl) && string.IsNullOrWhiteSpace(transcriptUrl)
-        //                         ? null
-        //                         : new YMData
-        //                         {
-        //                             Value = ym,
-        //                             PPTUrl = pptUrl,
-        //                             TranscriptUrl = transcriptUrl
-        //                         }
-        //                 });
-        //             }
-        //         }
-        //     }
-
-        //     return companies;
-        // }
-
 
 
         public async Task InsertReportRecordAsync(int companyId, string ym, string pptFileUrl, string pptFilePath, string transcriptFileUrl, string transcriptFilePath, string summaryFilePath)

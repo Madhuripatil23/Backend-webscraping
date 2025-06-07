@@ -14,14 +14,14 @@ namespace webscrapperapi.Services
         _repo = repo ?? throw new ArgumentNullException(nameof(repo));
     }
 
-    public async Task<List<ScrapeResult>> RunScrapingAsync()
+    public async Task<List<ScrapeResult>> RunScrapingAsync(int userId)
     {
-        return await _repo.ProcessCompanyAsync();
+        return await _repo.ProcessCompanyAsync(userId);
     }
 
-    public async Task<List<CompanyItem>> GetAllCompaniesAsync()
+    public async Task<List<CompanyItem>> GetAllCompaniesAsync(int userId)
     {
-        return await _repo.GetAllCompaniesAsync();
+        return await _repo.GetAllCompaniesAsync(userId);
     }
 }
 

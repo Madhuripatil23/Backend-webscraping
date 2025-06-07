@@ -21,11 +21,11 @@ namespace webscrapperapi.Controllers
 
 
         [HttpPost("run")]
-        public async Task<IActionResult> RunScraper()
+        public async Task<IActionResult> RunScraper([FromQuery] int userId)
         {
             try
             {
-                var result = await _scraperService.RunScrapingAsync();
+                var result = await _scraperService.RunScrapingAsync(userId);
 
                 if (result == null)
                 {
@@ -86,11 +86,11 @@ namespace webscrapperapi.Controllers
 
 
         [HttpGet("company/tree")]
-        public async Task<IActionResult> GetCompanies()
+        public async Task<IActionResult> GetCompanies([FromQuery] int userId)
         {
             try
             {
-                var companies = await _scraperService.GetAllCompaniesAsync();
+                var companies = await _scraperService.GetAllCompaniesAsync(userId);
                 if (companies == null || companies.Count == 0)
                 {
                     return NotFound(ApiResponse<List<CompanyItem>>.ErrorResponse("No companies found", 404));
@@ -114,13 +114,13 @@ namespace webscrapperapi.Controllers
         }
 
         [HttpGet("summary")]
-        public async Task<IActionResult> GetSummary(string reportId)
+        public async Task<IActionResult> GetSummary([FromQuery] int userId, [FromQuery] string reportId)
         {
             try
             {
 
                 // Fetch all companies asynchronously
-                var companies = await _scraperService.GetAllCompaniesAsync();
+                var companies = await _scraperService.GetAllCompaniesAsync(userId);
                 if (companies == null || !companies.Any())
                 {
                     return NotFound(new
@@ -178,7 +178,7 @@ namespace webscrapperapi.Controllers
 
 
         [HttpGet("download")]
-        public async Task<IActionResult> DownloadFile([FromQuery] string reportId, [FromQuery] string type)
+        public async Task<IActionResult> DownloadFile([FromQuery] int userId, [FromQuery] string reportId, [FromQuery] string type)
         {
             if (string.IsNullOrWhiteSpace(reportId) || string.IsNullOrWhiteSpace(type))
             {
@@ -192,7 +192,7 @@ namespace webscrapperapi.Controllers
             }
 
             // Fetch all companies asynchronously
-            var companies = await _scraperService.GetAllCompaniesAsync();
+            var companies = await _scraperService.GetAllCompaniesAsync(userId);
             if (companies == null || !companies.Any())
             {
                 return NotFound(new

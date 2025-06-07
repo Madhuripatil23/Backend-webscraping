@@ -1,0 +1,155 @@
+{
+  "metadata": {
+    "company": "SKIPPER",
+    "report_generated_on": "2025-05-07",
+    "source_documents": [
+      {
+        "file_name": "skipper_limited_transcript.pdf",
+        "type": "Earnings Call Transcript",
+        "period_covered": "Q4 FY25",
+        "url": ""
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q4 FY25",
+      "revenue": {
+        "total_inr": 12880000000,
+        "total_usd": null,
+        "cc_growth_pct": {
+          "qoq": null,
+          "yoy": null
+        },
+        "usd_growth_pct": {
+          "qoq": null,
+          "yoy": null
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": 1230000000,
+        "ebitda_margin_pct": 9.6,
+        "ebit_inr": null,
+        "ebit_margin_pct": null,
+        "pat_inr": 479000000,
+        "pat_usd": null,
+        "pat_margin_pct": 3.7,
+        "basic_eps_inr": null
+      },
+      "order_book": {
+        "tcv_new_deals": 15920000000,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [
+        {
+          "segment": "Engineering",
+          "revenue_inr": 9370000000,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Polymer",
+          "revenue_inr": 1380000000,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Infrastructure",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        }
+      ],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": null
+      }
+    },
+    "current_fy": {
+      "period_label": "FY25",
+      "revenue": {
+        "total_inr": 46240000000,
+        "total_usd": null,
+        "cc_growth_pct_yoy": 41,
+        "usd_growth_pct_yoy": null
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": 4510000000,
+        "ebitda_margin_pct": 9.8,
+        "ebit_inr": null,
+        "ebit_margin_pct": null,
+        "pat_inr": 1490000000,
+        "pat_usd": null,
+        "pat_margin_pct": 3.2,
+        "basic_eps_inr": null
+      },
+      "order_book": {
+        "tcv_fy": 74580000000,
+        "tcv_growth_pct_yoy": 20,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": 95
+      },
+      "segment_performance": [
+        {
+          "segment": "Engineering",
+          "revenue_inr": 35180000000,
+          "growth_pct_yoy": 58
+        },
+        {
+          "segment": "Infrastructure",
+          "revenue_inr": 6740000000,
+          "growth_pct_yoy": 13
+        }
+      ],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": null
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "SKIPPER achieved record revenue and profitability in FY25, driven by strong growth in both domestic and export markets within the Engineering segment.  Q4 FY25 also saw record quarterly revenue.  The company experienced significant order inflows, leading to a robust order book, providing revenue visibility for the next 18-24 months.  Strategic advancements included a breakthrough order in the US market and the first substation EPC contract.  The company is focused on improving its balance sheet, with net debt reducing YoY.",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": "Q4 FY25 revenue grew by 11.6% sequentially.  EBITDA grew 14% YoY, with margins expanding to 9.6% from 9.4% in Q4 FY24. PAT saw substantial growth of 90% YoY, with margins improving to 3.7% from 2.2%. A bar chart comparing Q4 revenue, EBITDA, and PAT for FY25 and FY24 would visually represent this growth. Line charts would be suitable for showing the margin trends."
+      },
+      "full_year": {
+        "narrative": "FY25 revenue grew 41% YoY, driven by a 58% increase in the Engineering segment. Infrastructure revenue grew 13% YoY. Consolidated PAT surged 83% YoY, with margins improving by 70 bps to 3.2%.  The trajectory of operating margins was relatively stable, with EBITDA margin at 9.8% compared to 9.7% in FY24. Key factors influencing this include strong order execution, capacity expansion, and a focus on cost and capital efficiency."
+      }
+    },
+    "segment_geographic_deep_dive": "Engineering was the primary growth driver in FY25, with 58% YoY growth.  The Polymer business also performed well, achieving its highest ever quarterly revenue in Q4.  Exports within the Engineering segment grew 21% YoY. The US market presents a significant growth opportunity, with a breakthrough order secured. The company is also focusing on the plumbing and retail segments within the Polymer business to reduce dependence on government projects.",
+    "deal_wins_pipeline_quality": "The order book reached a record high of INR74.58 billion, up 20% YoY, providing strong revenue visibility.  The company secured significant wins, including an 800 kV HVDC project from POWERGRID and a multi-million dollar order from a US EPC player.  The pipeline remains strong at over INR200 billion, with a historical success rate of 25%.",
+    "management_commentary_outlook": "Management is optimistic about future growth, citing a strong pipeline of domestic and international opportunities, strategic expansion into new areas like substation EPC and gas pipelines, and a focus on operational efficiency.  They expect a 20-25% revenue growth in FY26, driven by T\u0026D business and export opportunities.  They also anticipate margin improvement due to a shift towards higher-margin T\u0026D projects and export orders.",
+    "comparison_to_expectations": "",
+    "key_risks_headwinds": "",
+    "operational_efficiency": "DSO improved significantly, reducing from 135 days to 95 days.  The company is targeting further improvement in working capital management.  Utilization is expected to reach 80-85% with the full commissioning of the new capacity.  No specific figures were provided for attrition or headcount changes."
+  }
+}

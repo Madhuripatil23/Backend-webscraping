@@ -1,0 +1,236 @@
+{
+  "metadata": {
+    "company": "LTF",
+    "report_generated_on": "2025-05-06",
+    "source_documents": [
+      {
+        "file_name": "L\u0026T Finance Limited Investor Presentation Q4FY25 \u0026 FY25.pdf",
+        "type": "Investor Presentation",
+        "period_covered": "Q4 FY25 and FY25",
+        "url": null
+      },
+      {
+        "file_name": "L\u0026T Finance Limited Q4 FY25 \u0026 FY25 Earnings Call Transcript.pdf",
+        "type": "Earnings Call Transcript",
+        "period_covered": "Q4 FY25 and FY25",
+        "url": null
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q4 FY25",
+      "revenue": {
+        "total_inr": 2412,
+        "total_usd": null,
+        "cc_growth_pct": {
+          "qoq": null,
+          "yoy": 3
+        },
+        "usd_growth_pct": {
+          "qoq": null,
+          "yoy": null
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": 1409,
+        "ebit_margin_pct": null,
+        "pat_inr": 636,
+        "pat_usd": null,
+        "pat_margin_pct": null,
+        "basic_eps_inr": 2.6
+      },
+      "order_book": {
+        "tcv_new_deals": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [
+        {
+          "segment": "Farm Equipment Finance",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Rural Group Loans",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Micro Finance",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Two Wheeler Finance",
+          "revenue_inr": null,
+          "growth_pct_qoq": -26
+        },
+        {
+          "segment": "Personal Loans",
+          "revenue_inr": null,
+          "growth_pct_qoq": 98
+        },
+        {
+          "segment": "Home Loans",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "LAP",
+          "revenue_inr": null,
+          "growth_pct_qoq": -7
+        },
+        {
+          "segment": "SME Finance",
+          "revenue_inr": null,
+          "growth_pct_qoq": 26
+        },
+        {
+          "segment": "Real Estate Finance",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Infrastructure Finance",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        }
+      ],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": null
+      }
+    },
+    "current_fy": {
+      "period_label": "FY25",
+      "revenue": {
+        "total_inr": 9787,
+        "total_usd": null,
+        "cc_growth_pct_yoy": null,
+        "usd_growth_pct_yoy": null
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": 5803,
+        "ebit_margin_pct": null,
+        "pat_inr": 2644,
+        "pat_usd": null,
+        "pat_margin_pct": null,
+        "basic_eps_inr": 10.6
+      },
+      "order_book": {
+        "tcv_fy": null,
+        "tcv_growth_pct_yoy": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [
+        {
+          "segment": "Farm Equipment Finance",
+          "revenue_inr": null,
+          "growth_pct_yoy": 16
+        },
+        {
+          "segment": "Rural Group Loans and Micro Finance Loans",
+          "revenue_inr": null,
+          "growth_pct_yoy": 6
+        },
+        {
+          "segment": "Two Wheeler Finance",
+          "revenue_inr": null,
+          "growth_pct_yoy": 10
+        },
+        {
+          "segment": "Personal Loans",
+          "revenue_inr": null,
+          "growth_pct_yoy": 34
+        },
+        {
+          "segment": "Home Loans",
+          "revenue_inr": null,
+          "growth_pct_yoy": 32
+        },
+        {
+          "segment": "LAP",
+          "revenue_inr": null,
+          "growth_pct_yoy": 46
+        },
+        {
+          "segment": "SME Finance",
+          "revenue_inr": null,
+          "growth_pct_yoy": 67
+        },
+        {
+          "segment": "Real Estate Finance",
+          "revenue_inr": null,
+          "growth_pct_yoy": -50
+        },
+        {
+          "segment": "Infrastructure Finance",
+          "revenue_inr": null,
+          "growth_pct_yoy": -56
+        },
+        {
+          "segment": "Wholesale Finance",
+          "revenue_inr": null,
+          "growth_pct_yoy": -53
+        }
+      ],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": null
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "LTF achieved its highest ever annual PAT of INR 2,644 Cr, a 14% YoY growth, and its highest ever RoA of 2.44%.  Retail disbursements for FY25 were INR 60,040 Cr, up 11% YoY. The retail book grew 19% YoY to INR 95,180 Cr. Q4 PAT was INR 636 Cr, up 15% YoY.  Despite these positive results, the company faced challenges in the microfinance sector, particularly in Karnataka due to a new ordinance, and implemented a risk-calibrated disbursement strategy in certain segments.",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": "Quarter-on-Quarter Analysis (Q4 FY25 vs. Q3 FY25): Total Income decreased slightly by 2%.  A bar chart would effectively visualize this change. PAT increased marginally by 2%. A bar chart could also illustrate this change.\nYear-on-Year Analysis (Q4 FY25 vs. Q4 FY24): Total Income grew by 3%. A bar chart would effectively visualize this change. PAT increased by 15%. A bar chart could also illustrate this change. The primary drivers for these changes include the company\u0027s risk-calibrated disbursement strategy, growth in secured asset disbursements in segments like Farmer Finance and Home Loans/LAP, and the utilization of macro-prudential provisions to offset increased credit costs in the microfinance segment."
+      },
+      "full_year": {
+        "narrative": "Year-on-Year Analysis (FY25 vs. FY24):\nRevenue: Overall revenue increased by 12% YoY, driven by growth in most retail segments, particularly Urban Finance and SME Finance. A bar chart comparing FY25 and FY24 revenues would visually represent this growth.\nProfitability: PAT increased by 14% YoY.  Operating margins (NIM \u002B Fees) decreased slightly by 7 bps YoY to 10.59%.  A line chart showing NIM \u002B Fees over FY25 would highlight this trend. Key influencing factors include book mix changes, a risk-calibrated disbursement strategy, and the utilization of macro-prudential provisions."
+      }
+    },
+    "segment_geographic_deep_dive": "Rural Business Finance faced challenges due to a new ordinance in Karnataka impacting collection efficiencies, though other states performed well and the company expects normalization by early Q2 FY26. Farmer Finance performed strongly, driven by a favorable monsoon and optimal rural liquidity. Urban Finance experienced growth, with Personal Loans achieving the highest ever quarterly disbursement, driven by DSA channel expansion and fintech partnerships.  SME Finance also demonstrated strong growth. Two-wheeler Finance saw tempered disbursements due to a focus on prime customers and risk-adjusted returns, with plans to recalibrate upwards in the coming quarters.",
+    "deal_wins_pipeline_quality": "No specific quantitative data on deal wins or TCV was provided in the documents. However, the company highlighted strategic initiatives such as Project Cyclops for credit underwriting and Project Nostradamus for portfolio management, which are expected to improve portfolio quality and drive future growth.",
+    "management_commentary_outlook": "For FY26, management expects disbursement momentum to accelerate, especially in urban businesses and in the second half for rural businesses, with overall book size growth projected at 20%\u002B. They anticipate a return to growth trajectory in the microfinance business from Q1 FY26, further accelerating in H2 FY26.  Growth in all lines of business will be a key priority, with a risk-calibrated approach.  NIM \u002B Fees is expected to be in the 10-10.5% range.  Return on Assets is projected to be between 2.4% and 2.5% for FY26, with sequential improvement in the second half, driven by declining credit costs and operating efficiencies. Management remains cautious about geopolitical risks and notes that the guidance does not account for unforeseen developments.",
+    "comparison_to_expectations": "",
+    "key_risks_headwinds": "Management highlighted the challenging operating environment in the microfinance sector, particularly due to the Karnataka ordinance and a new bill in Tamil Nadu.  They also acknowledged macro uncertainties, including geopolitical risks and potential impact on global growth and inflation, as headwinds.",
+    "operational_efficiency": "The company is focused on improving operational efficiency through initiatives like Project Cyclops and Project Nostradamus, which are expected to improve credit administration and portfolio management. They also aim to enhance sales channel productivity and optimize operating expenses. No specific data was provided on DSO, utilization, or the impact of headcount changes."
+  }
+}

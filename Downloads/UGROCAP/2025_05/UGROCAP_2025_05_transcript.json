@@ -1,0 +1,165 @@
+﻿{
+  "metadata": {
+    "company": "UGROCAP",
+    "report_generated_on": "2025-05-05",
+    "source_documents": [
+      {
+        "file_name": "Transcript of the Earnings Call with Analysts Investors held on 28th April 2025.pdf",
+        "type": "Earnings Call Transcript",
+        "period_covered": "Q4 FY25 and FY25",
+        "url": ""
+      },
+      {
+        "file_name": "Revised Investor Presentation for the quarter and year ended 31st March 2025.pdf",
+        "type": "Investor Presentation",
+        "period_covered": "Q4 FY25 and FY25",
+        "url": ""
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q4 FY25",
+      "revenue": {
+        "total_inr": 2310000000,
+        "total_usd": null,
+        "cc_growth_pct": {
+          "qoq": null,
+          "yoy": 14
+        },
+        "usd_growth_pct": {
+          "qoq": null,
+          "yoy": null
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": null,
+        "ebit_margin_pct": null,
+        "pat_inr": 405000000,
+        "pat_usd": null,
+        "pat_margin_pct": 24,
+        "basic_eps_inr": null
+      },
+      "order_book": {
+        "tcv_new_deals": 24360000000,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": 5440000000,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [
+        {
+          "segment": "Secured Business Loan",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Business Loan",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Emerging Market LAP",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Machinery Loan",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Partnerships \u0026 Alliances",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Embedded Finance",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        }
+      ],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": null
+      }
+    },
+    "current_fy": {
+      "period_label": "FY25",
+      "revenue": {
+        "total_inr": 8140000000,
+        "total_usd": null,
+        "cc_growth_pct_yoy": 27,
+        "usd_growth_pct_yoy": null
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": null,
+        "ebit_margin_pct": null,
+        "pat_inr": 1440000000,
+        "pat_usd": null,
+        "pat_margin_pct": 21,
+        "basic_eps_inr": 15.7
+      },
+      "order_book": {
+        "tcv_fy": 76510000000,
+        "tcv_growth_pct_yoy": 30,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": 5440000000,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": null
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "UGRO Capital demonstrated strong financial performance in FY25, achieving a 30% YoY growth in disbursements to INR 7,651 Crores. Q4 FY25 marked the highest-ever quarterly origination at INR 2,436 Crores, a 57% YoY increase, driven by the Emerging Market channel. AUM grew by 33% YoY to INR 12,003 Crores. Net total income rose 27% YoY to INR 814 Crores, and PAT increased 21% YoY to INR 144 Crores. Asset quality remained stable with a GNPA of 2.3% and NNPA of 1.6%. The company\u0027s DataTech-driven business model and focus on the underserved MSME segment contributed to its success.",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": "In Q4 FY25, UGRO Capital reported a net total income of INR 231 Crores, a 14% YoY increase, and a PAT of INR 40.5 Crores, a 24% YoY increase. QoQ growth figures were not available in the provided documents. The record quarterly origination of INR 2,436 Crores was a significant driver of this growth, fueled by the Emerging Market channel.  A bar chart comparing revenues, EBIT, and PAT across Q4 FY25, Q3 FY25, and Q4 FY24 would visually represent the growth.  Line charts could show the trends in EBIT and PAT margins over the same period.  Additional data for EBIT margin would be needed for a complete analysis."
+      },
+      "full_year": {
+        "narrative": "FY25 saw a 27% YoY increase in net total income to INR 814 Crores and a 21% YoY increase in PAT to INR 144 Crores. The company\u0027s focus on expanding its Emerging Market portfolio and leveraging its DataTech platform contributed to this growth. While the company aimed for improvements in cost-to-income and return on assets, the specific trajectory of operating margins over FY25 was not detailed in the transcript or presentation. Further information is needed to identify the key influencing factors on margins, such as wage hikes, productivity pass-backs, and cost optimization."
+      }
+    },
+    "segment_geographic_deep_dive": "The Emerging Market segment was a key growth driver in FY25, with disbursements increasing 159% YoY to INR 1,869 Crores and AUM growing 127% to INR 2,596 Crores. The segment\u0027s contribution to total AUM increased from 13% to 22%. The company plans to further expand this segment by increasing the number of branches to 400 by March 2026.  No specific geographic performance data was available in the provided documents.  The presentation includes a breakdown of AUM by state, but no revenue or growth figures.  Further information would be needed for a complete analysis.",
+    "deal_wins_pipeline_quality": "The company achieved record disbursements in Q4 FY25 and FY25, demonstrating a healthy order book. The transcript mentioned a shift towards the Emerging Market segment, and the presentation highlighted the successful initiation of embedded finance disbursements through the MyShubhLife platform, which reached an AUM of INR 743 Crores.  No specific commentary on the deal pipeline strength or nature of deals was available in the provided documents.",
+    "management_commentary_outlook": "Management expressed confidence in UGRO Capital\u0027s positioning to capitalize on the growing MSME credit opportunities. They aim to expand the Emerging Market portfolio to 32%-35% of AUM in the next 6-8 quarters. They also aim to improve cost-to-income and return on assets without compromising asset quality or profitability.  No specific outlook for the next quarter or FY was provided in the documents.",
+    "comparison_to_expectations": "",
+    "key_risks_headwinds": "Management acknowledged market concerns about NBFC growth and sustainability, referencing RBI regulatory measures and actions impacting the sector. However, they maintained that these interventions did not impede credit flow to MSMEs and that UGRO remained growth-oriented.  No other specific risks or headwinds were mentioned.",
+    "operational_efficiency": "The company\u0027s cost of borrowing remained stable at 10.61%.  The transcript mentioned ongoing efforts to improve cost-to-income, but no specific trends in DSO, utilization, or attrition were provided. The impact of headcount changes and fresher onboarding was not discussed in detail."
+  }
+}

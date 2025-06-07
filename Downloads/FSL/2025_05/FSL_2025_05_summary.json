@@ -1,0 +1,171 @@
+{
+  "metadata": {
+    "company": "FSL (Firstsource Solutions Limited)",
+    "report_generated_on": "2025-05-02",
+    "source_documents": [
+      {
+        "file_name": "FSL Q4FY25 Earnings Call Transcript.pdf",
+        "type": "Earnings Call Transcript",
+        "period_covered": "Q4 FY25",
+        "url": ""
+      },
+      {
+        "file_name": "FSL Q4FY25 Earnings Presentation.pdf",
+        "type": "Investor Presentation",
+        "period_covered": "Q4 FY25",
+        "url": ""
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q4 FY25",
+      "revenue": {
+        "total_inr": 21615,
+        "total_usd": 250,
+        "cc_growth_pct": {
+          "qoq": 2.1,
+          "yoy": 25.0
+        },
+        "usd_growth_pct": {
+          "qoq": 0.4,
+          "yoy": 24.3
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": 3328,
+        "ebitda_margin_pct": 15.4,
+        "ebit_inr": 2422,
+        "ebit_margin_pct": 11.2,
+        "pat_inr": 1607,
+        "pat_usd": null,
+        "pat_margin_pct": 7.4,
+        "basic_eps_inr": 2.28
+      },
+      "order_book": {
+        "tcv_new_deals": null,
+        "pipeline_commentary": "Exit deal pipeline is higher by over 30% versus Q4FY24."
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": 2200,
+        "cash_and_investments_usd": null,
+        "dso_days": 70
+      },
+      "segment_performance": [
+        {
+          "segment": "Banking and Financial Services",
+          "revenue_inr": null,
+          "growth_pct_qoq": 5
+        },
+        {
+          "segment": "Healthcare",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "CMT",
+          "revenue_inr": null,
+          "growth_pct_qoq": 6
+        },
+        {
+          "segment": "Diverse",
+          "revenue_inr": null,
+          "growth_pct_qoq": -9
+        }
+      ],
+      "geographic_performance": [
+        {
+          "region": "North America",
+          "revenue_inr": null,
+          "growth_pct_qoq": 3
+        },
+        {
+          "region": "Europe",
+          "revenue_inr": null,
+          "growth_pct_qoq": -3
+        },
+        {
+          "region": "Australia",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        }
+      ],
+      "headcount_metrics": {
+        "total_headcount": 34651,
+        "net_additions_yoy": 507,
+        "attrition_pct_ttm": 29.8,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": null
+      }
+    },
+    "current_fy": {
+      "period_label": "FY25",
+      "revenue": {
+        "total_inr": 79803,
+        "total_usd": 944,
+        "cc_growth_pct_yoy": 22.6,
+        "usd_growth_pct_yoy": 23.3
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": 12076,
+        "ebitda_margin_pct": 15.1,
+        "ebit_inr": 8806,
+        "ebit_margin_pct": 11.0,
+        "pat_inr": 5945,
+        "pat_usd": null,
+        "pat_margin_pct": 7.4,
+        "basic_eps_inr": 8.42
+      },
+      "order_book": {
+        "tcv_fy": null,
+        "tcv_growth_pct_yoy": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": 34651,
+        "net_additions_yoy": 6711,
+        "attrition_pct_ttm": 29.8,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": null
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "FSL achieved a milestone in Q4 FY25 by reaching a US$1 billion annualized revenue run rate, exceeding its target by four quarters. FY25 revenue grew by 25.9% in INR and 23.3% in USD, exceeding guidance. EBIT margin for FY25 was 11.1% (excluding one-offs), within the guided range. PAT grew by 15.5% YoY to INR 5.94 billion. Q4 saw strong revenue growth (29.4% YoY in INR), with EBIT margin expanding by 20 bps YoY and PAT growing by 22.6% YoY (normalized).",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": "Q4 FY25 revenue showed robust growth of 29.4% YoY in INR and 24.3% YoY in USD, driven by deal ramp-ups and seasonal strength in collections. EBIT margin improved by 20 bps YoY to 11.2%, driven by operational efficiencies and cost optimization initiatives. PAT increased by 22.6% YoY (normalized), benefiting from revenue growth and margin expansion. QoQ growth in constant currency revenue was 2.1%, with EBIT margin up by 10 bps and normalized PAT up by 6.1%. Suitable charts would be bar charts comparing revenues, EBIT, and PAT across Q3 and Q4 FY25 and Q4 FY24, and line charts showing margin trends."
+      },
+      "full_year": {
+        "narrative": "FY25 revenue demonstrated strong growth of 25.9% YoY in INR and 23.3% YoY in USD, driven by successful execution of the company\u0027s strategic initiatives and strong deal wins. Operating margin remained relatively stable at 11.0% (11.1% excluding one-offs), reflecting investments in the business offset by cost optimization efforts. The trajectory over FY25 was of stable margins with slight improvement in the last three quarters.  Wage hikes, productivity pass-backs, cost optimization and the impact of deal ramp-ups/delays were key factors influencing margins. A suitable chart would be a line chart showing operating margin trends across the four quarters of FY25."
+      }
+    },
+    "segment_geographic_deep_dive": "BFS grew by 12% YoY in CC terms, driven by deal ramp-ups and seasonal collections strength. Healthcare saw modest sequential growth in Q4 due to a previous slowdown in deal-making, but momentum is picking up with strong deal wins. CMT grew by 12% YoY in CC terms, driven by traction in consumer tech. The diverse segment declined by 9% QoQ in CC terms due to retail seasonality. Geographically, North America grew by 30% YoY in CC terms, while Europe declined by 3% QoQ in CC terms due to UK retail softness. Australia showed strong growth. No client-specific issues were mentioned.",
+    "deal_wins_pipeline_quality": "FSL signed five large deals in Q4 and 14 in FY25, the highest ever, including four deals with ACV over US$10 million. The deal pipeline is strong, with the exit pipeline up 30% over Q4 FY24. Deals are increasingly transformative and include BPaaS offerings, indicating a shift towards more strategic and long-term partnerships.  A notable win was a US$50\u002B million ACV BPaaS deal in healthcare.  Management believes the deal wins reflect their success in leveraging industry expertise, technology partnerships, and automation/AI capabilities.",
+    "management_commentary_outlook": "For FY26, management expects revenue growth of 12-15% in CC terms and EBIT margin of 11.25-12%. The guidance reflects the current business outlook and does not incorporate potential macro changes. Management is focused on continuing to win deals, improving conversion rates, and managing the ramp-up of transformative deals.",
+    "comparison_to_expectations": "FY25 CC revenue growth of 22.6% exceeded the higher end of the guided range (21.8% to 22.3%). FY25 EBIT margin (excluding one-offs) of 11.1% was within the guided range of 11% to 11.5%. Q4 revenue exceeded internal expectations, with the business reaching a US$1 billion run rate four quarters ahead of guidance.",
+    "key_risks_headwinds": "Management mentioned macro uncertainties, particularly in the UK, and a slowdown in decision-making in healthcare during Q2 FY25. They also highlighted the potential disruption of the BPO industry by AI and the need for companies to adapt their business models.",
+    "operational_efficiency": "DSO was 70 days in Q4, but normalized to 67 days after accounting for delayed collections. TTM attrition decreased to 29.8% in Q4 and is expected to continue improving.  Headcount increased by 6,711 in FY25, with 80% of gross additions in offshore and nearshore locations.  Utilization rate was not provided. The company invested heavily in upskilling, delivering over 200,000 digital learning hours."
+  }
+}

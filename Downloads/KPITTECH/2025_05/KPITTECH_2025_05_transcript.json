@@ -1,0 +1,188 @@
+﻿{
+  "metadata": {
+    "company": "KPITTECH",
+    "report_generated_on": "2024-04-07",
+    "source_documents": [
+      {
+        "file_name": "KPIT Technologies Limited Q4 FY \u002725 Earnings Conference Call Transcript - April 28, 2025.pdf",
+        "type": "Earnings Call Transcript",
+        "period_covered": "Q4 FY25 and FY25",
+        "url": ""
+      },
+      {
+        "file_name": "KPIT Technologies Limited Q4 FY25 Investor Presentation.pdf",
+        "type": "Investor Presentation",
+        "period_covered": "Q4 FY25 and FY25",
+        "url": ""
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q4 FY25",
+      "revenue": {
+        "total_inr": 15283.44,
+        "total_usd": 177,
+        "cc_growth_pct": {
+          "qoq": 3,
+          "yoy": 15
+        },
+        "usd_growth_pct": {
+          "qoq": 0.7,
+          "yoy": 11.5
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": 3229.91,
+        "ebitda_margin_pct": 21.1,
+        "ebit_inr": 2650.68,
+        "ebit_margin_pct": 17.3,
+        "pat_inr": 2447.25,
+        "pat_usd": null,
+        "pat_margin_pct": 16,
+        "basic_eps_inr": 9.01
+      },
+      "order_book": {
+        "tcv_new_deals": 280,
+        "pipeline_commentary": "Robust pipeline growth continues."
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": 15850,
+        "cash_and_investments_usd": null,
+        "dso_days": 44
+      },
+      "segment_performance": [
+        {
+          "segment": "Passenger Cars",
+          "revenue_inr": null,
+          "growth_pct_qoq": -2.2
+        },
+        {
+          "segment": "Commercial Vehicles",
+          "revenue_inr": null,
+          "growth_pct_qoq": 0.7
+        }
+      ],
+      "geographic_performance": [
+        {
+          "region": "US",
+          "revenue_inr": null,
+          "growth_pct_qoq": 5.9
+        },
+        {
+          "region": "Europe",
+          "revenue_inr": null,
+          "growth_pct_qoq": -7.4
+        },
+        {
+          "region": "Asia",
+          "revenue_inr": null,
+          "growth_pct_qoq": 10
+        }
+      ],
+      "headcount_metrics": {
+        "total_headcount": 12873,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": 6
+      }
+    },
+    "current_fy": {
+      "period_label": "FY25",
+      "revenue": {
+        "total_inr": 58423.45,
+        "total_usd": null,
+        "cc_growth_pct_yoy": 18.7,
+        "usd_growth_pct_yoy": null
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": 12297.75,
+        "ebitda_margin_pct": 21,
+        "ebit_inr": 10048.15,
+        "ebit_margin_pct": 17.2,
+        "pat_inr": 8396,
+        "pat_usd": null,
+        "pat_margin_pct": 14.4,
+        "basic_eps_inr": 30.93
+      },
+      "order_book": {
+        "tcv_fy": null,
+        "tcv_growth_pct_yoy": null,
+        "pipeline_commentary": "Robust pipeline growth continues. Transformative large engagements won, which will contribute to revenue growth in H2 of FY26"
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": 15850,
+        "cash_and_investments_usd": null,
+        "dso_days": 44
+      },
+      "segment_performance": [
+        {
+          "segment": "Passenger Cars",
+          "revenue_inr": null,
+          "growth_pct_yoy": 22.7
+        },
+        {
+          "segment": "Commercial Vehicles",
+          "revenue_inr": null,
+          "growth_pct_yoy": -0.9
+        }
+      ],
+      "geographic_performance": [
+        {
+          "region": "US",
+          "revenue_inr": null,
+          "growth_pct_yoy": 4.8
+        },
+        {
+          "region": "Europe",
+          "revenue_inr": null,
+          "growth_pct_yoy": 7.9
+        },
+        {
+          "region": "Asia",
+          "revenue_inr": null,
+          "growth_pct_yoy": 70.6
+        }
+      ],
+      "headcount_metrics": {
+        "total_headcount": 12873,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": 8.5
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "KPIT Technologies reported strong financial performance in FY25, with 18.7% CC revenue growth and 24% EBITDA growth.  Net profit increased by 41.2%. Q4 FY25 also showed healthy growth with 15% YoY CC revenue growth, 18.4% YoY EBITDA growth, and 34.9% YoY PAT growth (excluding one-time income).  The company achieved its increased EBITDA margin guidance of 21% and closed the quarter with a strong cash position.  A final dividend of \u20B96 per share was proposed, bringing the total dividend for FY25 to \u20B98.5 per share.  Deal wins were healthy at $280 million for the quarter, and the company has a robust deal pipeline.",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": "Q4 FY25 showed robust QoQ and YoY growth across key metrics. Revenue grew by 3% QoQ and 15% YoY in CC terms. EBIT increased by an impressive 18.5% YoY and 3.5% QoQ, driven by revenue growth and stable margins. PAT also grew significantly, by 18.5% QoQ and 34.9% YoY (excluding one-time items).  A bar chart would effectively visualize the revenue, EBIT, and PAT growth across Q3 FY25, Q4 FY24, and Q4 FY25.  A line chart could illustrate margin trends over the same period.\n\nThe company experienced headwinds from INR appreciation against the USD, but this was offset by INR depreciation against other major currencies like Euro, GBP, and Yen, which constitute a significant portion of their revenue. This resulted in higher reported INR revenues."
+      },
+      "full_year": {
+        "narrative": "FY25 witnessed significant YoY improvements in revenue and profitability.  Revenue grew by 18.7% in CC terms, while EBITDA grew by 24% and PAT by 41.2% (including one-time income) or 29.8% (excluding one-time income). The EBITDA margin for FY25 was 21%, meeting the increased guidance. Operating margins remained strong throughout FY25, driven by factors such as increased offshoring, productivity improvements through automation and AI, and cost optimization initiatives.  A bar chart comparing FY24 and FY25 revenue, EBITDA, and PAT would be useful, as would a line chart showcasing the trajectory of operating margins across the four quarters of FY25."
+      }
+    },
+    "segment_geographic_deep_dive": "Asia was the primary growth driver in FY25, with 73.3% YoY growth, driven by SDV projects and new client wins. Europe experienced a slight decline (-6.4%) in Q4, likely due to macro uncertainties and project delays. However, the company maintains a strong pipeline in Europe, particularly in SDV programs with German OEMs. The US showed modest growth (4% YoY) but is expected to accelerate in FY26 with new client engagements in passenger cars and off-highway vehicles.  Passenger cars continued to be the largest revenue contributor, but the company is actively pursuing growth in commercial vehicles and off-highway segments, with new wins in these areas.",
+    "deal_wins_pipeline_quality": "The order book and deal pipeline remain healthy. Q4 FY25 saw $280 million in new deal wins, and the company has secured several transformative large deals that are expected to contribute to revenue growth in H2 FY26. The deal pipeline is growing, with increasing opportunities in Europe, particularly in SDV programs. The company is also seeing a shift towards larger, more strategic deals, which is a positive sign for long-term growth.  The nature of deals is evolving, with increasing focus on efficiency-driven solutions, AI-led offerings, and cost reduction programs.",
+    "management_commentary_outlook": "Management is confident about the company\u0027s medium-term growth trajectory, driven by a strong deal pipeline, strategic engagements with key clients like Mercedes-Benz, and expansion into new markets and adjacencies.  While acknowledging macro uncertainties related to tariffs and trade agreements, management believes these will be resolved in the near term.  They expect growth to be broad-based across geographies and verticals in FY26. Management anticipates continued robust growth in the passenger car segment and meaningful contributions from commercial vehicles and off-highway segments. They also highlighted the importance of AI and automation in driving productivity and cost optimization.",
+    "comparison_to_expectations": "KPIT met its increased EBITDA margin guidance of 21% for FY25.  The company did not provide specific revenue guidance for FY25 but indicated they were within their initial expectations.  No specific guidance was provided for FY26, citing macroeconomic uncertainties.  Management plans to provide more frequent updates throughout the year as the situation stabilizes.",
+    "key_risks_headwinds": "Management acknowledged macroeconomic uncertainties, particularly related to tariffs and trade agreements, as potential headwinds in the near term.  They also noted that some clients, especially European OEMs, are exhibiting caution in spending due to the current macro environment, which could lead to project delays or ramp-ups being slower than anticipated.  Geopolitical factors and potential disruptions in the global supply chain were also mentioned as potential risks.",
+    "operational_efficiency": "KPIT maintained strong operating cash flow during the quarter. DSO remained stable at 44 days.  The company is focusing on improving productivity through AI and automation and optimizing its pyramid structure to reduce average costs.  While the company did not provide specific data on utilization and attrition, they mentioned that wage increases in FY26 will be more performance-based, linked to productivity improvements and contributions to AI-driven initiatives. This suggests a focus on improving operational efficiency and retaining key talent."
+  }
+}

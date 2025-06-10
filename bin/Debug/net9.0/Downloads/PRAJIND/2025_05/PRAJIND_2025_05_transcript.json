@@ -1,0 +1,177 @@
+﻿{
+  "metadata": {
+    "company": "PRAJIND",
+    "report_generated_on": "2025-05-06",
+    "source_documents": [
+      {
+        "file_name": "PIL_ANB_L-18_2025-26.pdf",
+        "type": "Earnings Call Transcript",
+        "period_covered": "Q4 FY2025",
+        "url": ""
+      },
+      {
+        "file_name": "PIL_ANB_L-016_2025-26.pdf",
+        "type": "Investor Presentation",
+        "period_covered": "Q4 FY2025",
+        "url": ""
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q4 FY2025",
+      "revenue": {
+        "total_inr": 8597,
+        "total_usd": null,
+        "cc_growth_pct": {
+          "qoq": null,
+          "yoy": null
+        },
+        "usd_growth_pct": {
+          "qoq": null,
+          "yoy": null
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": 739,
+        "ebitda_margin_pct": 8.6,
+        "ebit_inr": null,
+        "ebit_margin_pct": null,
+        "pat_inr": 398,
+        "pat_usd": null,
+        "pat_margin_pct": 4.63,
+        "basic_eps_inr": 2.17
+      },
+      "order_book": {
+        "tcv_new_deals": 10320,
+        "pipeline_commentary": "Strong buildup of inquiry pipeline mainly from America, Brazil, Argentina and Paraguay. Healthy buildup of enquiries in CBG segment that are expected to translate into firm business. Healthy buildup of inquiry pipeline from high-capacity fermenters, complex injectables, and blood plasma storage, batteries, EV, solar cells and semiconductors segments."
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": 6000,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [
+        {
+          "segment": "Bioenergy",
+          "revenue_inr": 5920,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Engineering",
+          "revenue_inr": 1460,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "HiPurity",
+          "revenue_inr": 1210,
+          "growth_pct_qoq": null
+        }
+      ],
+      "geographic_performance": [
+        {
+          "region": "Domestic",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "region": "Export",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        }
+      ],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": 6
+      }
+    },
+    "current_fy": {
+      "period_label": "FY2025",
+      "revenue": {
+        "total_inr": 32280,
+        "total_usd": null,
+        "cc_growth_pct_yoy": null,
+        "usd_growth_pct_yoy": null
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": 3248,
+        "ebitda_margin_pct": 10.06,
+        "ebit_inr": null,
+        "ebit_margin_pct": null,
+        "pat_inr": 2189,
+        "pat_usd": null,
+        "pat_margin_pct": 6.78,
+        "basic_eps_inr": 11.91
+      },
+      "order_book": {
+        "tcv_fy": 42930,
+        "tcv_growth_pct_yoy": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": 90
+      },
+      "segment_performance": [
+        {
+          "segment": "Bioenergy",
+          "revenue_inr": 22790,
+          "growth_pct_yoy": null
+        },
+        {
+          "segment": "Engineering",
+          "revenue_inr": 6370,
+          "growth_pct_yoy": null
+        },
+        {
+          "segment": "HiPurity",
+          "revenue_inr": 3110,
+          "growth_pct_yoy": null
+        }
+      ],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": 1800,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": null
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "PRAJIND achieved 20% ethanol blending in India ahead of schedule and partnered with Uhde Inventa-Fischer for PLA production. Q4 FY25 consolidated revenue decreased by 15.6% YoY to INR 8.597 billion, while PAT decreased significantly by 56.7% YoY to INR 398 million. FY25 consolidated revenue decreased by 6.9% YoY to INR 32.280 billion, and PAT decreased by 22.8% YoY to INR 2.189 billion.  Liquidity challenges impacted project execution, and GenX facility costs affected profitability. However, international business, CBG, and services showed significant contributions. Order book grew in services and internationally, particularly in PHS.",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": "QoQ analysis is unavailable due to lack of Q3 data in the transcript. YoY, Q4 FY25 revenue decreased by 15.6%, EBIT data unavailable, and PAT decreased by 56.7%. EBITDA margin decreased from 12.83% to 8.6%. Key drivers include liquidity challenges impacting revenue and increased expenses related to the GenX facility. A bar chart comparing revenues and PAT across Q4 FY24 and Q4 FY25, and a line chart showing EBITDA margin trends would be suitable visual representations."
+      },
+      "full_year": {
+        "narrative": "FY25 revenue decreased by 6.9% YoY, and PAT decreased by 22.8% YoY. EBITDA margin decreased from 11.19% to 10.06%. Factors influencing operating margins include delayed order intake, slow execution, and costs associated with the GenX facility. A bar chart comparing revenues and PAT across FY24 and FY25, and a line chart showing EBITDA margin trends would be suitable visual representations."
+      }
+    },
+    "segment_geographic_deep_dive": "Bioenergy contributed 70% of FY25 revenue, engineering 20%, and HiPurity 10%. Export revenue increased to 24% of total revenue in FY25 from 18% in FY24.  Specific growth drivers for each segment were not quantified, but management mentioned increased traction in CBG and services, as well as a positive outlook for international bioenergy driven by demand from the Americas.",
+    "deal_wins_pipeline_quality": "Order book stood at INR 42.93 billion at the end of FY25.  A significant CBG project (36 TPD) was won in India, and a term sheet was signed with BPCL for 10 CBG projects. A significant ethanol plant contract was won in Paraguay.  Praj GenX secured long-term framework agreements with three customers.  The pipeline appears healthy, with increasing interest in bioplastics, CBG, and international bioenergy projects.",
+    "management_commentary_outlook": "Management is optimistic about long-term growth driven by emerging opportunities beyond EBP 20 in India, including flex-fuel vehicles and SAF.  They expect continued growth in international markets, especially in bioenergy.  Management anticipates Praj GenX will contribute significantly to revenue and PBT from FY26 onwards. They also highlighted the potential of co-product development and debottlenecking solutions to enhance customer margins and drive demand.",
+    "comparison_to_expectations": "",
+    "key_risks_headwinds": "Liquidity challenges in the market are extending project execution cycles.  The evolving regulatory landscape for CBG and diesel blending presents uncertainties.  Competition in the US market and potential tariff impacts are also mentioned as risks.",
+    "operational_efficiency": "DSO data was not available. Praj GenX commenced operations, but scale-up expenses impacted profitability.  Utilization and attrition rates were not disclosed. Management mentioned strengthening their presence in the Americas by adding local resources."
+  }
+}

@@ -1,20 +1,20 @@
 ```json
 {
   "metadata": {
-    "company": "JSWINFRA",
-    "report_generated_on": "2025-05-13",
+    "company": "LTIMindtree",
+    "report_generated_on": "2025-04-28",
     "source_documents": [
       {
-        "file_name": "JSW Infrastructure Limited Q4 FY '25 Earnings Conference Call April 30, 2025.pdf",
+        "file_name": "LTIM/SE/STAT/2025-26/14",
         "type": "Earnings Call Transcript",
-        "period_covered": "Q4 FY25",
+        "period_covered": "Q4 FY2025",
         "url": ""
       },
       {
-        "file_name": "JSW Infrastructure Investor Presentation May 2025.pdf",
+        "file_name": "LTIM/SE/STAT/2025-26/11",
         "type": "Investor Presentation",
-        "period_covered": "FY25",
-        "url": "https://www.jsw.in/infrastructure/jsw-infrastructure-investor-presentation"
+        "period_covered": "Q4 FY2025",
+        "url": ""
       }
     ],
     "base_currency": {
@@ -24,113 +24,197 @@
   },
   "data_extraction": {
     "latest_quarter": {
-      "period_label": "Q4 FY25",
+      "period_label": "Q4 FY2025",
       "revenue": {
-        "total_inr": 1372,
-        "total_usd": null,
+        "total_inr": 97717,
+        "total_usd": 1131,
         "cc_growth_pct": {
-          "qoq": null,
-          "yoy": 14
+          "qoq": -0.6,
+          "yoy": 6.3
         },
         "usd_growth_pct": {
-          "qoq": null,
-          "yoy": null
+          "qoq": -0.7,
+          "yoy": 5.8
         }
       },
       "profitability": {
-        "gross_margin_pct": null,
-        "ebitda_inr": 730,
-        "ebitda_margin_pct": 53,
-        "ebit_inr": 499,
-        "ebit_margin_pct": null,
-        "pat_inr": 516,
-        "pat_usd": null,
-        "pat_margin_pct": null,
-        "basic_eps_inr": null
+        "gross_margin_pct": 27.9,
+        "ebitda_inr": 15962,
+        "ebitda_margin_pct": 16.3,
+        "ebit_inr": 13454,
+        "ebit_margin_pct": 13.8,
+        "pat_inr": 11286,
+        "pat_usd": 130.6,
+        "pat_margin_pct": 11.5,
+        "basic_eps_inr": 38.1
       },
       "order_book": {
-        "tcv_new_deals": null,
-        "pipeline_commentary": ""
+        "tcv_new_deals": 1600,
+        "pipeline_commentary": "Our year-end deal pipeline continues to remain robust."
       },
       "cash_flow_balance_sheet": {
-        "ocf_to_pat_ratio": null,
-        "fcf_to_pat_ratio": null,
-        "cash_and_investments_inr": 3188,
-        "cash_and_investments_usd": null,
-        "dso_days": null
+        "ocf_to_pat_ratio": 98.8,
+        "fcf_to_pat_ratio": 78.5,
+        "cash_and_investments_inr": 133460,
+        "cash_and_investments_usd": 1560,
+        "dso_days": 79
       },
-      "segment_performance": [],
-      "geographic_performance": [],
+      "segment_performance": [
+        {
+          "segment": "Banking, Financial Services & Insurance",
+          "revenue_inr": 36242,
+          "growth_pct_qoq": 1.2
+        },
+        {
+          "segment": "Technology, Media & Communications",
+          "revenue_inr": 22952,
+          "growth_pct_qoq": -1.5
+        },
+        {
+          "segment": "Manufacturing & Resources",
+          "revenue_inr": 19486,
+          "growth_pct_qoq": 2.3
+        },
+        {
+          "segment": "Consumer Business",
+          "revenue_inr": 13705,
+          "growth_pct_qoq": -2.4
+        },
+        {
+          "segment": "Healthcare, Life Sciences & Public Services",
+          "revenue_inr": 5332,
+          "growth_pct_qoq": -14
+        }
+      ],
+      "geographic_performance": [
+        {
+          "region": "North America",
+          "revenue_inr": null,
+          "growth_pct_qoq": -1
+        },
+        {
+          "region": "Europe",
+          "revenue_inr": null,
+          "growth_pct_qoq": -2
+        },
+        {
+          "region": "Rest of the World",
+          "revenue_inr": null,
+          "growth_pct_qoq": 2.9
+        }
+      ],
       "headcount_metrics": {
-        "total_headcount": null,
-        "net_additions_yoy": null,
-        "attrition_pct_ttm": null,
-        "utilization_excl_trainees_pct": null
+        "total_headcount": 84307,
+        "net_additions_yoy": 2657,
+        "attrition_pct_ttm": 14.4,
+        "utilization_excl_trainees_pct": 85.8
       },
       "dividend": {
-        "final_dividend_per_share_inr": 0.8
+        "final_dividend_per_share_inr": 45
       }
     },
     "current_fy": {
-      "period_label": "FY25",
+      "period_label": "FY2025",
       "revenue": {
-        "total_inr": 4829,
-        "total_usd": null,
-        "cc_growth_pct_yoy": 20,
-        "usd_growth_pct_yoy": null
+        "total_inr": 380081,
+        "total_usd": 4492.5,
+        "cc_growth_pct_yoy": 5,
+        "usd_growth_pct_yoy": 4.8
       },
       "profitability": {
-        "gross_margin_pct": null,
-        "ebitda_inr": 2615,
-        "ebitda_margin_pct": 54.2,
-        "ebit_inr": 1709,
-        "ebit_margin_pct": null,
-        "pat_inr": 1521,
-        "pat_usd": null,
-        "pat_margin_pct": null,
-        "basic_eps_inr": null
+        "gross_margin_pct": 29.4,
+        "ebitda_inr": 64949,
+        "ebitda_margin_pct": 17.1,
+        "ebit_inr": 55034,
+        "ebit_margin_pct": 14.5,
+        "pat_inr": 46020,
+        "pat_usd": 543.9,
+        "pat_margin_pct": 12.1,
+        "basic_eps_inr": 155.3
       },
       "order_book": {
-        "tcv_fy": null,
-        "tcv_growth_pct_yoy": null,
-        "pipeline_commentary": ""
+        "tcv_fy": 6000,
+        "tcv_growth_pct_yoy": 6.1,
+        "pipeline_commentary": "Our year-end deal pipeline continues to remain robust."
       },
       "cash_flow_balance_sheet": {
         "ocf_to_pat_ratio": null,
         "fcf_to_pat_ratio": null,
-        "cash_and_investments_inr": null,
+        "cash_and_investments_inr": 133463,
         "cash_and_investments_usd": null,
-        "dso_days": null
+        "dso_days": 79
       },
-      "segment_performance": [],
-      "geographic_performance": [],
+      "segment_performance": [
+        {
+          "segment": "Banking, Financial Services & Insurance",
+          "revenue_inr": 137318,
+          "growth_pct_yoy": 4.6
+        },
+        {
+          "segment": "Technology, Media & Communications",
+          "revenue_inr": 93125,
+          "growth_pct_yoy": 8.7
+        },
+        {
+          "segment": "Manufacturing & Resources",
+          "revenue_inr": 72137,
+          "growth_pct_yoy": 7.2
+        },
+        {
+          "segment": "Consumer Business",
+          "revenue_inr": 54420,
+          "growth_pct_yoy": 0
+        },
+        {
+          "segment": "Healthcare, Life Sciences & Public Services",
+          "revenue_inr": 23081,
+          "growth_pct_yoy": -3
+        }
+      ],
+      "geographic_performance": [
+        {
+          "region": "North America",
+          "revenue_inr": null,
+          "growth_pct_yoy": 7.1
+        },
+        {
+          "region": "Europe",
+          "revenue_inr": null,
+          "growth_pct_yoy": -1.2
+        },
+        {
+          "region": "Rest of the World",
+          "revenue_inr": null,
+          "growth_pct_yoy": -1.7
+        }
+      ],
       "headcount_metrics": {
-        "total_headcount": null,
-        "net_additions_yoy": null,
-        "attrition_pct_ttm": null,
-        "utilization_excl_trainees_pct": null
+        "total_headcount": 84307,
+        "net_additions_yoy": 2657,
+        "attrition_pct_ttm": 14.4,
+        "utilization_excl_trainees_pct": 85.8
       },
       "dividend": {
-        "total_dividend_per_share_inr": 0.8
+        "total_dividend_per_share_inr": 65
       }
     }
   },
   "financial_analysis": {
-    "performance_summary": "",
+    "performance_summary": "LTIMindtree concluded FY25 with a 5% YoY CC revenue growth and a 14.5% EBIT margin. Growth was observed across key verticals and a major geography, despite a challenging macro environment. A strong order inflow, largely driven by AI-led deals, indicates pervasive AI integration across service offerings. Q4 FY25 saw a slight decline in revenue QoQ (-0.7% in USD terms, -0.6% in CC terms) and flat EBIT margins at 13.8% compared to Q3 FY25. PAT margin for Q4 was 11.5%, up from 11.2% in Q3 FY25.",
     "trend_analysis": {
       "latest_quarter": {
-        "narrative": ""
+        "narrative": "Q4 FY25 revenue declined by 0.7% QoQ in USD terms and 0.6% in CC terms.  YoY, USD revenue grew 5.8% and CC revenue grew 6.3%. EBIT margin remained flat at 13.8% compared to Q3 FY25, but declined YoY from 14.7%. PAT margin increased to 11.5% from 11.2% in Q3, and increased YoY from 12.4%. The decline in QoQ revenue was attributed to macro uncertainties impacting deal closures and ramp-ups.  However, the company managed to maintain EBIT margins due to improved operational efficiencies.  A suitable visual representation would be a bar chart comparing revenues, EBIT, and PAT across Q4 FY24, Q3 FY25, and Q4 FY25, along with line charts showing the trend of EBIT and PAT margins over these periods."
       },
       "full_year": {
-        "narrative": ""
+        "narrative": "FY25 revenue grew by 4.8% YoY in USD terms and 5% in CC terms. EBIT margin declined to 14.5% from 15.7% in FY24. PAT margin also declined to 12.1% from 12.9% in FY24.  The slowdown in the second half of the year was attributed to macro uncertainties. Key factors influencing operating margins include wage hikes implemented in Q2 FY25 and productivity pass-backs to clients. A bar chart comparing FY24 and FY25 revenue, EBIT, and PAT, along with line charts showing EBIT and PAT margin trends, would effectively visualize this data. "
       }
     },
-    "segment_geographic_deep_dive": "",
-    "deal_wins_pipeline_quality": "",
-    "management_commentary_outlook": "",
-    "comparison_to_expectations": "",
-    "key_risks_headwinds": "",
-    "operational_efficiency": ""
+    "segment_geographic_deep_dive": "BFSI, Technology, and Manufacturing verticals, contributing ~80% of FY25 revenue, showed good growth. Technology, Media & Communications grew 8.7% YoY in USD terms. BFSI grew 4.6% YoY, driven by large deals focused on cost optimization, vendor consolidation, and tech modernization. Manufacturing & Resources grew 7.2% YoY due to vendor consolidation, ERP transformation, and managed services. Consumer business remained flat YoY in CC terms, while Retail and CPG showed growth, offset by client-specific slowdowns in Travel, Transportation, and Hospitality. Healthcare, Life Sciences & Public Services declined 3% YoY, primarily due to the Healthcare segment. Geographically, North America grew 7.1% YoY, while Europe and Rest of the World declined 1.2% and 1.7% respectively.  Client-specific slowdowns were observed in the Travel, Transportation, and Hospitality segment.",
+    "deal_wins_pipeline_quality": "LTIMindtree recorded a robust order inflow of US$6 billion in FY25, up 6.1% YoY. Q4 order inflow was US$1.6 billion, marking the second consecutive quarter with over US$1.5 billion.  Significant deal wins include a multi-year deal with a US Life Insurance company focused on enhancing quality engineering using AI, an end-to-end outsourcing deal with a global re-insurance group for AIOps, and a deal with a KSA digital company for hybrid cloud security platform operations. The deal pipeline remains robust, reflecting a shift from discretionary to longer-term, efficiency-driven deals, including AI-led transformations.",
+    "management_commentary_outlook": "While acknowledging ongoing macro uncertainties, management expressed confidence in navigating the challenges and thriving in FY26. The focus will be on three key initiatives: 1) sales transformation, including simplifying service lines and strengthening leadership; 2) adapting to the AI economy with multi-service solutions and revamping the large deal organization; and 3) the \"Fit4Future\" program to enhance agility and profitability by re-baselining operational costs. Management expects the \"Fit4Future\" program to improve margins starting from Q1 FY26. Venu Lambu, the newly appointed CEO, highlighted the importance of value creation and expressed confidence in the company's ability to capitalize on the current technological transition and macro environment.",
+    "comparison_to_expectations": "While the company had expected stronger growth momentum from Q3 into Q4, driven by strong Q3 order inflow, the actual Q4 performance was softer due to macro uncertainty impacting deal closures and ramp-ups. Some deals expected to close in Q4 were pushed to Q1 FY26.",
+    "key_risks_headwinds": "Management acknowledged ongoing macro uncertainties impacting client spending, particularly in discretionary projects.  Specific risks mentioned include deal ramp-up delays, client-specific slowdowns in certain segments (e.g., Travel, Transportation, and Hospitality), and uncertainty around the duration and severity of the macro headwinds.",
+    "operational_efficiency": "DSO improved by one day in Q4 compared to Q3, reaching 79 days. Utilization, excluding trainees, was 85.8% in Q4, slightly up from 85.4% in Q3.  Attrition remained stable at 14.4%. The company onboarded 4,700 freshers in FY25 as part of its pyramid correction strategy. Headcount reduction in Q4 was attributed to aggressive hiring in previous quarters in anticipation of higher growth, which did not materialize due to macro factors. Going forward, headcount growth is expected to be non-linear with revenue growth due to increased AI-led productivity."
   }
 }
 ```

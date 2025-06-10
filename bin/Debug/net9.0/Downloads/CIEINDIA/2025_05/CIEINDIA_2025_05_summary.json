@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "company": "CIEINDIA",
+    "report_generated_on": "2025-05-05",
+    "source_documents": [
+      {
+        "file_name": "CIE Automotive India Limited Q1 CY2025 Post Result Conference Call Transcript.pdf",
+        "type": "Earnings Call Transcript",
+        "period_covered": "Q1 CY2025",
+        "url": ""
+      },
+      {
+        "file_name": "CIE Automotive India Limited Q1 CY2025 Results Presentation.pdf",
+        "type": "Investor Presentation",
+        "period_covered": "Q1 CY2025",
+        "url": ""
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q1 CY2025",
+      "revenue": {
+        "total_inr": 14113,
+        "total_usd": null,
+        "cc_growth_pct": {
+          "qoq": null,
+          "yoy": 3
+        },
+        "usd_growth_pct": {
+          "qoq": null,
+          "yoy": null
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": 2628,
+        "ebitda_margin_pct": 18.6,
+        "ebit_inr": 2090,
+        "ebit_margin_pct": 14.8,
+        "pat_inr": 2185.36,
+        "pat_usd": null,
+        "pat_margin_pct": 14.8,
+        "basic_eps_inr": 5.76
+      },
+      "order_book": {
+        "tcv_new_deals": 3500,
+        "pipeline_commentary": "Order book is strong, around 800-1000 crores each year. Conversion to sales is better with anchor customers. Focus on exploiting synergies with bigger customers."
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": null
+      }
+    },
+    "current_fy": {
+      "period_label": "FY2024",
+      "revenue": {
+        "total_inr": null,
+        "total_usd": null,
+        "cc_growth_pct_yoy": null,
+        "usd_growth_pct_yoy": null
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": null,
+        "ebit_margin_pct": null,
+        "pat_inr": null,
+        "pat_usd": null,
+        "pat_margin_pct": null,
+        "basic_eps_inr": null
+      },
+      "order_book": {
+        "tcv_fy": null,
+        "tcv_growth_pct_yoy": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": 13000000000,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": 7
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "CIEINDIA reported stable overall business in Q1 CY2025, with India revenue growth in line with the market. Profitability was largely flat YoY. Europe experienced a significant sales decline and margin pressure due to market slowdown. Consolidated performance was impacted by the weak European market.",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": "India revenue grew 3% YoY, driven by the tractor and two-wheeler segments. EBITDA, EBIT, and PAT were largely flat YoY. Europe saw a 19% decline in sales, impacting EBITDA and EBIT margins. Consolidated sales declined 6% YoY, and EBITDA and EBIT margins were slightly lower. Charts: Bar charts comparing revenues, EBIT, and PAT across Q1 CY2025, Q4 CY2024, and Q1 CY2024 for both India and consolidated results. Line charts showing margin trends over the same period."
+      },
+      "full_year": {
+        "narrative": "Full year trends were not provided in the documents."
+      }
+    },
+    "segment_geographic_deep_dive": "India business saw growth in line with the market, with tractors and two-wheelers performing well. Europe experienced a slowdown across all segments, including light vehicles, MHCV, and the US off-highway market. Specific numbers for segment and geographic performance breakdown were not available in the documents.",
+    "deal_wins_pipeline_quality": "Order book is healthy with around 800-1000 crore new orders annually. Q1 CY2025 saw 3.5 billion INR in new orders, exceeding internal targets. Focus is on converting the order book to sales and leveraging synergies with anchor customers. Delays are primarily due to EV project pushbacks and some ICE project delays.",
+    "management_commentary_outlook": "Management is cognizant of the challenges and is focusing on growth in India while improving operational efficiency in Europe. They are optimistic about the long-term prospects in India and expect growth to return as the market recovers and delayed projects ramp up. In Europe, they expect the pain to continue for a couple more quarters. They are actively pursuing M\u0026A opportunities.",
+    "comparison_to_expectations": "No specific guidance or market expectations were mentioned in the provided documents.",
+    "key_risks_headwinds": "Key risks and headwinds include the slowdown in the European market, delays in EV and ICE projects, and uncertainty surrounding tariff policies. Management is actively working to mitigate these risks through restructuring in Europe and focusing on operational efficiencies in India.",
+    "operational_efficiency": "The documents did not provide specific data on DSO, utilization, or attrition. However, management emphasized their focus on improving operational efficiency, particularly in India, where they believe there is room for improvement compared to their European and Mexican operations. They are implementing best production processes and technology transfer from European colleagues."
+  }
+}

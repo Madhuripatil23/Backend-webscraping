@@ -20,69 +20,168 @@ namespace webscrapperapi.Controllers
         }
 
 
-        [HttpPost("run")]
-        public async Task<IActionResult> RunScraper([FromQuery] int userId)
+        // [HttpPost("run")]
+        // public async Task<IActionResult> RunScraper([FromQuery] int userId)
+        // {
+        //     try
+        //     {
+        //         var result = await _scraperService.RunScrapingAsync(userId);
+
+        //         if (result == null)
+        //         {
+        //             // Internal issue if null instead of empty list
+        //             return StatusCode(500, new ApiResponse<string>
+        //             {
+        //                 Success = false,
+        //                 Message = "Scraper returned null unexpectedly.",
+        //                 ErrorCode = -2,
+        //                 Data = null
+        //             });
+        //         }
+
+        //         if (!result.Any())
+        //         {
+        //             // Still a successful operation, just no data to process
+        //             return Ok(new ApiResponse<List<ScrapeResult>>
+        //             {
+        //                 Success = true,
+        //                 Message = "No companies to process.",
+        //                 ErrorCode = 0,
+        //                 Data = new List<ScrapeResult>()
+        //             });
+        //         }
+
+        //         // Success with data
+        //         return Ok(new ApiResponse<List<ScrapeResult>>
+        //         {
+        //             Success = true,
+        //             Message = "Scraping completed successfully.",
+        //             ErrorCode = 0,
+        //             Data = result
+        //         });
+        //     }
+        //     catch (ArgumentException ex)
+        //     {
+        //         // Example: if you want to treat bad arguments separately
+        //         return BadRequest(new ApiResponse<string>
+        //         {
+        //             Success = false,
+        //             Message = $"Bad input: {ex.Message}",
+        //             ErrorCode = -10,
+        //             Data = null
+        //         });
+        //     }
+        //     catch (Exception ex)
+        //     {
+        //         // Unhandled server error
+        //         return StatusCode(500, new ApiResponse<string>
+        //         {
+        //             Success = false,
+        //             Message = $"An internal error occurred: {ex.Message}",
+        //             ErrorCode = -1,
+        //             Data = null
+        //         });
+        //     }
+        // }
+         
+
+         [HttpPost("run")]
+public async Task<IActionResult> RunScraper([FromQuery] int userId)
+{
+    if (userId <= 0)
+    {
+        // 400 Bad Request - invalid/missing userId
+        return BadRequest(new ApiResponse<string>
         {
-            try
-            {
-                var result = await _scraperService.RunScrapingAsync(userId);
+            Success = false,
+            Message = "Invalid user ID provided.",
+            ErrorCode = 400,
+            Data = null
+        });
+    }
 
-                if (result == null)
-                {
-                    // Internal issue if null instead of empty list
-                    return StatusCode(500, new ApiResponse<string>
-                    {
-                        Success = false,
-                        Message = "Scraper returned null unexpectedly.",
-                        ErrorCode = -2,
-                        Data = null
-                    });
-                }
+    try
+    {
+        var result = await _scraperService.RunScrapingAsync(userId);
 
-                if (!result.Any())
-                {
-                    // Still a successful operation, just no data to process
-                    return Ok(new ApiResponse<List<ScrapeResult>>
-                    {
-                        Success = true,
-                        Message = "No companies to process.",
-                        ErrorCode = 0,
-                        Data = new List<ScrapeResult>()
-                    });
-                }
-
-                // Success with data
-                return Ok(new ApiResponse<List<ScrapeResult>>
-                {
-                    Success = true,
-                    Message = "Scraping completed successfully.",
-                    ErrorCode = 0,
-                    Data = result
-                });
-            }
-            catch (ArgumentException ex)
+        if (result == null)
+        {
+            // 500 Internal Server Error - unexpected null
+            return StatusCode(500, new ApiResponse<string>
             {
-                // Example: if you want to treat bad arguments separately
-                return BadRequest(new ApiResponse<string>
-                {
-                    Success = false,
-                    Message = $"Bad input: {ex.Message}",
-                    ErrorCode = -10,
-                    Data = null
-                });
-            }
-            catch (Exception ex)
-            {
-                // Unhandled server error
-                return StatusCode(500, new ApiResponse<string>
-                {
-                    Success = false,
-                    Message = $"An internal error occurred: {ex.Message}",
-                    ErrorCode = -1,
-                    Data = null
-                });
-            }
+                Success = false,
+                Message = "Scraper returned null unexpectedly.",
+                ErrorCode = 500,
+                Data = null
+            });
         }
+
+        if (!result.Any())
+        {
+            // 204 No Content - nothing to process, but success
+            return StatusCode(204, new ApiResponse<List<ScrapeResult>>
+            {
+                Success = true,
+                Message = "No companies to process.",
+                ErrorCode = 204,
+                Data = new List<ScrapeResult>()
+            });
+        }
+
+        // 200 OK - data processed successfully
+        return Ok(new ApiResponse<List<ScrapeResult>>
+        {
+            Success = true,
+            Message = "Scraping completed successfully.",
+            ErrorCode = 200,
+            Data = result
+        });
+    }
+    catch (UnauthorizedAccessException ex)
+    {
+        // 403 Forbidden - unauthorized access to scraper
+        return StatusCode(403, new ApiResponse<string>
+        {
+            Success = false,
+            Message = $"Unauthorized access: {ex.Message}",
+            ErrorCode = 403,
+            Data = null
+        });
+    }
+    catch (KeyNotFoundException ex)
+    {
+        // 404 Not Found - user or company not found
+        return NotFound(new ApiResponse<string>
+        {
+            Success = false,
+            Message = $"Not found: {ex.Message}",
+            ErrorCode = 404,
+            Data = null
+        });
+    }
+    catch (ArgumentException ex)
+    {
+        // 400 Bad Request - malformed input
+        return BadRequest(new ApiResponse<string>
+        {
+            Success = false,
+            Message = $"Bad input: {ex.Message}",
+            ErrorCode = 400,
+            Data = null
+        });
+    }
+    catch (Exception ex)
+    {
+        // 500 Internal Server Error - unhandled exception
+        return StatusCode(500, new ApiResponse<string>
+        {
+            Success = false,
+            Message = $"An internal error occurred: {ex.Message}",
+            ErrorCode = 500,
+            Data = null
+        });
+    }
+}
 
 
         [HttpGet("company/tree")]
@@ -146,6 +245,7 @@ namespace webscrapperapi.Controllers
                             break;
                         }
                     }
+            
                 }
 
                 if (matchedCompany == null || matchedPeriod == null)

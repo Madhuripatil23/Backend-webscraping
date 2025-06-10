@@ -1,0 +1,181 @@
+﻿{
+  "metadata": {
+    "company": "ASALCBR (Associated Alcohols \u0026 Breweries Limited)",
+    "report_generated_on": "2025-05-02",
+    "source_documents": [
+      {
+        "file_name": "Transcript of Investor Conference Call held on 28th April 2025 on Earnings Presentation Q4 FY 2024-25",
+        "type": "Earnings Call Transcript",
+        "period_covered": "Q4 FY2024-25 and FY2024-25",
+        "url": ""
+      },
+      {
+        "file_name": "Earnings Presentation Q4 (quarter and year ended 31st March, 2025) FY 2024-25",
+        "type": "Investor Presentation",
+        "period_covered": "Q4 FY2024-25 and FY2024-25",
+        "url": ""
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q4 FY2024-25",
+      "revenue": {
+        "total_inr": 2430000000,
+        "total_usd": null,
+        "cc_growth_pct": {
+          "qoq": null,
+          "yoy": null
+        },
+        "usd_growth_pct": {
+          "qoq": null,
+          "yoy": null
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": 43,
+        "ebitda_inr": 360000000,
+        "ebitda_margin_pct": 15,
+        "ebit_inr": null,
+        "ebit_margin_pct": null,
+        "pat_inr": 223000000,
+        "pat_usd": null,
+        "pat_margin_pct": 9,
+        "basic_eps_inr": 11.68
+      },
+      "order_book": {
+        "tcv_new_deals": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [
+        {
+          "segment": "IMFL",
+          "revenue_inr": 360000000,
+          "growth_pct_qoq": 32
+        },
+        {
+          "segment": "IMIL",
+          "revenue_inr": 580000000,
+          "growth_pct_qoq": 18
+        },
+        {
+          "segment": "Merchant ENA",
+          "revenue_inr": 200000000,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Ethanol",
+          "revenue_inr": 450000000,
+          "growth_pct_qoq": null
+        }
+      ],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": null
+      }
+    },
+    "current_fy": {
+      "period_label": "FY2024-25",
+      "revenue": {
+        "total_inr": 10759000000,
+        "total_usd": null,
+        "cc_growth_pct_yoy": 42,
+        "usd_growth_pct_yoy": null
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": 1280000000,
+        "ebitda_margin_pct": 12,
+        "ebit_inr": null,
+        "ebit_margin_pct": null,
+        "pat_inr": 814000000,
+        "pat_usd": null,
+        "pat_margin_pct": 8,
+        "basic_eps_inr": 43.03
+      },
+      "order_book": {
+        "tcv_fy": null,
+        "tcv_growth_pct_yoy": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [
+        {
+          "segment": "IMFL (Proprietary)",
+          "revenue_inr": 1380000000,
+          "growth_pct_yoy": 25
+        },
+        {
+          "segment": "IMFL (Licensed)",
+          "revenue_inr": 2370000000,
+          "growth_pct_yoy": 8
+        },
+        {
+          "segment": "IMIL",
+          "revenue_inr": 2340000000,
+          "growth_pct_yoy": 22
+        },
+        {
+          "segment": "Merchant ENA",
+          "revenue_inr": 1190000000,
+          "growth_pct_yoy": null
+        },
+        {
+          "segment": "Ethanol",
+          "revenue_inr": 2480000000,
+          "growth_pct_yoy": null
+        }
+      ],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": null
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": ""
+      },
+      "full_year": {
+        "narrative": ""
+      }
+    },
+    "segment_geographic_deep_dive": "",
+    "deal_wins_pipeline_quality": "",
+    "management_commentary_outlook": "",
+    "comparison_to_expectations": "",
+    "key_risks_headwinds": "",
+    "operational_efficiency": ""
+  }
+}

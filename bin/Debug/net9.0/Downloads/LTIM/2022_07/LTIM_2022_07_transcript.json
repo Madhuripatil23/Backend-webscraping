@@ -1,0 +1,134 @@
+﻿{
+  "metadata": {
+    "company": "LTIM",
+    "report_generated_on": "2024-07-23",
+    "source_documents": [
+      {
+        "file_name": "LTI_Earnings_Call_Transcript_Q1_FY23.pdf",
+        "type": "Earnings Call Transcript",
+        "period_covered": "Q1 FY23",
+        "url": ""
+      },
+      {
+        "file_name": "LTI_Q1FY23_Results_Presentation.pdf",
+        "type": "Investor Presentation",
+        "period_covered": "Q1 FY23",
+        "url": ""
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q1 FY23",
+      "revenue": {
+        "total_inr": 45228,
+        "total_usd": 580.2,
+        "cc_growth_pct": {
+          "qoq": 2.9,
+          "yoy": 26.6
+        },
+        "usd_growth_pct": {
+          "qoq": 1.7,
+          "yoy": 23.4
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": 7243,
+        "ebit_margin_pct": 16,
+        "pat_inr": 6344,
+        "pat_usd": null,
+        "pat_margin_pct": 14,
+        "basic_eps_inr": 36.13
+      },
+      "order_book": {
+        "tcv_new_deals": 79,
+        "pipeline_commentary": "Large deal pipeline continues to be at ~US$2 billion. Expect to close and share more large deals in Q2. 29 new logos added (highest in 9 quarters). 4 new Global Fortune 500 logos added (total now 77)."
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": 35.6,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": 38824,
+        "cash_and_investments_usd": null,
+        "dso_days": 61
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": 48766,
+        "net_additions_yoy": 2118,
+        "attrition_pct_ttm": 23.8,
+        "utilization_excl_trainees_pct": 81.8
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": null
+      }
+    },
+    "current_fy": {
+      "period_label": "FY22",
+      "revenue": {
+        "total_inr": null,
+        "total_usd": 2102.5,
+        "cc_growth_pct_yoy": 25.9,
+        "usd_growth_pct_yoy": 25.9
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": 28596,
+        "ebit_margin_pct": 17.1,
+        "pat_inr": 24361,
+        "pat_usd": null,
+        "pat_margin_pct": 14.6,
+        "basic_eps_inr": null
+      },
+      "order_book": {
+        "tcv_fy": null,
+        "tcv_growth_pct_yoy": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": 73.2,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": null
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "LTIM reported strong Q1 FY23 results with 26.6% YoY CC revenue growth and 23.4% YoY USD revenue growth.  EBIT margin was 16% and PAT margin was 14%.  The company closed 4 large deals with a net new TCV of US$79 million.  Management highlighted strong demand, particularly in cloud and data, but noted a slight level of caution in the client environment due to macro uncertainties.  They expect continued growth in FY23 and maintain their PAT margin guidance of 14-15%.",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": "Q1 FY23 revenue grew 2.9% QoQ in CC terms and 1.7% QoQ in USD terms.  Adjusted for seasonal pass-through revenue in Q4 FY22, Q1 FY23 revenue growth would have been higher by ~2%.  EBIT margin declined QoQ from 17.3% to 16% due to higher employee costs and increased travel expenses, partially offset by productivity benefits and absence of pass-through license revenue. PAT margin also declined from 14.8% to 14%. YoY, revenue growth was strong at 26.6% in CC terms and 23.4% in USD terms, driven by broad-based demand and large deal wins.  EBIT and PAT margins saw slight declines YoY.\n\nSuitable Charts:\n* Bar chart comparing Q1 FY23 revenue, EBIT, and PAT to Q4 FY22 and Q1 FY22.\n* Line chart showing QoQ and YoY trends in EBIT and PAT margins."
+      },
+      "full_year": {
+        "narrative": "FY22 revenue grew 25.9% YoY in both USD and CC terms.  EBIT margin for FY22 was 17.1% and PAT margin was 14.6%.  The trajectory of operating margins over FY22 was generally stable.  Key influencing factors included wage hikes, productivity improvements, and the impact of deal ramp-ups."
+      }
+    },
+    "segment_geographic_deep_dive": "BFSI grew over 31% YoY, driven by holistic growth across geos and service lines. Insurance saw growth of over 16% YoY, returning to sustained growth. Manufacturing declined QoQ due to seasonal pass-through revenue in the previous quarter but grew 18% YoY. Energy \u0026 Utilities grew over 19% YoY, with no impact from macros. CPG Retail and Pharma grew by over 17% YoY. Hi-Tech grew about 13% YoY, following a strong 37% growth in FY22.  The \u0022Others\u0022 segment grew by over 50% YoY due to a large client ramp-up.\n\nNorth America grew by over 25% YoY and Europe by 31% YoY in CC terms.  Excluding currency impact, both regions are expected to continue growing well.",
+    "deal_wins_pipeline_quality": "The order book and deal pipeline appear healthy, with a large deal pipeline of ~US$2 billion.  The company closed 4 large deals in Q1 FY23 and expects to close more in Q2.  Deals are focused on cloud and data, with some also driven by efficiency needs.  The win with a global travel technology company in partnership with Mindtree highlights the potential for leveraging joint capabilities.",
+    "management_commentary_outlook": "Management is positive about Q2 FY23, expecting strong growth driven by acceleration in demand.  They are also positive about closing more large deals in Q2.  While they acknowledge macro uncertainties, they believe they are well-positioned to benefit from both growth-driven and efficiency-driven spending. They maintain their guidance of stable PAT margins in the 14-15% band for FY23.",
+    "comparison_to_expectations": "",
+    "key_risks_headwinds": "Management mentioned macro uncertainties, including rising input costs, supply chain issues, and geopolitical concerns, as potential headwinds. They noted a slight level of caution in the client environment, though not yet impacting project cancellations or deferments.",
+    "operational_efficiency": "DSO improved to 61 days from 65 days in the previous quarter. Utilization excluding trainees was 81.8%. Attrition remained stable at 23.8% on a TTM basis.  The company added 2,118 employees in Q1 FY23 and remains on track to hire at least 6,500 freshers in FY23. Onsite volumes picked up after being flat in the previous quarter due to high onsite attrition."
+  }
+}

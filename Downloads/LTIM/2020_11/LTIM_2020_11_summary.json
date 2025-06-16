@@ -1,0 +1,170 @@
+{
+  "metadata": {
+    "company": "LTIM",
+    "report_generated_on": "2023-10-27",
+    "source_documents": [
+      {
+        "file_name": "LTI_Earnings Call Transcript_Q2_FY21.pdf",
+        "type": "Earnings Call Transcript",
+        "period_covered": "Q2 FY21",
+        "url": ""
+      },
+      {
+        "file_name": "LTI_Investor Presentation_Q2_FY21.pdf",
+        "type": "Investor Presentation",
+        "period_covered": "Q2 FY21",
+        "url": ""
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q2 FY21",
+      "revenue": {
+        "total_inr": 29984,
+        "total_usd": 404.5,
+        "cc_growth_pct": {
+          "qoq": 2.3,
+          "yoy": 10.5
+        },
+        "usd_growth_pct": {
+          "qoq": 3.6,
+          "yoy": 11.2
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": 5957,
+        "ebit_margin_pct": 19.9,
+        "pat_inr": 4568,
+        "pat_usd": null,
+        "pat_margin_pct": 15.2,
+        "basic_eps_inr": 26.1
+      },
+      "order_book": {
+        "tcv_new_deals": 40,
+        "pipeline_commentary": "Healthy deal pipeline, up 22% YoY. Broad-based demand across verticals. Large deal pipeline stronger than last quarter, but deals taking longer to close due to complexity and remote working."
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": 97.7,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": 35472,
+        "cash_and_investments_usd": null,
+        "dso_days": 62
+      },
+      "segment_performance": [
+        {
+          "segment": "BFS",
+          "revenue_inr": null,
+          "growth_pct_qoq": 11.7
+        },
+        {
+          "segment": "Insurance",
+          "revenue_inr": null,
+          "growth_pct_qoq": -3.4
+        },
+        {
+          "segment": "Manufacturing",
+          "revenue_inr": null,
+          "growth_pct_qoq": 6.4
+        },
+        {
+          "segment": "Energy \u0026 Utility",
+          "revenue_inr": null,
+          "growth_pct_qoq": 2.1
+        },
+        {
+          "segment": "CPG, Retail \u0026 Pharma",
+          "revenue_inr": null,
+          "growth_pct_qoq": -0.2
+        },
+        {
+          "segment": "High-Tech and Media",
+          "revenue_inr": null,
+          "growth_pct_qoq": 5.1
+        },
+        {
+          "segment": "Others",
+          "revenue_inr": null,
+          "growth_pct_qoq": 8.7
+        }
+      ],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": 32455,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": 13.5,
+        "utilization_excl_trainees_pct": 82
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": 15
+      }
+    },
+    "current_fy": {
+      "period_label": "FY21",
+      "revenue": {
+        "total_inr": null,
+        "total_usd": null,
+        "cc_growth_pct_yoy": null,
+        "usd_growth_pct_yoy": null
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": null,
+        "ebit_margin_pct": null,
+        "pat_inr": null,
+        "pat_usd": null,
+        "pat_margin_pct": null,
+        "basic_eps_inr": null
+      },
+      "order_book": {
+        "tcv_fy": null,
+        "tcv_growth_pct_yoy": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": null
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "LTIM delivered strong Q2 FY21 results with 3.6% QoQ and 11.2% YoY revenue growth in USD terms. Constant currency growth was 2.3% QoQ and 10.5% YoY.  EBIT margin expanded significantly to 19.9%, driven by improved utilization, offshore mix, and operational efficiencies. PAT margin stood at 15.2%.  The company reinstated FY21 PAT margin guidance of 14-15% despite upcoming salary hikes. Deal pipeline is healthy, up 22% YoY, with strength in large deals. However, deal closures are taking longer than usual.  The company added a new Global Fortune 500 client, bringing the total to 68.  Focus on cloud and data products businesses is increasing, with a dedicated unit being established.",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": "Q2 FY21 saw robust growth across key metrics. Revenue increased by 3.6% QoQ and 11.2% YoY in USD, driven by broad-based demand and improved client engagement. EBIT margin showed significant improvement, reaching 19.9% compared to 17.4% in Q1, due to operational efficiencies and favorable onsite-offshore mix. PAT margin also expanded to 15.2% from 14.1% in Q1. \n\nSuitable Charts:\n* Bar chart comparing USD revenue, INR EBIT, and INR PAT across Q1 FY21 and Q2 FY21.\n* Line chart showing EBIT and PAT margin trends over the last few quarters."
+      },
+      "full_year": {
+        "narrative": "Full-year performance data is not available in the provided documents. The company expects to achieve top quartile growth in FY21. Management expressed optimism about the future based on the strong deal pipeline and client engagement."
+      }
+    },
+    "segment_geographic_deep_dive": "BFS showed strong double-digit growth, while Insurance continued to struggle due to COVID-19 impact. Manufacturing saw a recovery after a weak Q1. Energy \u0026 Utility showed tepid recovery. CPG, Retail \u0026 Pharma saw marginal sequential decline but YoY growth. High-Tech and Media declined QoQ due to reprioritization of work at one account.  Geographic performance details were not available in the provided documents.",
+    "deal_wins_pipeline_quality": "The deal pipeline is healthy, up 22% YoY, with strength in large deals including a $40M\u002B data and analytics transformation deal. However, deal closures are taking longer due to complexity and remote working. The company won 26 new logos across verticals. Focus on cloud and data product businesses is increasing with a dedicated unit being formed.",
+    "management_commentary_outlook": "Management is optimistic about the future, driven by a healthy deal pipeline and sustained client mining. They expect Q3 FY21 revenue to surpass both Q3 FY20 and Q4 FY20 levels. The company is committed to delivering top quartile growth in FY21. Salary hikes are planned from January 1st, 2021. Management is closely monitoring the macroeconomic environment and the trajectory of the virus spread.",
+    "comparison_to_expectations": "While specific guidance was not provided, the company expects to deliver top quartile growth for FY21, implying strong performance compared to industry peers. The Q2 results seem to be in line with this expectation, with robust revenue growth and margin expansion.",
+    "key_risks_headwinds": "Key risks and headwinds include macroeconomic uncertainties, the ongoing COVID-19 pandemic and its impact on client spending, and potential delays in large deal closures. The Insurance vertical remains impacted by the pandemic. Management is actively monitoring these risks.",
+    "operational_efficiency": "Utilization improved to 82% (excluding trainees) compared to 79.6% in Q1. Attrition improved to 13.5% on an LTM basis. The company added 978 employees during the quarter. DSO improved significantly to 62 days.  The company is focusing on operational efficiencies to drive margin improvement."
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "company": "LTIM",
+    "report_generated_on": "2024-07-17",
+    "source_documents": [
+      {
+        "file_name": "L\u0026T Infotech Q2FY17 Earnings Conference Call Transcript.pdf",
+        "type": "Earnings Call Transcript",
+        "period_covered": "Q2 FY17",
+        "url": ""
+      },
+      {
+        "file_name": "L\u0026T Infotech Investor Presentation November 2016.pdf",
+        "type": "Investor Presentation",
+        "period_covered": "Q2 FY17",
+        "url": ""
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q2 FY17",
+      "revenue": {
+        "total_inr": 16019,
+        "total_usd": 239.7,
+        "cc_growth_pct": {
+          "qoq": 3.6,
+          "yoy": null
+        },
+        "usd_growth_pct": {
+          "qoq": 3.7,
+          "yoy": null
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": 2872,
+        "ebit_margin_pct": 17.6,
+        "pat_inr": 2326,
+        "pat_usd": null,
+        "pat_margin_pct": 14.3,
+        "basic_eps_inr": 13.37
+      },
+      "order_book": {
+        "tcv_new_deals": null,
+        "pipeline_commentary": "Overall pipeline injection this quarter has also been strong.  Several large deals are being pursued. Growth is seen in BFS and Manufacturing verticals. Healthy pipeline in the digital arena, especially Analytics."
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": 75.7,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": 5950,
+        "cash_and_investments_usd": null,
+        "dso_days": 74
+      },
+      "segment_performance": [
+        {
+          "segment": "BFS",
+          "revenue_inr": null,
+          "growth_pct_qoq": 7
+        },
+        {
+          "segment": "Insurance",
+          "revenue_inr": null,
+          "growth_pct_qoq": 1.4
+        },
+        {
+          "segment": "CPG, Retail and Pharma",
+          "revenue_inr": null,
+          "growth_pct_qoq": 0.8
+        },
+        {
+          "segment": "High-Tech, Media and Entertainment",
+          "revenue_inr": null,
+          "growth_pct_qoq": 1.5
+        },
+        {
+          "segment": "Energy",
+          "revenue_inr": null,
+          "growth_pct_qoq": 0
+        },
+        {
+          "segment": "Auto, Aero and Others",
+          "revenue_inr": null,
+          "growth_pct_qoq": 6.6
+        }
+      ],
+      "geographic_performance": [
+        {
+          "region": "US",
+          "revenue_inr": null,
+          "growth_pct_qoq": 3
+        },
+        {
+          "region": "Europe",
+          "revenue_inr": null,
+          "growth_pct_qoq": 6.5
+        },
+        {
+          "region": "APAC and Rest of World",
+          "revenue_inr": null,
+          "growth_pct_qoq": 4.2
+        }
+      ],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": 18.5,
+        "utilization_excl_trainees_pct": 80.6
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": 6.85
+      }
+    },
+    "current_fy": {
+      "period_label": "FY17",
+      "revenue": {
+        "total_inr": null,
+        "total_usd": null,
+        "cc_growth_pct_yoy": null,
+        "usd_growth_pct_yoy": null
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": null,
+        "ebit_margin_pct": null,
+        "pat_inr": null,
+        "pat_usd": null,
+        "pat_margin_pct": null,
+        "basic_eps_inr": null
+      },
+      "order_book": {
+        "tcv_fy": null,
+        "tcv_growth_pct_yoy": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": 19000,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": null
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "LTIM reported strong Q2 FY17 results with revenue growth of 3.7% QoQ in USD terms and 3% in INR terms.  PAT margin stood at 14.3%, slightly down QoQ due to salary increases and ESOP charges, partially offset by improved utilization and better service mix.  Digital revenue contributed 26% of total revenue.  The company added new clients and saw growth in key accounts. Utilization excluding trainees reached 80.6%, a significant improvement.  The company declared an interim dividend of INR 6.85 per share.",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": "Revenue showed healthy QoQ growth of 3.7% in USD and 3% in INR, driven by strong performance in key accounts and new client additions. EBIT margin decreased slightly QoQ to 17.6% due to salary hikes and ESOP charges, but improved utilization and service mix helped offset some of the impact. PAT margin also decreased slightly to 14.3% for similar reasons. YoY comparison for Q2 requires further information.\n\nSuitable charts would include:\n- Bar chart comparing USD Revenue, INR Revenue, EBIT (INR), and PAT (INR) for Q1 FY17 and Q2 FY17.\n- Line chart showing QoQ trend of EBIT margin and PAT margin for the last few quarters."
+      },
+      "full_year": {
+        "narrative": "Full year FY17 analysis requires additional financial data for the full year to assess YoY performance and trends in operating margins.  Factors influencing operating margins would include wage hikes, productivity improvements, cost optimization measures, and the impact of deal ramp-ups or delays."
+      }
+    },
+    "segment_geographic_deep_dive": "BFS showed strong sequential growth of 7%, driven by regulatory spending on risk and compliance. Insurance grew by 1.4% sequentially, continuing the positive trend from Q1. CPG, Retail, and Pharma, a new focus area, grew by 0.8%. High-Tech, Media, and Entertainment grew by 1.5% with new deal wins and adoption of new technologies. Energy remained stable despite industry pressures. Auto, Aero, and Others saw 6.6% growth, boosted by a large government project.  Geographically, the US grew by 3%, Europe by 6.5%, and APAC and Rest of World by 4.2%.",
+    "deal_wins_pipeline_quality": "The deal pipeline appears healthy with strong injection this quarter, particularly within top accounts and large deal pursuits.  The company is focusing on client mining within existing large accounts and pursuing digital opportunities, particularly in analytics.  Wins include a KYC and regulatory reporting deal with a Fortune 100 bank, a risk and compliance deal with an investment bank, and several digital transformation projects.  The company has not disclosed the total contract value (TCV) of deals.",
+    "management_commentary_outlook": "Management expressed confidence in LTIM\u0027s future, highlighting the opportunities in digital and the company\u0027s client-centric approach. They expect to maintain operating margins in the 14-15% range and aim to meet or beat industry growth rates.  While Q3 is typically softer for BFS due to holidays, they do not expect a negative impact due to ongoing regulatory projects and ramp-ups.  They are closely monitoring the US political developments and will work with NASSCOM on industry-wide responses.",
+    "comparison_to_expectations": "",
+    "key_risks_headwinds": "Management mentioned macro uncertainties related to global economic growth and political developments, particularly in the US.  Downward pressure continues on the Energy sector due to low crude oil prices.",
+    "operational_efficiency": "Utilization excluding trainees improved significantly by 260 bps QoQ to 80.6%, indicating improved efficiency. Attrition decreased by 100 bps QoQ to 18.5%. DSO increased slightly to 74 days but has since returned to 70 days.  The company added approximately 460 employees in Q2 and plans to continue hiring, focusing on optimizing productivity through automation and other measures."
+  }
+}

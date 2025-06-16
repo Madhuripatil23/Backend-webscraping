@@ -1,0 +1,176 @@
+﻿{
+  "metadata": {
+    "company": "LTIM",
+    "report_generated_on": "2025-07-24",
+    "source_documents": [
+      {
+        "file_name": "LTIM/SE/STAT/2024-25/117",
+        "type": "Earnings Call Transcript",
+        "period_covered": "Q3 FY25",
+        "url": ""
+      },
+      {
+        "file_name": "LTIM/SE/STAT/2024-25/111",
+        "type": "Investor Presentation",
+        "period_covered": "Q3 FY25",
+        "url": "https://www.ltimindtree.com/investors/"
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q3 FY25",
+      "revenue": {
+        "total_inr": 94329,
+        "total_usd": 1138.7,
+        "cc_growth_pct": {
+          "qoq": 1.8,
+          "yoy": 5.6
+        },
+        "usd_growth_pct": {
+          "qoq": 1.1,
+          "yoy": 5.1
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": 13289,
+        "ebit_margin_pct": 13.8,
+        "pat_inr": 10867,
+        "pat_usd": null,
+        "pat_margin_pct": 11.2,
+        "basic_eps_inr": 36.7
+      },
+      "order_book": {
+        "tcv_new_deals": 1680,
+        "pipeline_commentary": "Promising increase in deal activity and deal pipeline in Q3 as evidenced by a record order inflow in the quarter. Continuing client focus on cost reduction and vendor consolidation is supporting a strong pipeline. The savings generated from these cost cutting measures are directed towards pilot programs and scaling AI initiatives. AI spends have started shifting from point proof of concepts (POC) to scaled projects in select areas as well as in foundational data and infrastructure."
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": 126.3,
+        "fcf_to_pat_ratio": 106.8,
+        "cash_and_investments_inr": 124880,
+        "cash_and_investments_usd": 1450,
+        "dso_days": 80
+      },
+      "segment_performance": [
+        {
+          "segment": "Banking, Financial Services \u0026 Insurance",
+          "revenue_inr": null,
+          "growth_pct_qoq": 4.2
+        },
+        {
+          "segment": "Technology, Media \u0026 Communications",
+          "revenue_inr": null,
+          "growth_pct_qoq": -5.5
+        },
+        {
+          "segment": "Manufacturing \u0026 Resources",
+          "revenue_inr": null,
+          "growth_pct_qoq": 9.1
+        },
+        {
+          "segment": "Consumer Business",
+          "revenue_inr": null,
+          "growth_pct_qoq": 0.2
+        },
+        {
+          "segment": "Healthcare, Life Sciences \u0026 Public Services",
+          "revenue_inr": null,
+          "growth_pct_qoq": 0.4
+        }
+      ],
+      "geographic_performance": [
+        {
+          "region": "North America",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "region": "Europe",
+          "revenue_inr": null,
+          "growth_pct_qoq": 0.7
+        },
+        {
+          "region": "Rest of the World",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        }
+      ],
+      "headcount_metrics": {
+        "total_headcount": 86800,
+        "net_additions_yoy": 5150,
+        "attrition_pct_ttm": 14.3,
+        "utilization_excl_trainees_pct": 85.4
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": null
+      }
+    },
+    "current_fy": {
+      "period_label": "FY25",
+      "revenue": {
+        "total_inr": null,
+        "total_usd": null,
+        "cc_growth_pct_yoy": null,
+        "usd_growth_pct_yoy": null
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": null,
+        "ebit_margin_pct": null,
+        "pat_inr": null,
+        "pat_usd": null,
+        "pat_margin_pct": null,
+        "basic_eps_inr": null
+      },
+      "order_book": {
+        "tcv_fy": null,
+        "tcv_growth_pct_yoy": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": null
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "LTIM sustained growth momentum in Q3 FY25, with revenue reaching $1.14 billion (1.8% QoQ, 5.6% YoY CC growth).  Record TCV of $1.68 billion was achieved, up 29% QoQ. Growth was seen across all verticals, particularly BFSI.  EBIT margin was 13.8%, impacted by wage hikes. Cash generation improved, and headcount increased for the third consecutive quarter.",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": "Q3 FY25 revenue grew 1.8% QoQ and 5.6% YoY in CC terms. EBIT margin declined by 170 bps QoQ to 13.8% due to wage hikes, partially offset by cost optimization efforts. PAT margin decreased to 11.2% from 13.3% in Q2. YoY, EBIT saw a slight increase of 4.1% while PAT saw a 7.1% increase. \n\nSuitable Charts:\n* Bar chart comparing Q2 FY25 and Q3 FY25 revenue, EBIT, and PAT.\n* Line chart showing EBIT and PAT margin trends over the last two quarters.\n* Bar chart comparing Q3 FY24 and Q3 FY25 revenue, EBIT, and PAT."
+      },
+      "full_year": {
+        "narrative": "Full-year FY25 trends were not provided in the documents."
+      }
+    },
+    "segment_geographic_deep_dive": "BFSI led growth with 8% YoY and 4.2% QoQ CC growth. Manufacturing and Resources grew 1% YoY and 9.1% QoQ CC, including pass-through revenue. Technology, Media, and Communications declined 5.5% QoQ but grew 9.1% YoY in CC. Europe grew 0.7% sequentially in CC terms.",
+    "deal_wins_pipeline_quality": "Order book is healthy with record TCV. Deal wins include a new logo in manufacturing ($50M\u002B) and two large deals in BFSI.  Pipeline remains strong, driven by cost reduction and vendor consolidation initiatives.  Discretionary spending is showing signs of recovery, particularly in BFSI regulatory space.",
+    "management_commentary_outlook": "Management is optimistic about sustaining growth in Q4, driven by deal ramp-ups, reduced furloughs, and continued BFSI strength. However, short-term headwinds from AI-driven productivity are expected. Margin improvement is anticipated in Q4, though full absorption of wage hike impact may take longer.  FY26 is expected to be better than FY25, driven by strong order inflow and pipeline.  Macro uncertainties and potential policy changes create challenges in predicting spending trends.",
+    "comparison_to_expectations": "",
+    "key_risks_headwinds": "Key risks include political and economic uncertainties, potential policy changes impacting spending trends, and short-term headwinds from AI-driven productivity.",
+    "operational_efficiency": "DSO improved to 80 days from 81 days. Utilization (excluding trainees) decreased slightly to 85.4%, aligning with bench strengthening strategy. Attrition remained stable at 14.3%. Fresher onboarding continues with 1400\u002B additions in Q3, as part of the pyramid broadening strategy."
+  }
+}

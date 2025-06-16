@@ -1,0 +1,164 @@
+﻿{
+  "metadata": {
+    "company": "ANGELONE",
+    "report_generated_on": "2024-10-16",
+    "source_documents": [
+      {
+        "file_name": "AngelOne Q2 FY25 Investor Presentation.pdf",
+        "type": "Investor Presentation",
+        "period_covered": "Q2 FY25",
+        "url": ""
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q2 FY25",
+      "revenue": {
+        "total_inr": 15160,
+        "total_usd": null,
+        "cc_growth_pct": {
+          "qoq": null,
+          "yoy": 40.7
+        },
+        "usd_growth_pct": {
+          "qoq": null,
+          "yoy": null
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": 5977,
+        "ebitda_margin_pct": 49.9,
+        "ebit_inr": null,
+        "ebit_margin_pct": null,
+        "pat_inr": 4234,
+        "pat_usd": null,
+        "pat_margin_pct": 39,
+        "basic_eps_inr": null
+      },
+      "order_book": {
+        "tcv_new_deals": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [
+        {
+          "segment": "Gross Broking",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Interest Income",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Other",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "F\u0026O",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Cash",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Commodity",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Currency",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        }
+      ],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": null
+      }
+    },
+    "current_fy": {
+      "period_label": "FY24",
+      "revenue": {
+        "total_inr": 42717,
+        "total_usd": null,
+        "cc_growth_pct_yoy": 41.7,
+        "usd_growth_pct_yoy": null
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": 16817,
+        "ebitda_margin_pct": 49.5,
+        "ebit_inr": null,
+        "ebit_margin_pct": null,
+        "pat_inr": 11249,
+        "pat_usd": null,
+        "pat_margin_pct": 26.4,
+        "basic_eps_inr": 151.4
+      },
+      "order_book": {
+        "tcv_fy": null,
+        "tcv_growth_pct_yoy": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": null
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": ""
+      },
+      "full_year": {
+        "narrative": ""
+      }
+    },
+    "segment_geographic_deep_dive": "",
+    "deal_wins_pipeline_quality": "",
+    "management_commentary_outlook": "",
+    "comparison_to_expectations": "",
+    "key_risks_headwinds": "",
+    "operational_efficiency": ""
+  }
+}

@@ -1,0 +1,128 @@
+﻿{
+  "metadata": {
+    "company": "LTI",
+    "report_generated_on": "2024-07-24",
+    "source_documents": [
+      {
+        "file_name": "LTI Investor Presentation.pdf",
+        "type": "Investor Presentation",
+        "period_covered": "Q1 FY18",
+        "url": ""
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q1 FY18",
+      "revenue": {
+        "total_inr": null,
+        "total_usd": 259.2,
+        "cc_growth_pct": {
+          "qoq": 1.5,
+          "yoy": null
+        },
+        "usd_growth_pct": {
+          "qoq": 2,
+          "yoy": null
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": 3245,
+        "ebit_margin_pct": 18.5,
+        "pat_inr": 2672,
+        "pat_usd": null,
+        "pat_margin_pct": 15.2,
+        "basic_eps_inr": null
+      },
+      "order_book": {
+        "tcv_new_deals": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": 14.7,
+        "utilization_excl_trainees_pct": 78.2
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": null
+      }
+    },
+    "current_fy": {
+      "period_label": "FY18",
+      "revenue": {
+        "total_inr": null,
+        "total_usd": null,
+        "cc_growth_pct_yoy": 9.9,
+        "usd_growth_pct_yoy": 9.7
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": 10166,
+        "ebit_margin_pct": 16.9,
+        "pat_inr": 8365,
+        "pat_usd": null,
+        "pat_margin_pct": 13.9,
+        "basic_eps_inr": null
+      },
+      "order_book": {
+        "tcv_fy": null,
+        "tcv_growth_pct_yoy": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": 22000,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": null
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": ""
+      },
+      "full_year": {
+        "narrative": ""
+      }
+    },
+    "segment_geographic_deep_dive": "",
+    "deal_wins_pipeline_quality": "",
+    "management_commentary_outlook": "",
+    "comparison_to_expectations": "",
+    "key_risks_headwinds": "",
+    "operational_efficiency": ""
+  }
+}

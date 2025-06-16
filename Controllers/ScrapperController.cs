@@ -83,105 +83,117 @@ namespace webscrapperapi.Controllers
         //         });
         //     }
         // }
-         
 
-         [HttpPost("run")]
-public async Task<IActionResult> RunScraper([FromQuery] int userId)
-{
-    if (userId <= 0)
-    {
-        // 400 Bad Request - invalid/missing userId
-        return BadRequest(new ApiResponse<string>
+
+        [HttpPost("run")]
+        public async Task<IActionResult> RunScraper([FromQuery] int userId)
         {
-            Success = false,
-            Message = "Invalid user ID provided.",
-            ErrorCode = 400,
-            Data = null
-        });
-    }
-
-    try
-    {
-        var result = await _scraperService.RunScrapingAsync(userId);
-
-        if (result == null)
-        {
-            // 500 Internal Server Error - unexpected null
-            return StatusCode(500, new ApiResponse<string>
+            if (userId <= 0)
             {
-                Success = false,
-                Message = "Scraper returned null unexpectedly.",
-                ErrorCode = 500,
-                Data = null
-            });
-        }
+                // 400 Bad Request - invalid/missing userId
+                return BadRequest(new ApiResponse<string>
+                {
+                    Success = false,
+                    Message = "Invalid user ID provided.",
+                    ErrorCode = 400,
+                    Data = null
+                });
+            }
 
-        if (!result.Any())
-        {
-            // 204 No Content - nothing to process, but success
-            return StatusCode(204, new ApiResponse<List<ScrapeResult>>
+            try
             {
-                Success = true,
-                Message = "No companies to process.",
-                ErrorCode = 204,
-                Data = new List<ScrapeResult>()
-            });
-        }
+                var result = await _scraperService.RunScrapingAsync(userId);
 
-        // 200 OK - data processed successfully
-        return Ok(new ApiResponse<List<ScrapeResult>>
-        {
-            Success = true,
-            Message = "Scraping completed successfully.",
-            ErrorCode = 200,
-            Data = result
-        });
-    }
-    catch (UnauthorizedAccessException ex)
-    {
-        // 403 Forbidden - unauthorized access to scraper
-        return StatusCode(403, new ApiResponse<string>
-        {
-            Success = false,
-            Message = $"Unauthorized access: {ex.Message}",
-            ErrorCode = 403,
-            Data = null
-        });
-    }
-    catch (KeyNotFoundException ex)
-    {
-        // 404 Not Found - user or company not found
-        return NotFound(new ApiResponse<string>
-        {
-            Success = false,
-            Message = $"Not found: {ex.Message}",
-            ErrorCode = 404,
-            Data = null
-        });
-    }
-    catch (ArgumentException ex)
-    {
-        // 400 Bad Request - malformed input
-        return BadRequest(new ApiResponse<string>
-        {
-            Success = false,
-            Message = $"Bad input: {ex.Message}",
-            ErrorCode = 400,
-            Data = null
-        });
-    }
-    catch (Exception ex)
-    {
-        // 500 Internal Server Error - unhandled exception
-        return StatusCode(500, new ApiResponse<string>
-        {
-            Success = false,
-            Message = $"An internal error occurred: {ex.Message}",
-            ErrorCode = 500,
-            Data = null
-        });
-    }
-}
+                if (result == null)
+                {
+                    // 500 Internal Server Error - unexpected null
+                    return StatusCode(500, new ApiResponse<string>
+                    {
+                        Success = false,
+                        Message = "Scraper returned null unexpectedly.",
+                        ErrorCode = 500,
+                        Data = null
+                    });
+                }
+
+                if (result.Count == 0)
+                {
+                    return Ok(new ApiResponse<List<ScrapeResult>>
+                    {
+                        Success = true,
+                        Message = "No companies to process.",
+                        ErrorCode = 204,
+                        Data = new List<ScrapeResult>()
+                    });
+                }
+
+
+                if (!result.Any())
+                {
+                    // 204 No Content - nothing to process, but success
+                    return StatusCode(204, new ApiResponse<List<ScrapeResult>>
+                    {
+                        Success = true,
+                        Message = "No companies to process.",
+                        ErrorCode = 204,
+                        Data = new List<ScrapeResult>()
+                    });
+                }
+
+                // 200 OK - data processed successfully
+                return Ok(new ApiResponse<List<ScrapeResult>>
+                {
+                    Success = true,
+                    Message = "Scraping completed successfully.",
+                    ErrorCode = 200,
+                    Data = result
+                });
+            }
+            catch (UnauthorizedAccessException ex)
+            {
+                // 403 Forbidden - unauthorized access to scraper
+                return StatusCode(403, new ApiResponse<string>
+                {
+                    Success = false,
+                    Message = $"Unauthorized access: {ex.Message}",
+                    ErrorCode = 403,
+                    Data = null
+                });
+            }
+            catch (KeyNotFoundException ex)
+            {
+                // 404 Not Found - user or company not found
+                return NotFound(new ApiResponse<string>
+                {
+                    Success = false,
+                    Message = $"Not found: {ex.Message}",
+                    ErrorCode = 404,
+                    Data = null
+                });
+            }
+            catch (ArgumentException ex)
+            {
+                // 400 Bad Request - malformed input
+                return BadRequest(new ApiResponse<string>
+                {
+                    Success = false,
+                    Message = $"Bad input: {ex.Message}",
+                    ErrorCode = 400,
+                    Data = null
+                });
+            }
+            catch (Exception ex)
+            {
+                // 500 Internal Server Error - unhandled exception
+                return StatusCode(500, new ApiResponse<string>
+                {
+                    Success = false,
+                    Message = $"An internal error occurred: {ex.Message}",
+                    ErrorCode = 500,
+                    Data = null
+                });
+            }
+        }
 
 
         [HttpGet("company/tree")]
@@ -245,7 +257,7 @@ public async Task<IActionResult> RunScraper([FromQuery] int userId)
                             break;
                         }
                     }
-            
+
                 }
 
                 if (matchedCompany == null || matchedPeriod == null)

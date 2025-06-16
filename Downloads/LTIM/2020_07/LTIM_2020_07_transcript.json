@@ -1,0 +1,170 @@
+﻿{
+  "metadata": {
+    "company": "LTIM",
+    "report_generated_on": "2024-07-24",
+    "source_documents": [
+      {
+        "file_name": "LTI_Earnings_Call_Transcript_Q1_FY2021.pdf",
+        "type": "Earnings Call Transcript",
+        "period_covered": "Q1 FY2021",
+        "url": ""
+      },
+      {
+        "file_name": "LTIMindtree_Q1FY21_Earnings_Presentation.pdf",
+        "type": "Investor Presentation",
+        "period_covered": "Q1 FY2021",
+        "url": ""
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q1 FY2021",
+      "revenue": {
+        "total_inr": 29492,
+        "total_usd": 390.3,
+        "cc_growth_pct": {
+          "qoq": -4.7,
+          "yoy": 10.6
+        },
+        "usd_growth_pct": {
+          "qoq": -4.8,
+          "yoy": 9.5
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": 5139,
+        "ebit_margin_pct": 17.4,
+        "pat_inr": 4164,
+        "pat_usd": null,
+        "pat_margin_pct": 14.1,
+        "basic_eps_inr": 23.9
+      },
+      "order_book": {
+        "tcv_new_deals": null,
+        "pipeline_commentary": "Large deal team and win rooms continue to be busy. Added 16 new logos and won a large deal with a BFS logo in UK with a net new TCV of USD 20 million."
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": 152.4,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": 34256,
+        "cash_and_investments_usd": null,
+        "dso_days": 70
+      },
+      "segment_performance": [
+        {
+          "segment": "BFS",
+          "revenue_inr": null,
+          "growth_pct_qoq": -4.2
+        },
+        {
+          "segment": "Insurance",
+          "revenue_inr": null,
+          "growth_pct_qoq": -2.7
+        },
+        {
+          "segment": "Manufacturing",
+          "revenue_inr": null,
+          "growth_pct_qoq": -16.5
+        },
+        {
+          "segment": "Energy and Utilities",
+          "revenue_inr": null,
+          "growth_pct_qoq": -10.1
+        },
+        {
+          "segment": "CPG, Retail \u0026 Pharma",
+          "revenue_inr": null,
+          "growth_pct_qoq": -0.01
+        },
+        {
+          "segment": "Hi-Tech \u0026 Media",
+          "revenue_inr": null,
+          "growth_pct_qoq": 0
+        },
+        {
+          "segment": "Others",
+          "revenue_inr": null,
+          "growth_pct_qoq": 29.6
+        }
+      ],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": 31477,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": 15.2,
+        "utilization_excl_trainees_pct": 79.6
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": null
+      }
+    },
+    "current_fy": {
+      "period_label": "FY2021",
+      "revenue": {
+        "total_inr": null,
+        "total_usd": null,
+        "cc_growth_pct_yoy": null,
+        "usd_growth_pct_yoy": null
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": null,
+        "ebit_margin_pct": null,
+        "pat_inr": null,
+        "pat_usd": null,
+        "pat_margin_pct": null,
+        "basic_eps_inr": null
+      },
+      "order_book": {
+        "tcv_fy": null,
+        "tcv_growth_pct_yoy": null,
+        "pipeline_commentary": "Pipeline is up 19% YoY. Except for manufacturing, oil \u0026 gas and automotive, pipeline is holding up pretty well across other verticals. Reasonable pipeline growth in US, Europe, and emerging markets (India, Middle East and Asia Pacific)."
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": null
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "LTIM navigated a challenging Q1 FY2021 marked by the pandemic, limiting de-growth with a 9.5% YoY revenue increase in USD terms (10.6% in CC). Stable operating margins were achieved sequentially at 17.4%, offsetting revenue decline through cost control and favorable currency movements.  Focus remained on customer relationships, operational resilience, and protecting profitability.",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": "Q1 FY2021 saw a QoQ decline in revenue (-4.8% USD, -4.7% CC) primarily due to pandemic-related disruptions and one-time commercial discounts.  YoY growth was strong at 9.5% USD and 10.6% CC, demonstrating resilience. EBIT margin improved slightly to 17.4% from 16.7% in Q4 FY2020, driven by cost efficiencies. PAT margin decreased marginally to 14.1% from 14.2% due to lower forex gain and higher taxes, despite increased treasury income. \n\nSuitable Charts:\n* Bar chart comparing Q1 FY2021 revenue, EBIT, and PAT to Q4 FY2020 and Q1 FY2020.\n* Line chart showing EBIT and PAT margin trends over the past few quarters."
+      },
+      "full_year": {
+        "narrative": "Full-year FY2021 trends are not available in the provided documents. Management expects Q2 FY2021 to be flat with a positive bias, anticipating a return to growth as the situation normalizes.  They also anticipate some cost increases as travel and other expenses return. Operating margins are expected to remain in a narrow band around the Q1 level."
+      }
+    },
+    "segment_geographic_deep_dive": "BFS showed strong YoY growth but declined QoQ due to work-from-home approval delays and discounts. Insurance saw modest YoY growth and a slight QoQ decline. Manufacturing was the hardest hit, with a significant QoQ decline but double-digit YoY growth. Energy and Utilities declined both YoY and QoQ due to COVID-19 and commodity price pressures. CPG, Retail \u0026 Pharma experienced a marginal QoQ decline, while Hi-Tech \u0026 Media remained flat. The \u0022Others\u0022 segment showed strong growth both YoY and QoQ due to India-specific programs. Geographic performance data was not available for the quarter.",
+    "deal_wins_pipeline_quality": "The deal pipeline remains healthy, up 19% YoY, though some deals are experiencing delays or being put on hold due to the uncertain environment.  A notable large deal win in the UK BFS sector provides positive momentum. New logo additions, including a Global Fortune 500 company, demonstrate LTIM\u0027s continued ability to acquire new clients.  Focus on cloud and digital transformations is expected to drive future deal flow.",
+    "management_commentary_outlook": "Management believes Q1 FY2021 was the trough and expects Q2 to be flat with a positive bias.  They remain cautious due to ongoing uncertainties but express confidence in LTIM\u0027s ability to gain market share and achieve industry-leading growth in FY2021.  They emphasize a focus on customer-centricity, operational resilience, and protecting profitability.",
+    "comparison_to_expectations": "No specific guidance or market expectations were mentioned in the provided documents, making direct comparisons difficult. However, the management\u0027s positive commentary suggests that the performance was broadly in line with internal expectations.",
+    "key_risks_headwinds": "Key risks and headwinds highlighted include the ongoing pandemic, potential for further lockdowns, and the uncertain economic environment impacting client spending.  Delays in deal closures and potential defaults are also noted as potential challenges.",
+    "operational_efficiency": "DSO improved significantly, reflecting strong cash collections. Utilization remained healthy, and attrition improved.  The company is focused on maintaining operational efficiency while adapting to the new normal of remote work.  The impact of headcount changes and fresher onboarding was not specifically addressed in the context of operational efficiency."
+  }
+}

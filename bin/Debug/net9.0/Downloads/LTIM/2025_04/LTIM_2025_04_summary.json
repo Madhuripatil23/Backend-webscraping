@@ -1,18 +1,18 @@
 {
   "metadata": {
-    "company": "LTIMindtree",
+    "company": "LTIM",
     "report_generated_on": "2025-04-28",
     "source_documents": [
       {
         "file_name": "LTIM/SE/STAT/2025-26/14",
         "type": "Earnings Call Transcript",
-        "period_covered": "Q4 FY2025",
+        "period_covered": "Q4 FY25",
         "url": ""
       },
       {
         "file_name": "LTIM/SE/STAT/2025-26/11",
         "type": "Investor Presentation",
-        "period_covered": "Q4 FY2025",
+        "period_covered": "Q4 FY25",
         "url": ""
       }
     ],
@@ -23,7 +23,7 @@
   },
   "data_extraction": {
     "latest_quarter": {
-      "period_label": "Q4 FY2025",
+      "period_label": "Q4 FY25",
       "revenue": {
         "total_inr": 97717,
         "total_usd": 1131,
@@ -60,17 +60,17 @@
       },
       "segment_performance": [
         {
-          "segment": "Banking, Financial Services \u0026 Insurance",
+          "segment": "Banking, Financial Services & Insurance",
           "revenue_inr": 36242,
           "growth_pct_qoq": 1.2
         },
         {
-          "segment": "Technology, Media \u0026 Communications",
+          "segment": "Technology, Media & Communications",
           "revenue_inr": 22952,
           "growth_pct_qoq": -1.5
         },
         {
-          "segment": "Manufacturing \u0026 Resources",
+          "segment": "Manufacturing & Resources",
           "revenue_inr": 19486,
           "growth_pct_qoq": 2.3
         },
@@ -80,7 +80,7 @@
           "growth_pct_qoq": -2.4
         },
         {
-          "segment": "Healthcare, Life Sciences \u0026 Public Services",
+          "segment": "Healthcare, Life Sciences & Public Services",
           "revenue_inr": 5332,
           "growth_pct_qoq": -14
         }
@@ -113,7 +113,7 @@
       }
     },
     "current_fy": {
-      "period_label": "FY2025",
+      "period_label": "FY25",
       "revenue": {
         "total_inr": 380081,
         "total_usd": 4492.5,
@@ -139,23 +139,23 @@
       "cash_flow_balance_sheet": {
         "ocf_to_pat_ratio": null,
         "fcf_to_pat_ratio": null,
-        "cash_and_investments_inr": 133463,
-        "cash_and_investments_usd": null,
+        "cash_and_investments_inr": 133460,
+        "cash_and_investments_usd": 1560,
         "dso_days": 79
       },
       "segment_performance": [
         {
-          "segment": "Banking, Financial Services \u0026 Insurance",
+          "segment": "Banking, Financial Services & Insurance",
           "revenue_inr": 137318,
           "growth_pct_yoy": 4.6
         },
         {
-          "segment": "Technology, Media \u0026 Communications",
+          "segment": "Technology, Media & Communications",
           "revenue_inr": 93125,
           "growth_pct_yoy": 8.7
         },
         {
-          "segment": "Manufacturing \u0026 Resources",
+          "segment": "Manufacturing & Resources",
           "revenue_inr": 72137,
           "growth_pct_yoy": 7.2
         },
@@ -165,7 +165,7 @@
           "growth_pct_yoy": 0
         },
         {
-          "segment": "Healthcare, Life Sciences \u0026 Public Services",
+          "segment": "Healthcare, Life Sciences & Public Services",
           "revenue_inr": 23081,
           "growth_pct_yoy": -3
         }
@@ -199,20 +199,357 @@
     }
   },
   "financial_analysis": {
-    "performance_summary": "LTIMindtree concluded FY25 with a 5% YoY CC revenue growth and a 14.5% EBIT margin. Growth was observed across key verticals and a major geography, despite a challenging macro environment. A strong order inflow, largely driven by AI-led deals, indicates pervasive AI integration across service offerings. Q4 FY25 saw a slight decline in revenue QoQ (-0.7% in USD terms, -0.6% in CC terms) and flat EBIT margins at 13.8% compared to Q3 FY25. PAT margin for Q4 was 11.5%, up from 11.2% in Q3 FY25.",
+    "performance_summary": "LTIM experienced a year of consolidation in FY25, marked by growth in key verticals and large deal wins, particularly in AI. Despite a strong first half, revenue momentum slowed in the second half due to macro uncertainties. The company focused on supporting clients with cost optimization initiatives. Constant currency revenue growth was 5%, totaling $4.5B. Order inflow was robust at $6B, driven by efficiency-focused deals. Operating margins declined to 14.5%. Headcount increased to 84,307 with stable attrition.",
     "trend_analysis": {
       "latest_quarter": {
-        "narrative": "Q4 FY25 revenue declined by 0.7% QoQ in USD terms and 0.6% in CC terms.  YoY, USD revenue grew 5.8% and CC revenue grew 6.3%. EBIT margin remained flat at 13.8% compared to Q3 FY25, but declined YoY from 14.7%. PAT margin increased to 11.5% from 11.2% in Q3, and increased YoY from 12.4%. The decline in QoQ revenue was attributed to macro uncertainties impacting deal closures and ramp-ups.  However, the company managed to maintain EBIT margins due to improved operational efficiencies.  A suitable visual representation would be a bar chart comparing revenues, EBIT, and PAT across Q4 FY24, Q3 FY25, and Q4 FY25, along with line charts showing the trend of EBIT and PAT margins over these periods."
+        "narrative": "Q4 FY25 saw a slight decline in revenue both QoQ and YoY in USD terms, but an increase in INR terms YoY. EBIT margin remained flat QoQ but decreased YoY. PAT increased QoQ and YoY in INR terms but decreased YoY in USD terms. Key drivers included macro uncertainties impacting client spending and delays in deal ramp-ups, offset by cost optimization measures and new deal wins. \n\nSuitable Charts:\n* Bar chart comparing USD and INR revenues, EBIT, and PAT across Q4 FY24, Q3 FY25, and Q4 FY25.\n* Line chart showing EBIT and PAT margin trends across the same periods."
       },
       "full_year": {
-        "narrative": "FY25 revenue grew by 4.8% YoY in USD terms and 5% in CC terms. EBIT margin declined to 14.5% from 15.7% in FY24. PAT margin also declined to 12.1% from 12.9% in FY24.  The slowdown in the second half of the year was attributed to macro uncertainties. Key factors influencing operating margins include wage hikes implemented in Q2 FY25 and productivity pass-backs to clients. A bar chart comparing FY24 and FY25 revenue, EBIT, and PAT, along with line charts showing EBIT and PAT margin trends, would effectively visualize this data. "
+        "narrative": "FY25 revenue grew both in USD and INR terms YoY. Profitability, however, saw a decline in operating margins YoY, primarily attributed to wage hikes, pass-backs related to productivity improvements, and the impact of delayed deal ramp-ups. Cost optimization initiatives were implemented to mitigate these factors.\n\nSuitable Charts:\n* Bar chart comparing USD and INR revenues, EBIT, and PAT for FY24 and FY25.\n* Line chart illustrating operating margin trends over FY25."
       }
     },
-    "segment_geographic_deep_dive": "BFSI, Technology, and Manufacturing verticals, contributing ~80% of FY25 revenue, showed good growth. Technology, Media \u0026 Communications grew 8.7% YoY in USD terms. BFSI grew 4.6% YoY, driven by large deals focused on cost optimization, vendor consolidation, and tech modernization. Manufacturing \u0026 Resources grew 7.2% YoY due to vendor consolidation, ERP transformation, and managed services. Consumer business remained flat YoY in CC terms, while Retail and CPG showed growth, offset by client-specific slowdowns in Travel, Transportation, and Hospitality. Healthcare, Life Sciences \u0026 Public Services declined 3% YoY, primarily due to the Healthcare segment. Geographically, North America grew 7.1% YoY, while Europe and Rest of the World declined 1.2% and 1.7% respectively.  Client-specific slowdowns were observed in the Travel, Transportation, and Hospitality segment.",
-    "deal_wins_pipeline_quality": "LTIMindtree recorded a robust order inflow of US$6 billion in FY25, up 6.1% YoY. Q4 order inflow was US$1.6 billion, marking the second consecutive quarter with over US$1.5 billion.  Significant deal wins include a multi-year deal with a US Life Insurance company focused on enhancing quality engineering using AI, an end-to-end outsourcing deal with a global re-insurance group for AIOps, and a deal with a KSA digital company for hybrid cloud security platform operations. The deal pipeline remains robust, reflecting a shift from discretionary to longer-term, efficiency-driven deals, including AI-led transformations.",
-    "management_commentary_outlook": "While acknowledging ongoing macro uncertainties, management expressed confidence in navigating the challenges and thriving in FY26. The focus will be on three key initiatives: 1) sales transformation, including simplifying service lines and strengthening leadership; 2) adapting to the AI economy with multi-service solutions and revamping the large deal organization; and 3) the \u0022Fit4Future\u0022 program to enhance agility and profitability by re-baselining operational costs. Management expects the \u0022Fit4Future\u0022 program to improve margins starting from Q1 FY26. Venu Lambu, the newly appointed CEO, highlighted the importance of value creation and expressed confidence in the company\u0027s ability to capitalize on the current technological transition and macro environment.",
-    "comparison_to_expectations": "While the company had expected stronger growth momentum from Q3 into Q4, driven by strong Q3 order inflow, the actual Q4 performance was softer due to macro uncertainty impacting deal closures and ramp-ups. Some deals expected to close in Q4 were pushed to Q1 FY26.",
-    "key_risks_headwinds": "Management acknowledged ongoing macro uncertainties impacting client spending, particularly in discretionary projects.  Specific risks mentioned include deal ramp-up delays, client-specific slowdowns in certain segments (e.g., Travel, Transportation, and Hospitality), and uncertainty around the duration and severity of the macro headwinds.",
-    "operational_efficiency": "DSO improved by one day in Q4 compared to Q3, reaching 79 days. Utilization, excluding trainees, was 85.8% in Q4, slightly up from 85.4% in Q3.  Attrition remained stable at 14.4%. The company onboarded 4,700 freshers in FY25 as part of its pyramid correction strategy. Headcount reduction in Q4 was attributed to aggressive hiring in previous quarters in anticipation of higher growth, which did not materialize due to macro factors. Going forward, headcount growth is expected to be non-linear with revenue growth due to increased AI-led productivity."
+    "segment_geographic_deep_dive": "Technology, Media & Communications and BFSI were key growth drivers in FY25. Manufacturing also showed healthy growth, driven by vendor consolidation and ERP transformation deals. Consumer business remained flat, while Healthcare saw a decline. North America was the strongest performing geography. Client-specific slowdowns were noted in the Travel, Transportation & Hospitality portfolio within the Consumer business.",
+    "deal_wins_pipeline_quality": "The order book appears healthy with a strong year-end pipeline.  Q4 order inflow was $1.6B, the second consecutive quarter above $1.5B. Total FY25 order inflow reached $6B, a 6.1% YoY increase. There's a notable shift towards longer-term, efficiency-driven deals, including AI-led projects. Key wins included a multi-year quality engineering deal with a US Life Insurance company, a next-gen ERP support deal with a global Energy major, and an end-to-end operations services deal for a digital company in KSA.",
+    "management_commentary_outlook": "Management expressed confidence in navigating macro challenges and highlighted three key initiatives for FY26: sales transformation (simplifying structure, strengthening leadership, and exploring new sales models in the AI economy), a revamped large deal organization focused on AI integration, and the \"Fit4Future\" program for enhanced agility and profitability through cost optimization. They expect margin improvement starting from Q1 FY26.",
+    "comparison_to_expectations": "While the company initially expected stronger growth momentum from Q3 into Q4, macro uncertainties and delays in deal ramp-ups led to slower revenue growth than anticipated. Specific numerical guidance was not provided, but management expressed confidence in returning to growth in Q1 FY26.",
+    "key_risks_headwinds": "Macroeconomic uncertainties, including client spending cuts and delays in project ramp-ups, were identified as key headwinds. The company also noted ongoing uncertainty in the market and the need to adapt to evolving client demands in the AI-driven economy. Client-specific slowdowns in the Travel, Transportation & Hospitality sector were also mentioned.",
+    "operational_efficiency": "DSO improved slightly. Utilization excluding trainees remained relatively stable. Attrition remained stable at 14.4%. The company onboarded 4,700 freshers during FY25 as part of its pyramid correction strategy. Headcount adjustments were made in Q4 in response to shifting growth expectations and the impact of AI-led productivity improvements."
+  },
+  "balance_sheet": {
+    "Equity Capital": {
+      "Mar 2014": "16",
+      "Mar 2015": "16",
+      "Mar 2016": "17",
+      "Mar 2017": "17",
+      "Mar 2018": "17",
+      "Mar 2019": "17",
+      "Mar 2020": "17",
+      "Mar 2021": "18",
+      "Mar 2022": "30",
+      "Mar 2023": "30",
+      "Mar 2024": "30",
+      "Mar 2025": "30"
+    },
+    "Reserves": {
+      "Mar 2014": "1,452",
+      "Mar 2015": "1,909",
+      "Mar 2016": "1,947",
+      "Mar 2017": "2,960",
+      "Mar 2018": "3,701",
+      "Mar 2019": "4,696",
+      "Mar 2020": "5,211",
+      "Mar 2021": "6,924",
+      "Mar 2022": "13,846",
+      "Mar 2023": "15,947",
+      "Mar 2024": "19,269",
+      "Mar 2025": "21,804"
+    },
+    "Borrowings +": {
+      "Mar 2014": "107",
+      "Mar 2015": "218",
+      "Mar 2016": "55",
+      "Mar 2017": "0",
+      "Mar 2018": "0",
+      "Mar 2019": "0",
+      "Mar 2020": "0",
+      "Mar 2021": "0",
+      "Mar 2022": "0",
+      "Mar 2023": "0",
+      "Mar 2024": "1,932",
+      "Mar 2025": "2,094"
+    },
+    "Other Liabilities +": {
+      "Mar 2014": "930",
+      "Mar 2015": "764",
+      "Mar 2016": "936",
+      "Mar 2017": "1,236",
+      "Mar 2018": "1,300",
+      "Mar 2019": "1,513",
+      "Mar 2020": "3,088",
+      "Mar 2021": "3,047",
+      "Mar 2022": "5,941",
+      "Mar 2023": "6,457",
+      "Mar 2024": "5,227",
+      "Mar 2025": "5,288"
+    },
+    "Total Liabilities": {
+      "Mar 2014": "2,506",
+      "Mar 2015": "2,907",
+      "Mar 2016": "2,955",
+      "Mar 2017": "4,213",
+      "Mar 2018": "5,019",
+      "Mar 2019": "6,227",
+      "Mar 2020": "8,317",
+      "Mar 2021": "9,988",
+      "Mar 2022": "19,816",
+      "Mar 2023": "22,434",
+      "Mar 2024": "26,458",
+      "Mar 2025": "29,217"
+    },
+    "Fixed Assets +": {
+      "Mar 2014": "294",
+      "Mar 2015": "337",
+      "Mar 2016": "320",
+      "Mar 2017": "286",
+      "Mar 2018": "273",
+      "Mar 2019": "315",
+      "Mar 2020": "1,152",
+      "Mar 2021": "1,033",
+      "Mar 2022": "2,550",
+      "Mar 2023": "2,931",
+      "Mar 2024": "4,220",
+      "Mar 2025": "4,561"
+    },
+    "CWIP": {
+      "Mar 2014": "51",
+      "Mar 2015": "24",
+      "Mar 2016": "19",
+      "Mar 2017": "1",
+      "Mar 2018": "7",
+      "Mar 2019": "8",
+      "Mar 2020": "40",
+      "Mar 2021": "43",
+      "Mar 2022": "472",
+      "Mar 2023": "856",
+      "Mar 2024": "477",
+      "Mar 2025": "563"
+    },
+    "Investments": {
+      "Mar 2014": "455",
+      "Mar 2015": "458",
+      "Mar 2016": "322",
+      "Mar 2017": "1,231",
+      "Mar 2018": "1,560",
+      "Mar 2019": "2,260",
+      "Mar 2020": "2,874",
+      "Mar 2021": "4,382",
+      "Mar 2022": "6,711",
+      "Mar 2023": "5,919",
+      "Mar 2024": "9,203",
+      "Mar 2025": "10,357"
+    },
+    "Other Assets +": {
+      "Mar 2014": "1,706",
+      "Mar 2015": "2,088",
+      "Mar 2016": "2,293",
+      "Mar 2017": "2,695",
+      "Mar 2018": "3,179",
+      "Mar 2019": "3,644",
+      "Mar 2020": "4,252",
+      "Mar 2021": "4,530",
+      "Mar 2022": "10,083",
+      "Mar 2023": "12,728",
+      "Mar 2024": "12,558",
+      "Mar 2025": "13,736"
+    },
+    "Total Assets": {
+      "Mar 2014": "2,506",
+      "Mar 2015": "2,907",
+      "Mar 2016": "2,955",
+      "Mar 2017": "4,213",
+      "Mar 2018": "5,019",
+      "Mar 2019": "6,227",
+      "Mar 2020": "8,317",
+      "Mar 2021": "9,988",
+      "Mar 2022": "19,816",
+      "Mar 2023": "22,434",
+      "Mar 2024": "26,458",
+      "Mar 2025": "29,217"
+    }
+  },
+  "shareholding": {
+    "quarterly": [
+      {
+        "": "Promoters +",
+        "Jun 2022": "74.03%",
+        "Sep 2022": "74.00%",
+        "Dec 2022": "68.69%",
+        "Mar 2023": "68.68%",
+        "Jun 2023": "68.66%",
+        "Sep 2023": "68.66%",
+        "Dec 2023": "68.64%",
+        "Mar 2024": "68.60%",
+        "Jun 2024": "68.60%",
+        "Sep 2024": "68.60%",
+        "Dec 2024": "68.57%",
+        "Mar 2025": "68.57%"
+      },
+      {
+        "": "FIIs +",
+        "Jun 2022": "8.42%",
+        "Sep 2022": "8.13%",
+        "Dec 2022": "9.21%",
+        "Mar 2023": "8.41%",
+        "Jun 2023": "8.21%",
+        "Sep 2023": "8.11%",
+        "Dec 2023": "8.65%",
+        "Mar 2024": "7.86%",
+        "Jun 2024": "7.28%",
+        "Sep 2024": "7.39%",
+        "Dec 2024": "7.45%",
+        "Mar 2025": "7.00%"
+      },
+      {
+        "": "DIIs +",
+        "Jun 2022": "8.10%",
+        "Sep 2022": "8.05%",
+        "Dec 2022": "10.43%",
+        "Mar 2023": "11.61%",
+        "Jun 2023": "12.34%",
+        "Sep 2023": "12.87%",
+        "Dec 2023": "12.85%",
+        "Mar 2024": "13.48%",
+        "Jun 2024": "14.12%",
+        "Sep 2024": "14.79%",
+        "Dec 2024": "14.88%",
+        "Mar 2025": "15.51%"
+      },
+      {
+        "": "Government +",
+        "Jun 2022": "0.04%",
+        "Sep 2022": "0.07%",
+        "Dec 2022": "0.04%",
+        "Mar 2023": "0.05%",
+        "Jun 2023": "0.08%",
+        "Sep 2023": "0.08%",
+        "Dec 2023": "0.08%",
+        "Mar 2024": "0.10%",
+        "Jun 2024": "0.12%",
+        "Sep 2024": "0.10%",
+        "Dec 2024": "0.10%",
+        "Mar 2025": "0.10%"
+      },
+      {
+        "": "Public +",
+        "Jun 2022": "9.41%",
+        "Sep 2022": "9.74%",
+        "Dec 2022": "11.61%",
+        "Mar 2023": "11.22%",
+        "Jun 2023": "10.71%",
+        "Sep 2023": "10.27%",
+        "Dec 2023": "9.78%",
+        "Mar 2024": "9.95%",
+        "Jun 2024": "9.86%",
+        "Sep 2024": "9.09%",
+        "Dec 2024": "8.96%",
+        "Mar 2025": "8.82%"
+      },
+      {
+        "": "Others +",
+        "Jun 2022": "0.00%",
+        "Sep 2022": "0.00%",
+        "Dec 2022": "0.01%",
+        "Mar 2023": "0.01%",
+        "Jun 2023": "0.01%",
+        "Sep 2023": "0.00%",
+        "Dec 2023": "0.00%",
+        "Mar 2024": "0.00%",
+        "Jun 2024": "0.03%",
+        "Sep 2024": "0.02%",
+        "Dec 2024": "0.03%",
+        "Mar 2025": "0.00%"
+      },
+      {
+        "": "No. of Shareholders",
+        "Jun 2022": "3,87,990",
+        "Sep 2022": "4,11,310",
+        "Dec 2022": "6,01,334",
+        "Mar 2023": "5,72,545",
+        "Jun 2023": "5,41,292",
+        "Sep 2023": "5,12,560",
+        "Dec 2023": "4,83,443",
+        "Mar 2024": "5,03,965",
+        "Jun 2024": "5,03,444",
+        "Sep 2024": "4,49,972",
+        "Dec 2024": "4,40,977",
+        "Mar 2025": "4,33,377"
+      }
+    ],
+    "yearly": [
+      {
+        "": "Promoters +",
+        "Mar 2017": "84.28%",
+        "Mar 2018": "82.96%",
+        "Mar 2019": "74.80%",
+        "Mar 2020": "74.53%",
+        "Mar 2021": "74.27%",
+        "Mar 2022": "74.05%",
+        "Mar 2023": "68.68%",
+        "Mar 2024": "68.60%",
+        "Mar 2025": "68.57%"
+      },
+      {
+        "": "FIIs +",
+        "Mar 2017": "4.76%",
+        "Mar 2018": "6.92%",
+        "Mar 2019": "7.71%",
+        "Mar 2020": "9.46%",
+        "Mar 2021": "13.55%",
+        "Mar 2022": "10.08%",
+        "Mar 2023": "8.41%",
+        "Mar 2024": "7.86%",
+        "Mar 2025": "7.00%"
+      },
+      {
+        "": "DIIs +",
+        "Mar 2017": "2.09%",
+        "Mar 2018": "2.19%",
+        "Mar 2019": "7.12%",
+        "Mar 2020": "7.19%",
+        "Mar 2021": "4.29%",
+        "Mar 2022": "7.47%",
+        "Mar 2023": "11.61%",
+        "Mar 2024": "13.48%",
+        "Mar 2025": "15.51%"
+      },
+      {
+        "": "Government +",
+        "Mar 2017": "0.00%",
+        "Mar 2018": "0.00%",
+        "Mar 2019": "0.00%",
+        "Mar 2020": "0.00%",
+        "Mar 2021": "0.00%",
+        "Mar 2022": "0.00%",
+        "Mar 2023": "0.05%",
+        "Mar 2024": "0.10%",
+        "Mar 2025": "0.10%"
+      },
+      {
+        "": "Public +",
+        "Mar 2017": "8.88%",
+        "Mar 2018": "7.93%",
+        "Mar 2019": "10.37%",
+        "Mar 2020": "8.81%",
+        "Mar 2021": "7.89%",
+        "Mar 2022": "8.40%",
+        "Mar 2023": "11.22%",
+        "Mar 2024": "9.95%",
+        "Mar 2025": "8.82%"
+      },
+      {
+        "": "Others +",
+        "Mar 2017": "0.00%",
+        "Mar 2018": "0.00%",
+        "Mar 2019": "0.00%",
+        "Mar 2020": "0.00%",
+        "Mar 2021": "0.00%",
+        "Mar 2022": "0.00%",
+        "Mar 2023": "0.01%",
+        "Mar 2024": "0.00%",
+        "Mar 2025": "0.00%"
+      },
+      {
+        "": "No. of Shareholders",
+        "Mar 2017": "1,65,979",
+        "Mar 2018": "1,12,405",
+        "Mar 2019": "1,30,692",
+        "Mar 2020": "1,35,442",
+        "Mar 2021": "1,93,968",
+        "Mar 2022": "3,04,624",
+        "Mar 2023": "5,72,545",
+        "Mar 2024": "5,03,965",
+        "Mar 2025": "4,33,377"
+      }
+    ]
   }
 }

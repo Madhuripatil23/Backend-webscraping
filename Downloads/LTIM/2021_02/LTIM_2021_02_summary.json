@@ -1,0 +1,170 @@
+{
+  "metadata": {
+    "company": "LTIM",
+    "report_generated_on": "2024-07-12",
+    "source_documents": [
+      {
+        "file_name": "LTI_Earnings Call Transcript_Q3 FY2021.pdf",
+        "type": "Earnings Call Transcript",
+        "period_covered": "Q3 FY2021",
+        "url": ""
+      },
+      {
+        "file_name": "LTI_Q3 FY2021 Investor Presentation.pdf",
+        "type": "Investor Presentation",
+        "period_covered": "Q3 FY2021",
+        "url": ""
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q3 FY2021",
+      "revenue": {
+        "total_inr": 31528,
+        "total_usd": 427.8,
+        "cc_growth_pct": {
+          "qoq": 5.3,
+          "yoy": 7.4
+        },
+        "usd_growth_pct": {
+          "qoq": 5.8,
+          "yoy": 8.5
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": 6502,
+        "ebit_margin_pct": 20.6,
+        "pat_inr": 5193,
+        "pat_usd": null,
+        "pat_margin_pct": 16.5,
+        "basic_eps_inr": 29.7
+      },
+      "order_book": {
+        "tcv_new_deals": 278,
+        "pipeline_commentary": "Win rooms continue to be busy and we are seeing broad-based demand across our verticals."
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": 116.5,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": 38560,
+        "cash_and_investments_usd": null,
+        "dso_days": 63
+      },
+      "segment_performance": [
+        {
+          "segment": "BFS",
+          "revenue_inr": null,
+          "growth_pct_qoq": 8.4
+        },
+        {
+          "segment": "Insurance",
+          "revenue_inr": null,
+          "growth_pct_qoq": -0.2
+        },
+        {
+          "segment": "Manufacturing",
+          "revenue_inr": null,
+          "growth_pct_qoq": 9.6
+        },
+        {
+          "segment": "Energy \u0026 Utilities",
+          "revenue_inr": null,
+          "growth_pct_qoq": 0.1
+        },
+        {
+          "segment": "CPG, Retail \u0026 Pharma",
+          "revenue_inr": null,
+          "growth_pct_qoq": 4.7
+        },
+        {
+          "segment": "Hi Tech \u0026 Media",
+          "revenue_inr": null,
+          "growth_pct_qoq": 5.8
+        },
+        {
+          "segment": "Others (Defense and Professional Services)",
+          "revenue_inr": null,
+          "growth_pct_qoq": 11.4
+        }
+      ],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": 33983,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": 12.4,
+        "utilization_excl_trainees_pct": 84.1
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": null
+      }
+    },
+    "current_fy": {
+      "period_label": "FY2021",
+      "revenue": {
+        "total_inr": null,
+        "total_usd": null,
+        "cc_growth_pct_yoy": null,
+        "usd_growth_pct_yoy": null
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": null,
+        "ebit_margin_pct": null,
+        "pat_inr": null,
+        "pat_usd": null,
+        "pat_margin_pct": null,
+        "basic_eps_inr": null
+      },
+      "order_book": {
+        "tcv_fy": null,
+        "tcv_growth_pct_yoy": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": null
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "LTIM delivered strong revenue growth in Q3 FY2021, with 5.8% QoQ growth in USD terms and 8.5% YoY growth.  Profitability also improved, with PAT margin reaching 16.5%. Two large deal wins, with Injazat and a Fortune 500 energy company, contributed significantly to the order book.  Focus on digital transformation, cloud, and data is driving growth.  Management expressed confidence in achieving high single-digit growth for FY21.",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": "Q3 FY2021 saw robust growth across key metrics. Revenue increased by 5.8% QoQ and 8.5% YoY in USD terms. EBIT margin expanded to 20.6% from 19.9% in Q2, driven by improved productivity, offshore mix, and SG\u0026A efficiencies. PAT margin also increased to 16.5% from 15.2% in Q2. A bar chart comparing revenues, EBIT, and PAT across Q2 and Q3 FY2021, along with a line chart showing margin trends, would effectively visualize this performance."
+      },
+      "full_year": {
+        "narrative": "Full year FY21 performance data was not available in the provided documents. However, management indicated they are on track to deliver high single-digit growth for the full year."
+      }
+    },
+    "segment_geographic_deep_dive": "BFS showed strong growth at 8.4% QoQ, driven by existing client growth and new logos. Insurance saw a marginal decline due to one-time COVID related concessions. Manufacturing grew by 9.6% QoQ, aided by pass-through revenues. Energy \u0026 Utilities remained flat. CPG, Retail \u0026 Pharma grew by 4.7% QoQ, boosted by a new Fortune 500 client. Hi Tech \u0026 Media grew by 5.8% QoQ, driven by the Injazat deal.  Other segments, including Defense and Professional Services, grew by 11.4% QoQ. Geographic performance data was not provided.",
+    "deal_wins_pipeline_quality": "The order book is healthy, with two large deal wins totaling over $278 million in TCV. The Injazat deal is a significant win for digital transformation services in the UAE.  The deal with the Fortune 500 energy company focuses on creating a business-aligned IT services delivery platform. The deal pipeline remains strong, with broad-based demand across verticals.",
+    "management_commentary_outlook": "Management is confident about growth momentum continuing into Q4 and expects to achieve high single-digit growth for FY21. They emphasized the large deal pipeline and opportunities across verticals.  They also highlighted the importance of their 3x3 strategy focusing on customer-centricity, operational resilience, and P\u0026L protection.",
+    "comparison_to_expectations": "No specific guidance or market expectations were mentioned in the provided documents, making direct comparison impossible.",
+    "key_risks_headwinds": "Management acknowledged potential headwinds from wage hikes and increased investments in sales, marketing, and new technology areas like cloud and data. They also mentioned the need to manage margins carefully given these investments.",
+    "operational_efficiency": "Utilization improved to 84.1%, excluding trainees. Attrition reduced to 12.4% on a TTM basis. DSO improved to 63 days. Headcount additions were strong at 1,528 in Q3.  Increased fresher hiring is planned to manage utilization and support future growth."
+  }
+}

@@ -1,0 +1,165 @@
+﻿{
+  "metadata": {
+    "company": "LTIM",
+    "report_generated_on": "2023-10-27",
+    "source_documents": [
+      {
+        "file_name": "LTI_Earnings_Call_Transcript_Q1_FY2020.pdf",
+        "type": "Earnings Call Transcript",
+        "period_covered": "Q1 FY2020",
+        "url": ""
+      },
+      {
+        "file_name": "LTI_Investor_Presentation_July_2019.pdf",
+        "type": "Investor Presentation",
+        "period_covered": "Q1 FY2020",
+        "url": ""
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q1 FY2020",
+      "revenue": {
+        "total_inr": 24849,
+        "total_usd": 356.5,
+        "cc_growth_pct": {
+          "qoq": 1,
+          "yoy": 12.9
+        },
+        "usd_growth_pct": {
+          "qoq": 0.8,
+          "yoy": 11.5
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": 3968,
+        "ebit_margin_pct": 16,
+        "pat_inr": 3557,
+        "pat_usd": null,
+        "pat_margin_pct": 14.3,
+        "basic_eps_inr": 20.51
+      },
+      "order_book": {
+        "tcv_new_deals": 44,
+        "pipeline_commentary": "Healthy deal pipeline; momentum in large deal space continues. Intensely competitive deal advisor led deal win in insurance, TCV $44M. Cloud-led infrastructure transformation and insurance domain expertise key differentiators. Two deal wins in wealth management: one with leading investment management company using AI and automation, and another with global bank for multi-year cloud-based transformation. DT chose LTI as strategic partner for setting up and running Microsoft Cloud Acceleration Centre. Guidewire recognized LTI as consulting alliance partner."
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": 93.8,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": 23796,
+        "cash_and_investments_usd": null,
+        "dso_days": 70
+      },
+      "segment_performance": [
+        {
+          "segment": "BFS",
+          "revenue_inr": null,
+          "growth_pct_qoq": 0.9
+        },
+        {
+          "segment": "Insurance",
+          "revenue_inr": null,
+          "growth_pct_qoq": 2.5
+        },
+        {
+          "segment": "Manufacturing",
+          "revenue_inr": null,
+          "growth_pct_qoq": -7.8
+        },
+        {
+          "segment": "CPG, Retail \u0026 Pharma",
+          "revenue_inr": null,
+          "growth_pct_qoq": 6.2
+        },
+        {
+          "segment": "Hi-Tech \u0026 Media",
+          "revenue_inr": null,
+          "growth_pct_qoq": 1.6
+        },
+        {
+          "segment": "Others",
+          "revenue_inr": null,
+          "growth_pct_qoq": 19.1
+        }
+      ],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": 29347,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": 18.3,
+        "utilization_excl_trainees_pct": 81.3
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": null
+      }
+    },
+    "current_fy": {
+      "period_label": "FY2020",
+      "revenue": {
+        "total_inr": null,
+        "total_usd": null,
+        "cc_growth_pct_yoy": null,
+        "usd_growth_pct_yoy": null
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": null,
+        "ebit_margin_pct": null,
+        "pat_inr": null,
+        "pat_usd": null,
+        "pat_margin_pct": null,
+        "basic_eps_inr": null
+      },
+      "order_book": {
+        "tcv_fy": null,
+        "tcv_growth_pct_yoy": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": null
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "LTIM reported Q1 FY2020 revenue of $356.5M (INR 24,849M), up 0.8% QoQ and 11.5% YoY (12.9% YoY in CC). Digital revenue reached 39% of total revenue, growing 27.5% YoY.  EBIT margin was 16%, down from 17.7% in Q4 FY2019, impacted by visa costs, sales \u0026 marketing investments, and currency movements. PAT margin stood at 14.3%.  Growth was challenged by reduced spending at a top account and completion of a separation program at a large African banking client.  Despite these challenges, the company secured a $44M TCV deal in insurance and made progress in strategic partnerships and acquisitions. Management expects positive sequential growth in Q2 and accelerated growth from Q3 onwards, driven by large deal ramp-ups and a healthy pipeline.",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": "Q1 FY2020 showed mixed performance. While USD revenue grew marginally by 0.8% QoQ and 11.5% YoY, CC revenue growth was stronger at 1% QoQ and 12.9% YoY. EBIT margin declined to 16% from 17.7% in the previous quarter, primarily due to increased visa costs, higher sales and marketing investments, and currency fluctuations. PAT margin also decreased to 14.3% from 15.2% QoQ. A suitable visualization would be a bar chart comparing revenues, EBIT, and PAT across Q4 FY2019 and Q1 FY2020, along with line charts showing the trend of EBIT and PAT margins over the same period."
+      },
+      "full_year": {
+        "narrative": "Full-year FY2020 analysis is not possible with the provided data, as only Q1 results are available. Management expects FY2020 to be challenging due to account-specific headwinds, but anticipates growth to pick up from Q3 onwards. Operating margins are expected to remain stable in the 14-15% range.  A line chart showing the quarterly progression of revenue and profitability metrics would be helpful to visualize the trajectory of performance throughout the year."
+      }
+    },
+    "segment_geographic_deep_dive": "BFS faced challenges due to a slowdown at the largest account and completion of a separation program at an African banking client, but showed 0.9% QoQ growth. Insurance performed well with 2.5% QoQ growth, driven by large deal wins. Manufacturing declined by 7.8% QoQ due to the absence of pass-through revenue. CPG, Retail, and Pharma continued strong momentum with 6.2% QoQ growth. Hi-Tech and Media saw moderated growth of 1.6% QoQ after a strong Q4. Other verticals rebounded significantly with 19.1% QoQ growth. Geographic performance data is not available in the provided documents.",
+    "deal_wins_pipeline_quality": "The order book appears healthy with consistent large deal wins in recent quarters and a strong pipeline.  The $44M insurance deal win and the two wealth management wins demonstrate LTI\u0027s ability to compete and secure large deals.  Strategic partnerships with companies like DT and Guidewire further strengthen the pipeline and position LTI for future growth. The acquisition of Lymbyc enhances LTI\u0027s capabilities in AI, machine learning, and advanced analytics, strengthening its Mosaic platform.",
+    "management_commentary_outlook": "Management anticipates FY2020 to be challenging due to account-specific issues but expects positive sequential growth in Q2 and accelerated momentum from Q3 onwards, driven by large deal ramp-ups and a healthy pipeline. Operating margins are expected to remain stable within the 14-15% range.",
+    "comparison_to_expectations": "The provided documents do not contain specific guidance or market expectations to compare against the actual Q1 FY2020 performance.",
+    "key_risks_headwinds": "Key risks and headwinds include the slowdown in spending at a top account, completion of a separation program at a large African banking client, and general macro uncertainties impacting client budgets. Increased visa costs and investments in sales and marketing are also putting pressure on margins.",
+    "operational_efficiency": "Utilization excluding trainees remained stable at 81.3%. Attrition inched up slightly to 18.3% from 17.5% in the previous quarter. DSO stood at 70 days. The company added 1,178 employees during the quarter, indicating continued investments in talent. The impact of fresher onboarding is not specifically mentioned."
+  }
+}

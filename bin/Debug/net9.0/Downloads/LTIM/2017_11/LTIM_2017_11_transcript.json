@@ -1,0 +1,134 @@
+﻿{
+  "metadata": {
+    "company": "LTIM",
+    "report_generated_on": "2024-01-19",
+    "source_documents": [
+      {
+        "file_name": "LTI_Limited_Q2_FY_2018_Earnings_Conference_Call_Transcript.pdf",
+        "type": "Earnings Call Transcript",
+        "period_covered": "Q2 FY2018",
+        "url": "file://path/to/LTI_Limited_Q2_FY_2018_Earnings_Conference_Call_Transcript.pdf"
+      },
+      {
+        "file_name": "LTI_Limited_Q2_FY_2018_Investor_Presentation.pdf",
+        "type": "Investor Presentation",
+        "period_covered": "Q2 FY2018",
+        "url": "file://path/to/LTI_Limited_Q2_FY_2018_Investor_Presentation.pdf"
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q2 FY2018",
+      "revenue": {
+        "total_inr": 17508,
+        "total_usd": 270.6,
+        "cc_growth_pct": {
+          "qoq": 3.5,
+          "yoy": 11.7
+        },
+        "usd_growth_pct": {
+          "qoq": 4.4,
+          "yoy": 12.9
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": 2407,
+        "ebit_margin_pct": 14.5,
+        "pat_inr": 2730,
+        "pat_usd": null,
+        "pat_margin_pct": 15.6,
+        "basic_eps_inr": 15.95
+      },
+      "order_book": {
+        "tcv_new_deals": null,
+        "pipeline_commentary": "Two large deals signed. One with a European CPG company for $50M over five years. Another transformational deal with a leading African bank."
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": 13368,
+        "cash_and_investments_usd": null,
+        "dso_days": 76
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": 15,
+        "utilization_excl_trainees_pct": 80.7
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": 8
+      }
+    },
+    "current_fy": {
+      "period_label": "FY2018",
+      "revenue": {
+        "total_inr": null,
+        "total_usd": null,
+        "cc_growth_pct_yoy": null,
+        "usd_growth_pct_yoy": null
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": null,
+        "ebit_margin_pct": null,
+        "pat_inr": null,
+        "pat_usd": null,
+        "pat_margin_pct": null,
+        "basic_eps_inr": null
+      },
+      "order_book": {
+        "tcv_fy": null,
+        "tcv_growth_pct_yoy": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": null
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "LTIM delivered a strong Q2 FY2018 with 4.4% QoQ USD revenue growth and 3.5% QoQ CC revenue growth.  Net profit margin was 14.9%, at the higher end of their guidance. Key highlights include momentum in large deals, signing two significant contracts, and the first license sale of their LTI Mosaic platform.",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": "Q2 FY2018 revenue grew by 4.4% QoQ in USD terms and 3.5% in CC terms. EBIT margin improved by 10 bps to 14.5%. PAT margin, however, decreased by 40 bps to 15.6%. Drivers for these changes include revenue growth, disciplined project execution, cost management, wage hikes, and improved utilization, partially offset by absence of visa costs and lower working days. \n\nSuitable Charts:\n* Bar chart comparing USD Revenue, INR Revenue, EBIT (INR), and PAT (INR) across Q1 FY2018 and Q2 FY2018.\n* Line chart showing QoQ trend of EBIT margin and PAT margin over the last few quarters."
+      },
+      "full_year": {
+        "narrative": ""
+      }
+    },
+    "segment_geographic_deep_dive": "While segment performance for the quarter wasn\u0027t provided in the transcript, several verticals were mentioned as performing well, including BFS (6.3% QoQ growth), Insurance (4.5% QoQ growth), Energy \u0026 Utilities (7.2% QoQ growth), CPG, Retail and Pharma (10.4% QoQ growth), and High-Tech and Media (double-digit growth). Manufacturing showed a slight 1% QoQ growth, while \u0022Others\u0022 declined due to an India-based project nearing completion. Digital services now represent 32% of revenues, up from 29% last quarter.",
+    "deal_wins_pipeline_quality": "The order book appears healthy with the signing of two large deals this quarter, indicating strong momentum. One deal is with a European CPG company for $50M over five years, focusing on SAP implementation and support. The other is with an African bank for application development and support services. The win against larger competitors highlights LTIM\u0027s capabilities and strong employee value proposition. Furthermore, the first license sale of the LTI Mosaic platform to a US-based global insurer demonstrates the potential of their platforms and IP-led solutions.",
+    "management_commentary_outlook": "Management expressed satisfaction with the revenue growth driven by digital technologies and their confidence in beating the FY2017 benchmark of 10% revenue growth in FY2018. They are committed to delivering a net profit margin in the 14%-15% band for FY2018.  They also expressed optimism for H2 FY2018 and FY2019 based on current momentum, order book, and large deal wins.",
+    "comparison_to_expectations": "",
+    "key_risks_headwinds": "",
+    "operational_efficiency": "DSO increased by 9 days to 76, which management attributed to operational issues and expects improvement in the next quarter. Utilization (excluding trainees) saw a significant increase to 80.7%, up 240 bps QoQ.  Attrition rate increased slightly to 15% LTM, up from 14.7% in the previous quarter."
+  }
+}

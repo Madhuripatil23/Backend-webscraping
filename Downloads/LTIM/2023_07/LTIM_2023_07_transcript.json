@@ -1,0 +1,176 @@
+﻿{
+  "metadata": {
+    "company": "LTIM",
+    "report_generated_on": "2024-07-26",
+    "source_documents": [
+      {
+        "file_name": "LTIM_Q1_FY24_Earnings_Call_Transcript.pdf",
+        "type": "Earnings Call Transcript",
+        "period_covered": "Q1 FY24",
+        "url": ""
+      },
+      {
+        "file_name": "LTIMindtree_Q1_FY24_Results_Presentation.pdf",
+        "type": "Investor Presentation",
+        "period_covered": "Q1 FY24",
+        "url": ""
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q1 FY24",
+      "revenue": {
+        "total_inr": 87021,
+        "total_usd": 1058.7,
+        "cc_growth_pct": {
+          "qoq": 0.1,
+          "yoy": 8.2
+        },
+        "usd_growth_pct": {
+          "qoq": 0.1,
+          "yoy": 8.1
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": 14214,
+        "ebit_margin_pct": 16.7,
+        "pat_inr": 11523,
+        "pat_usd": null,
+        "pat_margin_pct": 13.2,
+        "basic_eps_inr": 38.9
+      },
+      "order_book": {
+        "tcv_new_deals": 1410,
+        "pipeline_commentary": "Robust deal pipeline with good sales activity and healthy win ratio; delays in decision-making and hiring freezes observed; focus on cross-selling/upselling, especially within Focus 100 initiative."
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": 89.8,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": 92350,
+        "cash_and_investments_usd": 1130,
+        "dso_days": 60
+      },
+      "segment_performance": [
+        {
+          "segment": "Banking, Financial Services \u0026 Insurance",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Hi-Tech, Media \u0026 Entertainment",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Manufacturing \u0026 Resources",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Retail, CPG, Travel, Transportation \u0026 Hospitality",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Health, Life Sciences \u0026 Public Services",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        }
+      ],
+      "geographic_performance": [
+        {
+          "region": "North America",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "region": "Europe",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "region": "Rest of the World",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        }
+      ],
+      "headcount_metrics": {
+        "total_headcount": 77555,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": 17.8,
+        "utilization_excl_trainees_pct": 84.8
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": null
+      }
+    },
+    "current_fy": {
+      "period_label": "FY24",
+      "revenue": {
+        "total_inr": null,
+        "total_usd": null,
+        "cc_growth_pct_yoy": null,
+        "usd_growth_pct_yoy": null
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": null,
+        "ebit_margin_pct": null,
+        "pat_inr": null,
+        "pat_usd": null,
+        "pat_margin_pct": null,
+        "basic_eps_inr": null
+      },
+      "order_book": {
+        "tcv_fy": null,
+        "tcv_growth_pct_yoy": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": null
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "LTIM reported Q1 FY24 revenue of $1.06B, up 8.1% YoY and 0.1% QoQ. EBIT margin expanded to 16.7%, up 30 bps QoQ.  Performance was driven by strong growth across key verticals and geographies, offset by a challenging macroeconomic environment.  Inclusion in NIFTY 50 reflects the company\u0027s positive trajectory.  Key achievements include strong growth in Manufacturing \u0026 Resources (14.9% YoY) and BFSI (12.1% YoY) verticals, reaching a $1B run rate in Hi-Tech, Media \u0026 Entertainment.  Challenges include ongoing macroeconomic uncertainty, delays in decision-making, and hiring freezes, particularly in BFSI.",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": "Q1 FY24 saw a slight sequential increase in revenue (0.1%) and a more pronounced improvement in EBIT margin (30 bps QoQ) and PAT margin (40 bps QoQ). YoY growth was robust for revenue (8.1%), EBIT (9.3%), and PAT (4.1%). Key drivers include strong performance in key verticals, improved utilization (84.8%), and cost optimization efforts.  Suggested charts: Bar charts comparing revenue, EBIT, and PAT across Q1 FY23, Q4 FY23, and Q1 FY24; line charts showing margin trends across the same periods."
+      },
+      "full_year": {
+        "narrative": "Full year FY24 trends are not yet available as this is the first quarter of the fiscal year.  Analysis will be conducted once full year results are released."
+      }
+    },
+    "segment_geographic_deep_dive": "Manufacturing \u0026 Resources and BFSI were the strongest performing segments in Q1 FY24, with 14.9% and 12.1% YoY growth respectively.  Hi-Tech, Media \u0026 Entertainment reached a $1B run rate. North America contributed 73.1% of revenue and grew 10.2% YoY, while Europe grew 7.3% YoY.  Management noted resilience in BFSI due to core systems and compliance engagements, and positive shifts in Media \u0026 Entertainment towards AI-based products.  Concerns remain in Retail due to inflationary pressures and in Banking due to hiring freezes and slower decision cycles.",
+    "deal_wins_pipeline_quality": "Order inflow for Q1 FY24 was $1.41B, up 16.9% YoY and 4.9% QoQ. The deal pipeline is robust, with a healthy mix across verticals and regions.  A growing trend towards efficiency-focused deals is observed, with some combining efficiency and transformation objectives.  Larger deal sizes and structured deals are becoming more prevalent, reflecting LTIM\u0027s increased scale and capabilities.  Several key wins were highlighted, including a 5-year deal with a High-Tech client, a managed services engagement with an insurance major, and a strategic transformation partnership with a marketing function.",
+    "management_commentary_outlook": "Management maintains a cautiously optimistic outlook. While sales activity and win rates are healthy, delays in decision-making and hiring freezes persist, posing challenges to the double-digit growth aspiration.  Management expects continued profitable growth driven by cross-selling/upselling and a focus on transformation and efficiency agendas.  They anticipate increased spending in High-Tech in the latter half of the calendar year and see resilience in Banking, Financial Services, despite the current environment.",
+    "comparison_to_expectations": "Q1 FY24 performance was largely in line with management\u0027s expectations for a softer quarter. However, the persistence of decision-making delays and hiring freezes was unexpected. While management reiterates their double-digit growth aspiration, they acknowledge that achieving this target is becoming more challenging.",
+    "key_risks_headwinds": "Key risks and headwinds include macroeconomic uncertainty, persistent hiring freezes and delayed decision-making, particularly in BFSI, and the impact of ongoing global inflationary pressures on client spending, especially in the Retail sector.",
+    "operational_efficiency": "Utilization excluding trainees improved to 84.8% in Q1 FY24, driven by systems consolidation post-merger.  Attrition decreased to 17.8%.  DSO remained stable at 60 days.  The reclassification of ~1,000 employees from delivery to sales \u0026 support impacted utilization, gross margin, and SG\u0026A, but was EBIT neutral.  Management is focused on driving further efficiencies to support margin expansion."
+  }
+}

@@ -1,0 +1,134 @@
+﻿{
+  "metadata": {
+    "company": "LTIM",
+    "report_generated_on": "2023-10-27",
+    "source_documents": [
+      {
+        "file_name": "LTI_Earnings_Call_Q2_FY2020.pdf",
+        "type": "Earnings Call Transcript",
+        "period_covered": "Q2 FY2020",
+        "url": ""
+      },
+      {
+        "file_name": "Macquarie_India_Conference_2019_LTIM.pdf",
+        "type": "Investor Presentation",
+        "period_covered": "Q2 FY2020",
+        "url": ""
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q2 FY2020",
+      "revenue": {
+        "total_inr": 25707,
+        "total_usd": 363.8,
+        "cc_growth_pct": {
+          "qoq": 2.4,
+          "yoy": 11.9
+        },
+        "usd_growth_pct": {
+          "qoq": 2,
+          "yoy": 10.8
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": 3994,
+        "ebit_margin_pct": 15.5,
+        "pat_inr": 3604,
+        "pat_usd": null,
+        "pat_margin_pct": 14,
+        "basic_eps_inr": 20.73
+      },
+      "order_book": {
+        "tcv_new_deals": 100,
+        "pipeline_commentary": "Three large deals this quarter with net-new TCV of US$100 million. All three are new logos with one each in North America, Europe and Asian geography. Two wins in Energy \u0026 Utilities, one in BFS."
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": 21815,
+        "cash_and_investments_usd": null,
+        "dso_days": 67
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": 30979,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": 18.4,
+        "utilization_excl_trainees_pct": 80.6
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": 12.5
+      }
+    },
+    "current_fy": {
+      "period_label": "FY2020 YTD",
+      "revenue": {
+        "total_inr": null,
+        "total_usd": null,
+        "cc_growth_pct_yoy": null,
+        "usd_growth_pct_yoy": null
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": null,
+        "ebit_margin_pct": null,
+        "pat_inr": null,
+        "pat_usd": null,
+        "pat_margin_pct": null,
+        "basic_eps_inr": null
+      },
+      "order_book": {
+        "tcv_fy": null,
+        "tcv_growth_pct_yoy": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": 73.3,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": null
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": ""
+      },
+      "full_year": {
+        "narrative": ""
+      }
+    },
+    "segment_geographic_deep_dive": "",
+    "deal_wins_pipeline_quality": "",
+    "management_commentary_outlook": "",
+    "comparison_to_expectations": "",
+    "key_risks_headwinds": "",
+    "operational_efficiency": ""
+  }
+}

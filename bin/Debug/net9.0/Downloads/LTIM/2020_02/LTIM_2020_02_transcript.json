@@ -1,0 +1,134 @@
+﻿{
+  "metadata": {
+    "company": "LTIM",
+    "report_generated_on": "2024-07-26",
+    "source_documents": [
+      {
+        "file_name": "LTI_Earnings_Call_Transcript_Q3_FY2020.pdf",
+        "type": "Earnings Call Transcript",
+        "period_covered": "Q3 FY2020",
+        "url": ""
+      },
+      {
+        "file_name": "LTI_Investor_Presentation_February_2020.pdf",
+        "type": "Investor Presentation",
+        "period_covered": "February 2020",
+        "url": ""
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q3 FY2020",
+      "revenue": {
+        "total_inr": 28111,
+        "total_usd": 394.4,
+        "cc_growth_pct": {
+          "qoq": 8.3,
+          "yoy": 14.2
+        },
+        "usd_growth_pct": {
+          "qoq": 8.4,
+          "yoy": 13.7
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": 4568,
+        "ebit_margin_pct": 16.2,
+        "pat_inr": 3767,
+        "pat_usd": null,
+        "pat_margin_pct": 13.4,
+        "basic_eps_inr": 21.7
+      },
+      "order_book": {
+        "tcv_new_deals": 60,
+        "pipeline_commentary": "The deal pipeline continues to be solid."
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": 102.3,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": 21860,
+        "cash_and_investments_usd": null,
+        "dso_days": 110
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": 31419,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": 17.7,
+        "utilization_excl_trainees_pct": 81.3
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": null
+      }
+    },
+    "current_fy": {
+      "period_label": "FY2020",
+      "revenue": {
+        "total_inr": null,
+        "total_usd": null,
+        "cc_growth_pct_yoy": null,
+        "usd_growth_pct_yoy": null
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": null,
+        "ebit_margin_pct": null,
+        "pat_inr": null,
+        "pat_usd": null,
+        "pat_margin_pct": null,
+        "basic_eps_inr": null
+      },
+      "order_book": {
+        "tcv_fy": null,
+        "tcv_growth_pct_yoy": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": null
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "LTIM delivered a strong Q3 FY2020 performance, exceeding expectations with 8.4% QoQ and 13.7% YoY revenue growth in USD terms.  Digital revenue continued its upward trajectory, now representing 41% of total revenue.  Profitability also improved with operating margin expanding to 16.2%.  Large deal wins and robust client demand drove this performance.  However, DSO increased to 110 days.",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": "Q3 FY2020 saw substantial growth across key metrics compared to both Q2 FY2020 and Q3 FY2019.  Revenue increased by 8.4% QoQ and 13.7% YoY (USD). EBIT margin expanded to 16.2% from 15.5% in Q2, driven by operating leverage from the higher revenue.  PAT margin, however, slightly declined QoQ to 13.4% from 14% due to lower hedge gains.  YoY comparisons for EBIT and PAT were not available in the transcript.  A bar chart would effectively visualize the QoQ and YoY revenue growth, while line charts can track margin trends."
+      },
+      "full_year": {
+        "narrative": "Full-year FY2020 performance data was not available in the provided documents. Management expressed confidence in achieving double-digit growth for FY2020, driven by large deal ramp-ups and a healthy pipeline."
+      }
+    },
+    "segment_geographic_deep_dive": "BFS returned to double-digit sequential growth (11.3%) after a period of softness. Manufacturing also performed strongly (15.7% QoQ), partially due to pass-through revenue.  Hi-tech and Media, and CPG, Retail and Pharma also showed healthy growth.  Geographic performance details were not provided.  Management highlighted the success of their go-to-market strategy focusing on breakaway enterprises.",
+    "deal_wins_pipeline_quality": "LTIM secured two significant wins in Q3, including a $60 million TCV deal with a smart energy storage provider. This win highlighted LTIM\u0027s \u0022Operate-to-Transform\u0022 approach.  The other large win involved creating a data management framework for a government body.  The deal pipeline remains strong, indicating continued growth potential.",
+    "management_commentary_outlook": "Management expressed optimism about Q4 FY2020 and achieving double-digit growth for the full FY2020.  They highlighted the robust pipeline and ongoing ramp-up of large deals.  While acknowledging macro uncertainties, management emphasized LTIM\u0027s focus on delivering value to clients through cost optimization and new technologies.  Specific guidance for FY2021 was deferred to the next earnings call.",
+    "comparison_to_expectations": "Q3 FY2020 results significantly exceeded management\u0027s expectations, particularly in terms of sequential revenue growth.  This outperformance was attributed to the resurgence of a previously underperforming large account and the successful ramp-up of new deals.",
+    "key_risks_headwinds": "Management acknowledged macro uncertainties and pricing pressure in certain areas.  They also addressed an ongoing visa-related investigation, emphasizing their commitment to ethical practices and cooperation with authorities.",
+    "operational_efficiency": "Utilization improved to 81.3% (excluding trainees), while attrition remained relatively stable at 17.7%.  The increase in DSO to 110 days was attributed to strong revenue growth and the billing of previously unbilled revenue.  Management expects DSO to normalize in Q4."
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "metadata": {
+    "company": "ANGELONE",
+    "report_generated_on": "2023-10-27",
+    "source_documents": [
+      {
+        "file_name": "Angel Broking Limited Q2 FY2021 Conference Call Transcript.pdf",
+        "type": "Earnings Call Transcript",
+        "period_covered": "Q2 FY2021",
+        "url": ""
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q2 FY2021",
+      "revenue": {
+        "total_inr": 318e6,
+        "total_usd": null,
+        "cc_growth_pct": {
+          "qoq": null,
+          "yoy": null
+        },
+        "usd_growth_pct": {
+          "qoq": null,
+          "yoy": null
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": 49,
+        "ebit_inr": null,
+        "ebit_margin_pct": null,
+        "pat_inr": 74.6e6,
+        "pat_usd": null,
+        "pat_margin_pct": null,
+        "basic_eps_inr": 22.4
+      },
+      "order_book": {
+        "tcv_new_deals": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [
+        {
+          "segment": "Cash",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "F\u0026O",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Commodity",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Currency",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Gross Booking Income",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Interest Income",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Depository Income",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Mutual Funds/Insurance",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Others",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        }
+      ],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": 4.15
+      }
+    },
+    "current_fy": {
+      "period_label": "H1 FY2021",
+      "revenue": {
+        "total_inr": 565e6,
+        "total_usd": null,
+        "cc_growth_pct_yoy": null,
+        "usd_growth_pct_yoy": null
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": null,
+        "ebit_margin_pct": null,
+        "pat_inr": 123e6,
+        "pat_usd": null,
+        "pat_margin_pct": null,
+        "basic_eps_inr": null
+      },
+      "order_book": {
+        "tcv_fy": null,
+        "tcv_growth_pct_yoy": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": null
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "Angel Broking reported strong performance in Q2 FY2021, driven by a 59% QoQ increase in new client additions, reaching 540,000. This led to a 107% QoQ growth in average daily turnover and a 29% QoQ rise in revenue to INR 318 crore.  Profit from continuing operations grew by 55% QoQ to INR 74.6 crore, with EBDAT margin expanding to 49%. H1 FY2021 revenue and profit reached INR 565 crore and INR 123 crore, respectively.",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": "Q2 FY2021 saw significant growth across key metrics compared to Q1 FY2021. New client additions increased by 59%, driving a 107% surge in average daily turnover. This translated to a 29% increase in revenue. Profitability also improved, with profit from continuing operations rising by 55% QoQ and EBDAT margin expanding to 49%.\nSuitable charts:\n* Bar chart comparing new client additions, average daily turnover, revenue, and profit from continuing operations between Q1 and Q2 FY2021.\n* Line chart showing the trend of EBDAT margin over the two quarters."
+      },
+      "full_year": {
+        "narrative": ""
+      }
+    },
+    "segment_geographic_deep_dive": "The majority of new customers in Q2 FY2021 came from Tier-3 cities (55%), reflecting Angel Broking\u0027s successful penetration in these underpenetrated markets.  The company\u0027s digital platform and focus on retail clients are driving growth across cash, F\u0026O, and commodity segments. Brokerage income is primarily derived from direct clients (70%), with the remaining 30% coming through authorized persons.",
+    "deal_wins_pipeline_quality": "",
+    "management_commentary_outlook": "Management expressed confidence in the sustainable growth of client acquisitions, particularly from Tier-3 cities, due to low equity penetration and increasing adoption of digital platforms. They highlighted the company\u0027s digital-first approach, personalized services, and free research and advisory as key differentiators.  They plan to leverage the recent IPO proceeds to expand the margin funding book and continue focusing on product innovation and enhancing the digital experience.",
+    "comparison_to_expectations": "",
+    "key_risks_headwinds": "",
+    "operational_efficiency": "Angel Broking\u0027s digital transformation has resulted in significant operating leverage, with costs increasing less than proportionately with revenue growth.  The company\u0027s customer acquisition cost remains under control despite a substantial increase in new clients, contributing to improved profitability."
+  }
+}

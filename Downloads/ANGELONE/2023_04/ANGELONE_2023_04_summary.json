@@ -1,0 +1,159 @@
+{
+  "metadata": {
+    "company": "ANGELONE",
+    "report_generated_on": "2024-07-24",
+    "source_documents": [
+      {
+        "file_name": "AngelOne Q4FY23 Investor Presentation.pdf",
+        "type": "Investor Presentation",
+        "period_covered": "Q4 FY23",
+        "url": ""
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q4 FY23",
+      "revenue": {
+        "total_inr": 6442,
+        "total_usd": null,
+        "cc_growth_pct": {
+          "qoq": 12,
+          "yoy": 26.9
+        },
+        "usd_growth_pct": {
+          "qoq": null,
+          "yoy": null
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": 3705,
+        "ebitda_margin_pct": 57.5,
+        "ebit_inr": null,
+        "ebit_margin_pct": null,
+        "pat_inr": 2670,
+        "pat_usd": null,
+        "pat_margin_pct": null,
+        "basic_eps_inr": 32
+      },
+      "order_book": {
+        "tcv_new_deals": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [
+        {
+          "segment": "Gross Broking",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Interest Income",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Depository",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Distribution",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Ancillary Transaction Charges",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Other Income",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        }
+      ],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": null
+      }
+    },
+    "current_fy": {
+      "period_label": "FY23",
+      "revenue": {
+        "total_inr": 22909,
+        "total_usd": null,
+        "cc_growth_pct_yoy": 36.8,
+        "usd_growth_pct_yoy": null
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": 12221,
+        "ebitda_margin_pct": 53.3,
+        "ebit_inr": null,
+        "ebit_margin_pct": null,
+        "pat_inr": 8902,
+        "pat_usd": null,
+        "pat_margin_pct": null,
+        "basic_eps_inr": 106.9
+      },
+      "order_book": {
+        "tcv_fy": null,
+        "tcv_growth_pct_yoy": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": 13.6
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": ""
+      },
+      "full_year": {
+        "narrative": ""
+      }
+    },
+    "segment_geographic_deep_dive": "",
+    "deal_wins_pipeline_quality": "",
+    "management_commentary_outlook": "",
+    "comparison_to_expectations": "",
+    "key_risks_headwinds": "",
+    "operational_efficiency": ""
+  }
+}

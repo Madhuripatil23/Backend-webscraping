@@ -1,0 +1,176 @@
+﻿{
+  "metadata": {
+    "company": "LTIM",
+    "report_generated_on": "2023-10-27",
+    "source_documents": [
+      {
+        "file_name": "LTI_SE_STAT_2022-23_14.pdf",
+        "type": "Earnings Call Transcript",
+        "period_covered": "Q4 FY22",
+        "url": ""
+      },
+      {
+        "file_name": "LTI_SE_STAT_2022-23_18.pdf",
+        "type": "Investor Presentation",
+        "period_covered": "FY22",
+        "url": ""
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q4 FY22",
+      "revenue": {
+        "total_inr": 43016,
+        "total_usd": 570.4,
+        "cc_growth_pct": {
+          "qoq": 3.6,
+          "yoy": 29
+        },
+        "usd_growth_pct": {
+          "qoq": 3.1,
+          "yoy": 27.5
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": 7445,
+        "ebit_margin_pct": 17.3,
+        "pat_inr": 6375,
+        "pat_usd": null,
+        "pat_margin_pct": 14.8,
+        "basic_eps_inr": 36.34
+      },
+      "order_book": {
+        "tcv_new_deals": 80,
+        "pipeline_commentary": "Large deal pipeline of $2 billion, with 50% in late stages and 4 deals in contracting. 40% of pipeline from new logos. Broad-based demand across verticals and geographies."
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": 97.8,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": 39139,
+        "cash_and_investments_usd": null,
+        "dso_days": 65
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": 46648,
+        "net_additions_yoy": 2448,
+        "attrition_pct_ttm": 24,
+        "utilization_excl_trainees_pct": 81.5
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": 30
+      }
+    },
+    "current_fy": {
+      "period_label": "FY22",
+      "revenue": {
+        "total_inr": 156687,
+        "total_usd": 2102.5,
+        "cc_growth_pct_yoy": 25.8,
+        "usd_growth_pct_yoy": 25.9
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": 27035,
+        "ebit_margin_pct": 17.3,
+        "pat_inr": 22985,
+        "pat_usd": null,
+        "pat_margin_pct": 14.7,
+        "basic_eps_inr": null
+      },
+      "order_book": {
+        "tcv_fy": null,
+        "tcv_growth_pct_yoy": null,
+        "pipeline_commentary": "Strong deal pipeline with continued growth expected."
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": 71.9,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [
+        {
+          "segment": "BFS",
+          "revenue_inr": null,
+          "growth_pct_yoy": 37
+        },
+        {
+          "segment": "Hi Tech and Media \u0026 Entertainment",
+          "revenue_inr": null,
+          "growth_pct_yoy": 37
+        },
+        {
+          "segment": "Others",
+          "revenue_inr": null,
+          "growth_pct_yoy": 34
+        },
+        {
+          "segment": "Analytics, AI \u0026 Cognitive",
+          "revenue_inr": null,
+          "growth_pct_yoy": 35
+        },
+        {
+          "segment": "Enterprise Integration and Mobility",
+          "revenue_inr": null,
+          "growth_pct_yoy": 38
+        }
+      ],
+      "geographic_performance": [
+        {
+          "region": "North America",
+          "revenue_inr": null,
+          "growth_pct_yoy": null
+        },
+        {
+          "region": "Europe",
+          "revenue_inr": null,
+          "growth_pct_yoy": null
+        },
+        {
+          "region": "India",
+          "revenue_inr": null,
+          "growth_pct_yoy": null
+        }
+      ],
+      "headcount_metrics": {
+        "total_headcount": 46648,
+        "net_additions_yoy": 10657,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": 82.6
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": 55
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "LTIM achieved significant milestones in FY22, crossing $2.1 billion in revenue with 25.9% YoY growth, driven by strong demand for digital transformation services. Q4 FY22 revenue growth was impacted by onsite attrition and supply chain constraints, resulting in near-flat onsite volumes. Despite these challenges, LTIM closed 4 large deals with a TCV of over $80 million and maintains a strong deal pipeline, expressing confidence for FY23.",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": "Q4 FY22 revenue growth of 3.1% QoQ and 27.5% YoY in USD terms was lower than the previous two quarters, primarily due to high onsite attrition and supply chain constraints. EBIT margin decreased slightly to 17.3% from 17.9% in Q3 FY22, attributed to increased employee costs, offset by SG\u0026A leverage. PAT margin remained stable at 14.8%.\n\nSuitable charts:\n* Bar chart comparing USD revenues, EBIT, and PAT for Q3 FY22 and Q4 FY22.\n* Line chart showing QoQ and YoY growth rates for revenue over the last few quarters.\n* Line chart showing EBIT and PAT margin trends over the last few quarters."
+      },
+      "full_year": {
+        "narrative": "FY22 marked LTIM\u0027s strongest growth as a listed company, with 25.9% YoY growth in USD revenue.  Operating margin decreased to 17.3% from 19.3% in FY21.  Key factors influencing this change include wage hikes and increased investment in talent acquisition and training to address the high attrition environment.  Further analysis is needed to break down the specific impact of various cost factors and productivity improvements on the operating margin trajectory."
+      }
+    },
+    "segment_geographic_deep_dive": "BFS, Hi Tech and Media \u0026 Entertainment, and Others segments were the strongest performers in FY22, all exceeding 34% YoY growth.  North America, Europe, and India showed the highest growth rates.  Further analysis is required to identify specific growth drivers and areas of concern within each segment and geography.",
+    "deal_wins_pipeline_quality": "LTIM\u0027s order book remains healthy with the closing of four large deals totaling over $80 million in TCV in Q4 FY22. The pipeline remains strong at $2 billion, with a significant portion (50%) in late stages and four deals in the contracting phase.  The increasing contribution of new logos (40%) to the pipeline validates LTIM\u0027s market positioning and growth potential.",
+    "management_commentary_outlook": "Management expressed confidence in the company\u0027s growth momentum for FY23, supported by a strong Q4 exit run-rate, large deal closures, a robust pipeline, new logo additions, and increased headcount. While acknowledging macro uncertainties and rising input costs, LTIM expects to maintain stable PAT margins in the 14-15% band and achieve leading growth in FY23.",
+    "comparison_to_expectations": "",
+    "key_risks_headwinds": "Key risks and headwinds mentioned include the ongoing conflict in Europe, global economic slowdown concerns, rising input costs, and high attrition, especially onsite.  LTIM is actively working to mitigate these challenges through localization strategies, talent acquisition programs, and cost optimization initiatives.",
+    "operational_efficiency": "DSO improved slightly to 65 days in Q4 FY22.  Utilization excluding trainees was at 81.5%.  Attrition remains high at 24% but showed a slight improvement QoQ.  LTIM is focusing on fresher hiring and upskilling initiatives to address talent supply challenges and improve operational efficiency.  The impact of these initiatives on utilization and attrition needs further monitoring."
+  }
+}

@@ -1,0 +1,170 @@
+﻿{
+  "metadata": {
+    "company": "LTIM",
+    "report_generated_on": "2024-07-24",
+    "source_documents": [
+      {
+        "file_name": "LTIMindtree_Investor_Presentation_Q3FY23.pdf",
+        "type": "Investor Presentation",
+        "period_covered": "Q3 FY23",
+        "url": ""
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q3 FY23",
+      "revenue": {
+        "total_inr": 86200000000,
+        "total_usd": 1046700000,
+        "cc_growth_pct": {
+          "qoq": 2.4,
+          "yoy": 14
+        },
+        "usd_growth_pct": {
+          "qoq": 2.4,
+          "yoy": 14
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": 11968000000,
+        "ebit_margin_pct": 13.9,
+        "pat_inr": 10007000000,
+        "pat_usd": null,
+        "pat_margin_pct": 11.6,
+        "basic_eps_inr": null
+      },
+      "order_book": {
+        "tcv_new_deals": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [
+        {
+          "segment": "Banking, Financial Services \u0026 Insurance",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Hi-Tech, Media \u0026 Entertainment",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Manufacturing \u0026 Resources",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Retail, CPG, Travel, Transportation \u0026 Hospitality",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Health, Life Science \u0026 Public Services",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        }
+      ],
+      "geographic_performance": [
+        {
+          "region": "North America",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "region": "Europe",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "region": "Rest of the World",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        }
+      ],
+      "headcount_metrics": {
+        "total_headcount": 82197,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": 82.9
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": null
+      }
+    },
+    "current_fy": {
+      "period_label": null,
+      "revenue": {
+        "total_inr": null,
+        "total_usd": null,
+        "cc_growth_pct_yoy": null,
+        "usd_growth_pct_yoy": null
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": null,
+        "ebit_margin_pct": null,
+        "pat_inr": null,
+        "pat_usd": null,
+        "pat_margin_pct": null,
+        "basic_eps_inr": null
+      },
+      "order_book": {
+        "tcv_fy": null,
+        "tcv_growth_pct_yoy": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": null
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": ""
+      },
+      "full_year": {
+        "narrative": ""
+      }
+    },
+    "segment_geographic_deep_dive": "",
+    "deal_wins_pipeline_quality": "",
+    "management_commentary_outlook": "",
+    "comparison_to_expectations": "",
+    "key_risks_headwinds": "",
+    "operational_efficiency": ""
+  }
+}

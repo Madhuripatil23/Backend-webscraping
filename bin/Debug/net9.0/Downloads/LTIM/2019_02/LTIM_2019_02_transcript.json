@@ -1,0 +1,134 @@
+﻿{
+  "metadata": {
+    "company": "LTIM",
+    "report_generated_on": "2024-04-15",
+    "source_documents": [
+      {
+        "file_name": "LTI_Earnings_Call_Transcript_Q3_FY2019.pdf",
+        "type": "Earnings Call Transcript",
+        "period_covered": "Q3 FY2019",
+        "url": ""
+      },
+      {
+        "file_name": "LTI_Investor_Presentation_February_2019.pdf",
+        "type": "Investor Presentation",
+        "period_covered": "February 2019",
+        "url": ""
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q3 FY2019",
+      "revenue": {
+        "total_inr": 24729,
+        "total_usd": 346.9,
+        "cc_growth_pct": {
+          "qoq": 6.1,
+          "yoy": 20.6
+        },
+        "usd_growth_pct": {
+          "qoq": 5.6,
+          "yoy": 18.2
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": 4734,
+        "ebit_margin_pct": 19.1,
+        "pat_inr": 3755,
+        "pat_usd": null,
+        "pat_margin_pct": 15.2,
+        "basic_eps_inr": 21.67
+      },
+      "order_book": {
+        "tcv_new_deals": null,
+        "pipeline_commentary": "Healthy deal pipeline mentioned with $1 billion worth of deals."
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": 1.415,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": 20328,
+        "cash_and_investments_usd": null,
+        "dso_days": 73
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": 27513,
+        "net_additions_yoy": 1099,
+        "attrition_pct_ttm": 16.5,
+        "utilization_excl_trainees_pct": 83
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": null
+      }
+    },
+    "current_fy": {
+      "period_label": "FY2019",
+      "revenue": {
+        "total_inr": null,
+        "total_usd": 1132,
+        "cc_growth_pct_yoy": null,
+        "usd_growth_pct_yoy": 16.7
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": 15528.5,
+        "ebit_margin_pct": 14.1,
+        "pat_inr": 14263,
+        "pat_usd": null,
+        "pat_margin_pct": 15.2,
+        "basic_eps_inr": 64.8
+      },
+      "order_book": {
+        "tcv_fy": null,
+        "tcv_growth_pct_yoy": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": 0.903,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": null
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "LTIM experienced strong revenue growth in Q3 FY2019, driven by large deal ramp-ups and broad-based growth across verticals.  Profitability remained healthy despite lower working days and currency headwinds.  High utilization and lower SG\u0026A contributed to the stable operating margin.  The company won a significant deal with Nets, highlighting its strength in digital transformation.  However, some tightness in client spending was observed, particularly in the top 5 accounts.",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": "Q3 FY2019 showed robust QoQ and YoY growth in revenue (USD, INR, and CC). EBIT margin improved slightly QoQ, while PAT margin remained stable.  YoY growth was particularly strong across key metrics, driven by large deal wins in previous quarters and continued client mining. A bar chart comparing revenues, EBIT, and PAT across Q2 FY2019, Q3 FY2018, and Q3 FY2019 would visually represent the growth. Line charts would effectively display the margin trends."
+      },
+      "full_year": {
+        "narrative": "FY2019 saw healthy revenue growth, driven by digital transformation initiatives and strong client relationships.  Profitability remained stable, with PAT margin exceeding guidance.  Operating margin trajectory was influenced by investments in talent and capabilities, offset by operational efficiencies. A bar chart comparing FY2018 and FY2019 revenue and profitability would be a suitable visual representation."
+      }
+    },
+    "segment_geographic_deep_dive": "Growth was broad-based across verticals in Q3, with double-digit YoY growth in CC terms for most segments. CPG, Retail, and Pharma continued to be a star performer, driven by large deal ramp-ups.  BFS showed healthy growth, but some spending tightness was observed in certain clients.  Manufacturing and Hi-Tech \u0026 Media also performed well. Geographically, North America continues to be a key market, with growth driven by digital transformation projects.",
+    "deal_wins_pipeline_quality": "The order book and deal pipeline remain healthy, with a $1 billion pipeline discussed. The Nets deal is a significant win, showcasing LTIM\u0027s ability to compete with larger players.  Focus on capability-led acquisitions like Ruletronics further strengthens the company\u0027s offerings.",
+    "management_commentary_outlook": "Management expressed optimism about future growth, driven by a healthy deal pipeline and continued client mining.  They are mindful of macroeconomic factors but do not see a negative impact yet.  They are committed to delivering top quartile revenue growth in FY2020, despite some pockets of spending tightness.  Investment in talent and capabilities will continue, while maintaining a net margin in the narrow band of 15%.",
+    "comparison_to_expectations": "The company exceeded its net profit margin guidance of 15% for FY19.",
+    "key_risks_headwinds": "Management mentioned some tightness in client spending, particularly in certain BFS accounts and some project delays.  Onsite supply constraints and rising attrition are key areas of focus for the company.  Macroeconomic factors are also being monitored.",
+    "operational_efficiency": "DSO improved significantly, reflecting a strong focus on cash flow management.  Utilization reached an all-time high, necessitating increased hiring to support future growth.  Attrition increased slightly, which management aims to address through various initiatives."
+  }
+}

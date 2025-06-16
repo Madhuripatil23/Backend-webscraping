@@ -1,0 +1,128 @@
+﻿{
+  "metadata": {
+    "company": "L\u0026T Infotech",
+    "report_generated_on": "2024-07-26",
+    "source_documents": [
+      {
+        "file_name": "L\u0026T Infotech Investor Presentation_Feb 2017.pdf",
+        "type": "Investor Presentation",
+        "period_covered": "Q3 FY17",
+        "url": ""
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q3 FY17",
+      "revenue": {
+        "total_inr": null,
+        "total_usd": 245.1,
+        "cc_growth_pct": {
+          "qoq": 3.8,
+          "yoy": null
+        },
+        "usd_growth_pct": {
+          "qoq": 2.3,
+          "yoy": null
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": 2873,
+        "ebit_margin_pct": 17.8,
+        "pat_inr": 2326,
+        "pat_usd": null,
+        "pat_margin_pct": 14.4,
+        "basic_eps_inr": null
+      },
+      "order_book": {
+        "tcv_new_deals": 100,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": 18.1,
+        "utilization_excl_trainees_pct": 80.5
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": null
+      }
+    },
+    "current_fy": {
+      "period_label": "9M FY17",
+      "revenue": {
+        "total_inr": null,
+        "total_usd": 715.8,
+        "cc_growth_pct_yoy": 9.9,
+        "usd_growth_pct_yoy": 8.9
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": 8895,
+        "ebit_margin_pct": 18,
+        "pat_inr": 7164,
+        "pat_usd": null,
+        "pat_margin_pct": 14.5,
+        "basic_eps_inr": null
+      },
+      "order_book": {
+        "tcv_fy": null,
+        "tcv_growth_pct_yoy": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": 20000,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": null
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": ""
+      },
+      "full_year": {
+        "narrative": ""
+      }
+    },
+    "segment_geographic_deep_dive": "",
+    "deal_wins_pipeline_quality": "",
+    "management_commentary_outlook": "",
+    "comparison_to_expectations": "",
+    "key_risks_headwinds": "",
+    "operational_efficiency": ""
+  }
+}

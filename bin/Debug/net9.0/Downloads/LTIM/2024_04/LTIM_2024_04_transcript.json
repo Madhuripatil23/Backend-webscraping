@@ -1,0 +1,218 @@
+﻿{
+  "metadata": {
+    "company": "LTIM",
+    "report_generated_on": "2024-07-27",
+    "source_documents": [
+      {
+        "file_name": "LTIMindtree Limited\u0027s Q4 and FY\u002724 Earnings Conference Call Transcript.pdf",
+        "type": "Earnings Call Transcript",
+        "period_covered": "Q4 FY24 and FY24",
+        "url": ""
+      },
+      {
+        "file_name": "LTIMindtree Investor Presentation.pdf",
+        "type": "Investor Presentation",
+        "period_covered": "Q4 FY24 and FY24",
+        "url": ""
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q4 FY24",
+      "revenue": {
+        "total_inr": 88929000000,
+        "total_usd": 1069400000,
+        "cc_growth_pct": {
+          "qoq": -1.3,
+          "yoy": 1.2
+        },
+        "usd_growth_pct": {
+          "qoq": -1.3,
+          "yoy": 1.1
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": 13087000000,
+        "ebit_margin_pct": 14.7,
+        "pat_inr": 11007000000,
+        "pat_usd": null,
+        "pat_margin_pct": 12.4,
+        "basic_eps_inr": 37.2
+      },
+      "order_book": {
+        "tcv_new_deals": 1400000000,
+        "pipeline_commentary": "80% of the deal pipeline consists of cost takeout and consolidation opportunities. Large deal pipeline in BFSI continues to be strong."
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": 1.584,
+        "fcf_to_pat_ratio": 1.315,
+        "cash_and_investments_inr": 115250000000,
+        "cash_and_investments_usd": 1380000000,
+        "dso_days": 57
+      },
+      "segment_performance": [
+        {
+          "segment": "Banking, Financial Services \u0026 Insurance",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Technology, Media \u0026 Communications",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Manufacturing \u0026 Resources",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Consumer Business",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Healthcare, Life Sciences \u0026 Public Services",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        }
+      ],
+      "geographic_performance": [
+        {
+          "region": "North America",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "region": "Europe",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "region": "Rest of the World",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        }
+      ],
+      "headcount_metrics": {
+        "total_headcount": 76460,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": 14.4,
+        "utilization_excl_trainees_pct": 86.9
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": 45
+      }
+    },
+    "current_fy": {
+      "period_label": "FY24",
+      "revenue": {
+        "total_inr": 355170000000,
+        "total_usd": 4287300000,
+        "cc_growth_pct_yoy": 4.2,
+        "usd_growth_pct_yoy": 4.4
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": 55685000000,
+        "ebit_margin_pct": 15.7,
+        "pat_inr": 45846000000,
+        "pat_usd": null,
+        "pat_margin_pct": 12.9,
+        "basic_eps_inr": 154.9
+      },
+      "order_book": {
+        "tcv_fy": 5600000000,
+        "tcv_growth_pct_yoy": 15.7,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": 1.237,
+        "fcf_to_pat_ratio": 1.055,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [
+        {
+          "segment": "Banking, Financial Services \u0026 Insurance",
+          "revenue_inr": null,
+          "growth_pct_yoy": 2.2
+        },
+        {
+          "segment": "Technology, Media \u0026 Communications",
+          "revenue_inr": null,
+          "growth_pct_yoy": 1.7
+        },
+        {
+          "segment": "Manufacturing \u0026 Resources",
+          "revenue_inr": null,
+          "growth_pct_yoy": 14.6
+        },
+        {
+          "segment": "Consumer Business",
+          "revenue_inr": null,
+          "growth_pct_yoy": 2.3
+        },
+        {
+          "segment": "Healthcare, Life Sciences \u0026 Public Services",
+          "revenue_inr": null,
+          "growth_pct_yoy": 6.1
+        }
+      ],
+      "geographic_performance": [
+        {
+          "region": "North America",
+          "revenue_inr": null,
+          "growth_pct_yoy": 5.9
+        },
+        {
+          "region": "Europe",
+          "revenue_inr": null,
+          "growth_pct_yoy": 3.5
+        },
+        {
+          "region": "Rest of the World",
+          "revenue_inr": null,
+          "growth_pct_yoy": -3
+        }
+      ],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": 65
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "LTIM closed FY24 with USD 4.3 billion in revenue, representing a 4.4% YoY growth in USD terms.  Q4 FY24 revenue was USD 1.07 billion, a 1.1% YoY increase.  FY24 order inflow reached USD 5.6 billion, a 15.7% YoY increase, demonstrating a shift towards longer-term, efficiency-driven deals.  While performance was in line with the industry, it fell short of company aspirations due to a decline in discretionary spending and client-specific slowdowns among some top clients.  Profitability saw a decline with FY24 EBIT margin at 15.7% and PAT margin at 12.9%, compared to 16.2% and 13.3% in FY23, respectively. Q4 FY24 EBIT margin was 14.7% and PAT margin was 12.4%.  Cash generation improved significantly in FY24, with OCF to PAT at 123.7% and FCF to PAT at 105.5%.",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": "Q4 FY24 revenue declined 1.3% QoQ and grew 1.1% YoY in USD terms. EBIT margin contracted to 14.7% from 15.4% in Q3 FY24, primarily due to project cancellations and higher SG\u0026A expenses, partially offset by lower pass-through costs. PAT margin also declined to 12.4% from 13% in Q3 FY24, reflecting the impact of lower EBIT margin. YoY, Q4 revenue grew 1.1% and PAT grew 1.2%.  A bar chart comparing Q4 and Q3 revenues, EBIT, and PAT, along with a line chart showing margin trends would effectively visualize these QoQ and YoY changes."
+      },
+      "full_year": {
+        "narrative": "FY24 revenue grew 4.4% YoY in USD terms. EBIT margin declined to 15.7% from 16.2% in FY23, while PAT margin decreased to 12.9% from 13.3%. The decline in operating margins was attributed to a combination of factors, including the impact of project cancellations, higher SG\u0026A expenses, and the shift in deal mix towards longer-term, efficiency-driven projects with lower initial margins. A bar chart comparing FY24 and FY23 revenues, EBIT, and PAT, along with a line chart illustrating the margin trend would be suitable visualizations."
+      }
+    },
+    "segment_geographic_deep_dive": "Manufacturing \u0026 Resources showed strong growth at 14.6% YoY, driven by ERP transformation, data estate modernization, and Industry 4.0 initiatives. BFSI declined 2.8% QoQ and grew 2.2% YoY, impacted by project cancellations in Q4. Technology, Media \u0026 Communications grew 1.7% YoY, affected by the higher discretionary spend component in this vertical. Consumer Business grew 2.3% YoY, and Health, Life Sciences and Public Services grew 6.1% YoY. Geographically, North America grew 5.9% YoY, Europe grew 3.5% YoY, while Rest of the World declined 3% YoY, primarily due to a significant pass-through in Q3 FY24 and some impact in the Middle East related to BFSI.",
+    "deal_wins_pipeline_quality": "LTIM reported a healthy order book with USD 5.6 billion in TCV for FY24, a 15.7% YoY growth. Q4 TCV was USD 1.4 billion. The deal pipeline is strong, but with a shift towards cost takeout and consolidation deals (80% of the pipeline). Key wins include engagements with a leading financial services firm for loan and mortgage processing, a global leader in insurance brokerage services for a new technology platform, and a multinational financial services corporation for quality engineering.  The company also secured a new logo with a leading producer of frozen products in Sweden for a cloud transformation project.  The strong order book and pipeline, despite the shift in deal type, position the company for continued growth, albeit with a focus on efficiency-driven projects.",
+    "management_commentary_outlook": "Management expects a return to growth in Q1 FY25, driven by the ramp-up of existing deals and a strong pipeline.  They remain cautiously optimistic about the return of discretionary spending and are well-positioned to capitalize on it.  Management highlighted the company\u0027s focus on pivoting the portfolio towards longer-term deals and expanding capabilities through strategic partnerships.  They reiterated their commitment to margin expansion in the medium term, targeting 17-18%, but emphasized the current focus on balancing growth and profitability. The company is actively investing in GenAI capabilities and expanding its partnerships to drive future growth.",
+    "comparison_to_expectations": "While the full-year performance was in line with industry trends, it fell short of internal aspirations. The Q4 performance was described as a \u0022one-off\u0022 due to project cancellations. No specific quantitative comparison to guidance or market expectations was provided in the documents.",
+    "key_risks_headwinds": "Key headwinds include the continued caution in discretionary spending, macro uncertainties, and client-specific slowdowns. Management also acknowledged the impact of in-sourcing by some clients.  The company is actively mitigating these risks by focusing on cost optimization, portfolio diversification, and strategic partnerships.",
+    "operational_efficiency": "DSO continued to improve, reaching 57 days in Q4 FY24, down from 62 days in Q3. Utilization (excluding trainees) was at 86.9% in Q4, slightly above the target range of 85-86%. TTM attrition remained stable at 14.4%.  The company is focusing on right-sizing its pyramid by onboarding freshers, which might impact margins in the near term, but is expected to improve operational efficiency in the long run.  The company is also actively working on optimizing onsite/offshore mix, improving pricing, and resource allocation to enhance margins."
+  }
+}

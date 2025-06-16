@@ -1,0 +1,150 @@
+{
+  "metadata": {
+    "company": "ANGELONE",
+    "report_generated_on": "2024-04-23",
+    "source_documents": [
+      {
+        "file_name": "Angel One Limited Q2 FY \u002724 Earnings Conference Call Transcript - October 13, 2023.pdf",
+        "type": "Earnings Call Transcript",
+        "period_covered": "Q2 FY2024",
+        "url": ""
+      },
+      {
+        "file_name": "Angel One Limited Q2 FY24 Investor Presentation - October 12, 2023.pdf",
+        "type": "Investor Presentation",
+        "period_covered": "Q2 FY2024",
+        "url": ""
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q2 FY24",
+      "revenue": {
+        "total_inr": 10493000000,
+        "total_usd": null,
+        "cc_growth_pct": {
+          "qoq": null,
+          "yoy": null
+        },
+        "usd_growth_pct": {
+          "qoq": 29.8,
+          "yoy": null
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": 4185000000,
+        "ebitda_margin_pct": 51.3,
+        "ebit_inr": null,
+        "ebit_margin_pct": null,
+        "pat_inr": 3045000000,
+        "pat_usd": null,
+        "pat_margin_pct": 37.9,
+        "basic_eps_inr": 121.8
+      },
+      "order_book": {
+        "tcv_new_deals": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": 77570000000,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [
+        {
+          "segment": "Gross Broking",
+          "revenue_inr": null,
+          "growth_pct_qoq": 41
+        },
+        {
+          "segment": "Interest Income",
+          "revenue_inr": null,
+          "growth_pct_qoq": 43
+        },
+        {
+          "segment": "Other",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        }
+      ],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": 12.7
+      }
+    },
+    "current_fy": {
+      "period_label": "H1 FY24",
+      "revenue": {
+        "total_inr": 18604000000,
+        "total_usd": null,
+        "cc_growth_pct_yoy": null,
+        "usd_growth_pct_yoy": 30.1
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": 7039000000,
+        "ebitda_margin_pct": null,
+        "ebit_inr": null,
+        "ebit_margin_pct": null,
+        "pat_inr": 5253000000,
+        "pat_usd": null,
+        "pat_margin_pct": 32.9,
+        "basic_eps_inr": 62.7
+      },
+      "order_book": {
+        "tcv_fy": null,
+        "tcv_growth_pct_yoy": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": null
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "ANGELONE reported strong financial and operational performance in Q2 FY24, achieving record high revenues, orders, and client acquisitions. The company\u0027s focus on enhancing the Super App user experience, expanding into new product offerings, and scaling its assisted business contributed to its success.",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": "Q2 FY24 saw significant growth across key metrics compared to Q1 FY24. Gross Revenue increased by 29.8%, driven by a 41% increase in Gross Broking revenue and a 43% increase in Interest Income. PAT increased by 37.9% QoQ. Order volumes also showed strong growth, increasing by 36.1% QoQ, reaching a record high of 338 million.  A bar chart would effectively visualize the QoQ growth in Revenue, EBIT, and PAT, while a line chart could depict margin trends.\n\nYear-on-Year comparisons were not available in the provided documents."
+      },
+      "full_year": {
+        "narrative": "For H1 FY24, total gross revenues increased by 30.1% YoY, reaching INR 18.6 billion, while PAT increased by 32.9% YoY, reaching INR 5.3 billion. Operating margin for Q2 FY24 stood at 51.3% compared to 48.6% in Q1 FY24. The company attributed the increase in operating expenses to higher client acquisition costs, onboarding expenses, and investments in technology infrastructure.  A bar chart comparing H1 FY24 and H1 FY23 revenues and profits would be useful, and a line chart could illustrate the trajectory of operating margins over the half year."
+      }
+    },
+    "segment_geographic_deep_dive": "F\u0026O continued to be the primary driver of Gross Broking Revenue, contributing 85% in Q2 FY24. Cash and Commodity segments contributed 11% and 4%, respectively. Direct channel clients contributed 78% of Net Broking Revenues, while Assisted Business clients contributed 22%.  No specific geographic performance data was provided.",
+    "deal_wins_pipeline_quality": "The company highlighted its strong client acquisition, adding over 2 million customers in Q2 FY24, a lifetime best.  They emphasized the importance of a seamless onboarding experience and highlighted the success of features like Trade Buddy and Stock SIP in attracting and retaining clients. No specific information on TCV or deal pipeline was available.",
+    "management_commentary_outlook": "Management expressed optimism about future growth, emphasizing their strategy of becoming a more integrated financial services provider. They plan to expand their product offerings to include consumer credit products and are in the process of building the platform and integrating lending partners.  They also highlighted their focus on leveraging data and AI/ML to enhance customer experience and personalize user journeys.  The company is awaiting final approval for its AMC business and expects to launch in late FY24 or early FY25. No specific financial outlook for the next quarter or FY was provided.",
+    "comparison_to_expectations": "",
+    "key_risks_headwinds": "No specific key risks or headwinds were mentioned in the provided documents.",
+    "operational_efficiency": "DSO and utilization data were not available. The company highlighted the importance of its technology platform in driving operational efficiency and customer acquisition.  No specific commentary on headcount changes or fresher onboarding was provided."
+  }
+}

@@ -1,0 +1,164 @@
+﻿{
+  "metadata": {
+    "company": "LTIM",
+    "report_generated_on": "2024-07-16",
+    "source_documents": [
+      {
+        "file_name": "Analyst Day Presentations.pdf",
+        "type": "Investor Presentation",
+        "period_covered": "Q2 FY18",
+        "url": ""
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q2 FY18",
+      "revenue": {
+        "total_inr": null,
+        "total_usd": 270.6,
+        "cc_growth_pct": {
+          "qoq": 1.5,
+          "yoy": 15.6
+        },
+        "usd_growth_pct": {
+          "qoq": 1.5,
+          "yoy": 15.6
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": 10266,
+        "ebit_margin_pct": 15.2,
+        "pat_inr": 10429,
+        "pat_usd": null,
+        "pat_margin_pct": 15.4,
+        "basic_eps_inr": null
+      },
+      "order_book": {
+        "tcv_new_deals": 300,
+        "pipeline_commentary": "Qualified pipeline is healthy with 59% in proposal stage, 36% digital, 20% new logos (including those opened in the last 12 months), and 12% prospects."
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": 1.07,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [
+        {
+          "segment": "BFS",
+          "revenue_inr": null,
+          "growth_pct_qoq": 18.7
+        },
+        {
+          "segment": "Insurance",
+          "revenue_inr": null,
+          "growth_pct_qoq": 8.7
+        },
+        {
+          "segment": "Manufacturing",
+          "revenue_inr": null,
+          "growth_pct_qoq": 0.4
+        },
+        {
+          "segment": "Energy \u0026 Utilities",
+          "revenue_inr": null,
+          "growth_pct_qoq": 25.2
+        },
+        {
+          "segment": "CPG, Retail \u0026 Pharma",
+          "revenue_inr": null,
+          "growth_pct_qoq": 30.4
+        },
+        {
+          "segment": "HiTech, M\u0026E",
+          "revenue_inr": null,
+          "growth_pct_qoq": 16.6
+        },
+        {
+          "segment": "Others",
+          "revenue_inr": null,
+          "growth_pct_qoq": -14.7
+        }
+      ],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": 22554,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": 79.6
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": null
+      }
+    },
+    "current_fy": {
+      "period_label": "FY18",
+      "revenue": {
+        "total_inr": null,
+        "total_usd": 1000,
+        "cc_growth_pct_yoy": 11.2,
+        "usd_growth_pct_yoy": 11.2
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": null,
+        "ebit_margin_pct": 15.2,
+        "pat_inr": null,
+        "pat_usd": null,
+        "pat_margin_pct": 15.4,
+        "basic_eps_inr": null
+      },
+      "order_book": {
+        "tcv_fy": null,
+        "tcv_growth_pct_yoy": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": 1.07,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": null
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "LTIM demonstrated strong financial performance in Q2 FY18, achieving $270.6 million in revenue, representing a 1.5% QoQ and 15.6% YoY growth.  Profitability remained healthy with a 15.2% EBIT margin and 15.4% PAT margin. The company secured over $300 million in new deal TCV in the last six quarters. Digital revenue continued its upward trajectory, reaching $86.6 million, contributing 32% to the quarter\u0027s revenue. The company also highlighted a 29% YoY improvement in customer satisfaction.",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": "Quarter-on-Quarter (QoQ) growth was modest at 1.5% in USD terms, driven primarily by growth in certain verticals such as Energy \u0026 Utilities and CPG, Retail \u0026 Pharma. Year-on-Year (YoY) growth was significantly stronger at 15.6%, indicating robust overall performance. EBIT margin remained stable at 15.2%, while PAT margin slightly improved to 15.4%. A suitable visual representation for this analysis would be a bar chart comparing revenues, EBIT, and PAT across Q1 FY18 and Q2 FY18, along with line charts showing margin trends over the past few quarters.\n\nYoY growth was driven by strong performance across most verticals, particularly CPG, Retail, and Pharma, and Energy and Utilities.  Manufacturing showed minimal growth, while \u0022Others\u0022 declined.  Growth was also seen across service lines, with Analytics, AI, and Cognitive leading the way."
+      },
+      "full_year": {
+        "narrative": "LTIM crossed the $1 billion revenue mark in the last 12 months, with a YoY growth of 11.2%.  Digital revenue has grown rapidly, with a CAGR of 11.2%.  Operating margins remained relatively stable over this period. Key factors influencing margin trends likely include cost optimization measures and investments in digital capabilities.  Further analysis requires more granular data from previous financial years."
+      }
+    },
+    "segment_geographic_deep_dive": "CPG, Retail \u0026 Pharma, and Energy \u0026 Utilities were the primary growth drivers in Q2 FY18.  No specific geographic breakdown was provided in the presentation.  Further details on client-specific issues or slowdowns were not available.",
+    "deal_wins_pipeline_quality": "The order book appears healthy with $300M\u002B in TCV wins over the past six quarters. The deal pipeline is also positive, with a significant portion in the proposal stage.  A notable number of new logos (19%) and large deals (52% of deals over $1M) indicate a strong focus on acquiring new clients and securing larger contracts.  The presentation highlights various digital transformation projects across different industries, demonstrating LTIM\u0027s focus on leveraging new technologies.",
+    "management_commentary_outlook": "While no specific financial outlook was provided for the next quarter or FY, management emphasized their focus on \u0022Amplifying Outcomes\u0022 through a combination of performance, vision, and teamwork.  They highlighted strategic initiatives such as becoming a \u0022Learning Company\u0022 and focusing on digital transformation to drive future growth.  The presentation also emphasized the importance of a \u0022Shoshin\u0022 or \u0022beginner\u0027s mind\u0022 approach to remain adaptable and innovative in a rapidly changing technological landscape.",
+    "comparison_to_expectations": "The presentation does not provide information comparing actual performance against any previously stated guidance or market expectations.",
+    "key_risks_headwinds": "The presentation does not explicitly mention specific risks or headwinds. However, it acknowledges the rapid pace of change in various industries, implying the need for continuous adaptation and innovation to remain competitive.",
+    "operational_efficiency": "LTIM\u0027s utilization rate (excluding trainees) was 79.6% in Q2 FY18.  Data on DSO and attrition is not provided in the presentation.  The company is actively investing in reskilling its workforce and hiring from premier business schools to enhance its capabilities in new technologies.  The impact of headcount changes and fresher onboarding on operational efficiency is not explicitly discussed."
+  }
+}

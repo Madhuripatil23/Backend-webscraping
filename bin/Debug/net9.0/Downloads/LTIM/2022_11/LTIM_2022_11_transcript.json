@@ -1,0 +1,134 @@
+﻿{
+  "metadata": {
+    "company": "LTIM",
+    "report_generated_on": "2024-07-24",
+    "source_documents": [
+      {
+        "file_name": "LTI_Earnings_Call_Transcript_Q2_FY23.pdf",
+        "type": "Earnings Call Transcript",
+        "period_covered": "Q2 FY23",
+        "url": ""
+      },
+      {
+        "file_name": "LTI_Investor_Presentation_November_2022.pdf",
+        "type": "Investor Presentation",
+        "period_covered": "Q2 FY23",
+        "url": ""
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q2 FY23",
+      "revenue": {
+        "total_inr": 48367,
+        "total_usd": 601,
+        "cc_growth_pct": {
+          "qoq": 4.6,
+          "yoy": 21.6
+        },
+        "usd_growth_pct": {
+          "qoq": 3.6,
+          "yoy": 18.1
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": 7809,
+        "ebit_margin_pct": 16.1,
+        "pat_inr": 6798,
+        "pat_usd": null,
+        "pat_margin_pct": 14.1,
+        "basic_eps_inr": 38.75
+      },
+      "order_book": {
+        "tcv_new_deals": 80,
+        "pipeline_commentary": "Large deal pipeline remains similar to previous quarter at approximately US$2 billion."
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": 0.531,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": 32636,
+        "cash_and_investments_usd": null,
+        "dso_days": 62
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": 50981,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": 24.3,
+        "utilization_excl_trainees_pct": 82.1
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": null
+      }
+    },
+    "current_fy": {
+      "period_label": "FY23",
+      "revenue": {
+        "total_inr": null,
+        "total_usd": null,
+        "cc_growth_pct_yoy": null,
+        "usd_growth_pct_yoy": null
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": null,
+        "ebit_margin_pct": null,
+        "pat_inr": null,
+        "pat_usd": null,
+        "pat_margin_pct": null,
+        "basic_eps_inr": null
+      },
+      "order_book": {
+        "tcv_fy": null,
+        "tcv_growth_pct_yoy": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": null
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "LTIM reported strong Q2 FY23 results with 4.6% QoQ and 21.6% YoY CC revenue growth.  They closed four large deals with a total TCV of US$80 million.  Profitability remained healthy with a 14.1% PAT margin.  The company crossed the 50,000 headcount mark and is continuing to hire.  While acknowledging macro uncertainties, management expressed confidence in their positioning and outlook for Q3.",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": "Q2 FY23 saw robust growth across key metrics. Revenue grew by 4.6% QoQ and 21.6% YoY in CC terms. EBIT margin improved slightly to 16.1% from 16% in Q1 FY23. PAT margin also saw a slight improvement to 14.1% from 14% in the previous quarter. Key drivers for revenue growth include large deal wins and broad-based growth across verticals and geographies (except Hi-Tech, which experienced a client-specific transition to offshore delivery).  Suitable charts would include bar charts comparing revenue, EBIT, and PAT across Q1 FY23 and Q2 FY23, as well as line charts showing margin trends over the same period."
+      },
+      "full_year": {
+        "narrative": "Full year FY23 data is not available in the provided documents."
+      }
+    },
+    "segment_geographic_deep_dive": "BFS, the largest segment (48% of portfolio), grew strongly at 29.1% YoY in CC.  Insurance showed improvement at 15.8% YoY CC growth. Manufacturing grew at 11.9% YoY CC but showed some caution due to inflationary pressures. Energy and Utilities performed well at 29.9% YoY CC. CPG, Retail, and Pharma also grew at 21.8% YoY CC. Hi-Tech and Media was flat YoY due to a client-specific transition to offshore delivery. Other segments grew strongly at 48% YoY CC.  North America and Europe were key geographic drivers, growing at over 21% and 30% YoY CC, respectively.",
+    "deal_wins_pipeline_quality": "LTIM closed four large deals in Q2 FY23 with a total TCV of US$80 million. Three deals were with existing clients, and one was with a new logo. The deals were spread across Insurance, Hi-Tech, Manufacturing, and Services.  The large deal pipeline remains healthy at approximately US$2 billion.  Management is optimistic about securing more large deals in the second half of the year.",
+    "management_commentary_outlook": "Management is confident about Q3 FY23 performance, expecting it to be as strong as, if not better than, Q2 FY23.  They expect continued strength in the second half of FY23, driven by strong client relationships, a healthy pipeline, and ongoing large deals.  While acknowledging macro uncertainties and some client caution, they believe they are well-positioned to navigate these challenges and maintain growth momentum.  They expect to maintain PAT margin within the guided range of 14-15% for FY23.",
+    "comparison_to_expectations": "No specific guidance or market expectations were mentioned in the provided documents, making direct comparison impossible.",
+    "key_risks_headwinds": "Management noted macro uncertainties, including high inflation and geopolitical issues, as potential headwinds. They also mentioned some clients are looking to spread out their technology investments in response to these uncertainties.  Additionally, they highlighted the need to manage costs and improve efficiency in response to client pressure on run spend, particularly in cloud and digital services.",
+    "operational_efficiency": "Utilization excluding trainees was 82.1%, slightly up from 81.8% in Q1 FY23.  Attrition was 24.3% on an LTM basis, slightly up from 23.8% in the previous quarter.  Management expects attrition to moderate in H2 FY23. DSO was 62 days, slightly up from 61 days in Q1 FY23.  The company added 2,215 employees on a net basis in Q2 FY23 and is not planning to moderate its hiring plans."
+  }
+}

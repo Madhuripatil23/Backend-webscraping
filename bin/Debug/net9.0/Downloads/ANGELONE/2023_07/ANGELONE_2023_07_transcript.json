@@ -1,0 +1,150 @@
+﻿{
+  "metadata": {
+    "company": "ANGELONE",
+    "report_generated_on": "2024-08-07",
+    "source_documents": [
+      {
+        "file_name": "Angel One Limited Q1 FY \u002724 Earnings Conference Call Transcript.pdf",
+        "type": "Earnings Call Transcript",
+        "period_covered": "Q1 FY2024",
+        "url": ""
+      },
+      {
+        "file_name": "Angel One Limited Q1 FY24 Investor Presentation.pdf",
+        "type": "Investor Presentation",
+        "period_covered": "Q1 FY2024",
+        "url": ""
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q1 FY2024",
+      "revenue": {
+        "total_inr": 8111000000,
+        "total_usd": null,
+        "cc_growth_pct": {
+          "qoq": null,
+          "yoy": null
+        },
+        "usd_growth_pct": {
+          "qoq": -2.4,
+          "yoy": null
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": 3056000000,
+        "ebitda_margin_pct": 48.6,
+        "ebit_inr": null,
+        "ebit_margin_pct": null,
+        "pat_inr": 2208000000,
+        "pat_usd": null,
+        "pat_margin_pct": null,
+        "basic_eps_inr": 26.4
+      },
+      "order_book": {
+        "tcv_new_deals": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": 66410000000,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [
+        {
+          "segment": "Gross Broking",
+          "revenue_inr": 5575000000,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Interest Income",
+          "revenue_inr": 1448000000,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Other",
+          "revenue_inr": 1088000000,
+          "growth_pct_qoq": null
+        }
+      ],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": 9.25
+      }
+    },
+    "current_fy": {
+      "period_label": "FY2024",
+      "revenue": {
+        "total_inr": null,
+        "total_usd": null,
+        "cc_growth_pct_yoy": null,
+        "usd_growth_pct_yoy": null
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": null,
+        "ebit_margin_pct": null,
+        "pat_inr": null,
+        "pat_usd": null,
+        "pat_margin_pct": null,
+        "basic_eps_inr": null
+      },
+      "order_book": {
+        "tcv_fy": null,
+        "tcv_growth_pct_yoy": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": null
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "ANGELONE reported a total gross revenue of INR 8.11 billion in Q1 FY2024, a decrease of 2.4% QoQ.  EBDAT was INR 3.056 billion with a margin of 48.6%, and PAT was INR 2.208 billion. The company surpassed 15 million clients and achieved its highest ever market share in retail overall equity turnover and NSE active clients. Q1 FY24 had two fewer trading days than Q4 FY23, and results were impacted by annual increments and continued investments in tech and product.",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": "Total gross revenue decreased by 2.4% QoQ, primarily due to two fewer trading days and the impact of annual increments and investments. On a normalized basis, EBDAT decreased 7.4% QoQ from INR 3.3 billion to INR 3.1 billion, and PAT decreased 6.9% QoQ from INR 2.4 billion to 2.2 billion.  A bar chart comparing revenues, EBDAT, and PAT across Q4 FY23 and Q1 FY24 would visually represent these changes, along with a line chart showing margin trends."
+      },
+      "full_year": {
+        "narrative": "Full year FY24 trends are not yet available as this is the first quarter of the fiscal year."
+      }
+    },
+    "segment_geographic_deep_dive": "Gross broking revenue contributed 69% of total revenue, interest income 18%, and other sources 14%.  The share of the F\u0026O segment in gross broking revenue reduced to 84% in Q1 FY24 from 87% in Q4 FY23.  The contribution of cash and commodity segments expanded to 10% and 5% respectively.  No specific geographic performance data was provided.",
+    "deal_wins_pipeline_quality": "No quantifiable data on deal wins or TCV was provided. The company is focusing on enhancing its SmartStore offerings and developing new features like always-on orders and a conditional order platform using a large language model.",
+    "management_commentary_outlook": "Management is focused on investing in technology and product development to enhance user experience. They are also building partnerships to operationalize the distribution of consumer credit products and plan a brand campaign to increase awareness of their full-stack platform. Management mentioned exploring inorganic acquisitions and partnerships in core tech, product distribution platforms, wealth-tech, and content engagement.",
+    "comparison_to_expectations": "No specific guidance or market expectations were mentioned in the documents.",
+    "key_risks_headwinds": "Management acknowledged the impact of fewer trading days, annual increments, and continued investments on Q1 FY24 results.  They also mentioned the general market conditions and their cyclical nature as impacting client activity.",
+    "operational_efficiency": "DSO and utilization were not disclosed.  The company added 2.5 million clients in the last six months, while active clients increased by 0.2 million. Management highlighted the importance of order execution volume and client longevity over activation rates. They are focused on increasing client engagement and activation through new product offerings and services like mutual funds and consumer credit products."
+  }
+}

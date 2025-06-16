@@ -1,0 +1,176 @@
+﻿{
+  "metadata": {
+    "company": "LTIMindtree",
+    "report_generated_on": "2024-07-25",
+    "source_documents": [
+      {
+        "file_name": "LTIMindtree Limited Q1 FY25 Earnings Conference Call Transcript July 17 2024.pdf",
+        "type": "Earnings Call Transcript",
+        "period_covered": "Q1 FY25",
+        "url": ""
+      },
+      {
+        "file_name": "LTIMindtree Limited Q1 FY25 Earnings Presentation July 17 2024.pdf",
+        "type": "Investor Presentation",
+        "period_covered": "Q1 FY25",
+        "url": ""
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q1 FY25",
+      "revenue": {
+        "total_inr": 91426000000,
+        "total_usd": 1100000000,
+        "cc_growth_pct": {
+          "qoq": 2.6,
+          "yoy": 3.7
+        },
+        "usd_growth_pct": {
+          "qoq": 2.5,
+          "yoy": 3.5
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": 13709000000,
+        "ebit_margin_pct": 15,
+        "pat_inr": 11400000000,
+        "pat_usd": null,
+        "pat_margin_pct": 12.4,
+        "basic_eps_inr": 38.3
+      },
+      "order_book": {
+        "tcv_new_deals": 1400000000,
+        "pipeline_commentary": "Clients appreciate the clear value proposition LTIMindtree brings, and the company believes it has significant runway ahead to capitalize on this, particularly in cost takeout and vendor consolidation deals.  There is significant AI play and AI-driven reimagination across deals. Good activity on MSA signing is expected to drive growth in upcoming quarters."
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": 109.9,
+        "fcf_to_pat_ratio": 88.6,
+        "cash_and_investments_inr": 113340000000,
+        "cash_and_investments_usd": 1360000000,
+        "dso_days": 55
+      },
+      "segment_performance": [
+        {
+          "segment": "Banking, Financial Services \u0026 Insurance",
+          "revenue_inr": null,
+          "growth_pct_qoq": 2.9
+        },
+        {
+          "segment": "Technology, Media \u0026 Communications",
+          "revenue_inr": null,
+          "growth_pct_qoq": 7.9
+        },
+        {
+          "segment": "Manufacturing \u0026 Resources",
+          "revenue_inr": null,
+          "growth_pct_qoq": 1.8
+        },
+        {
+          "segment": "Consumer Business",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Healthcare, Life Sciences \u0026 Public Services",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        }
+      ],
+      "geographic_performance": [
+        {
+          "region": "North America",
+          "revenue_inr": null,
+          "growth_pct_qoq": 4.4
+        },
+        {
+          "region": "Europe",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "region": "Rest of the World",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        }
+      ],
+      "headcount_metrics": {
+        "total_headcount": 76837,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": 14.4,
+        "utilization_excl_trainees_pct": 88.3
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": null
+      }
+    },
+    "current_fy": {
+      "period_label": "FY25",
+      "revenue": {
+        "total_inr": null,
+        "total_usd": null,
+        "cc_growth_pct_yoy": null,
+        "usd_growth_pct_yoy": null
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": null,
+        "ebit_margin_pct": null,
+        "pat_inr": null,
+        "pat_usd": null,
+        "pat_margin_pct": null,
+        "basic_eps_inr": null
+      },
+      "order_book": {
+        "tcv_fy": null,
+        "tcv_growth_pct_yoy": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": null
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "LTIMindtree reported a positive start to FY25, with Q1 revenue of $1.1B, up 2.5% QoQ and 3.5% YoY. EBIT margin improved to 15%, up 30 bps QoQ. While the overall market environment remains focused on cost optimization, the company is seeing early signs of recovery, with clients beginning to reinvest savings into high-priority transformation programs, particularly in BFSI and Technology, Media \u0026 Communications.",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": "Q1 FY25 saw a QoQ revenue growth of 2.5% in USD terms and 2.6% in constant currency. EBIT margin improved by 30 bps to 15%, driven by operational efficiencies and the absence of project cancellation impact from the previous quarter. PAT margin remained flat at 12.4%. YoY, revenue grew by 3.5% in USD and 3.7% in CC, while PAT margin slightly decreased. A bar chart comparing revenues, EBIT, and PAT across Q4 FY24 and Q1 FY25 would effectively visualize these changes, while line charts could show the margin trends."
+      },
+      "full_year": {
+        "narrative": "Full year FY25 trends are not yet available as this is the first quarter of the fiscal year. The trajectory of operating margins over FY25 will depend on factors such as wage hikes (planned for Q3), cost optimization measures, and the successful ramp-up of new deals. Management expects continued momentum in Q2."
+      }
+    },
+    "segment_geographic_deep_dive": "BFSI showed early signs of recovery with 2.9% QoQ growth, driven by clients scaling up high-priority programs. Technology, Media \u0026 Communications continued its strong performance with 7.9% QoQ growth, fueled by business model transformation and platform operations. Manufacturing \u0026 Resources grew by 1.8% QoQ. Geographically, North America led growth with 4.4% QoQ. The company is expanding its global presence with new offices and a regional headquarters in Saudi Arabia.",
+    "deal_wins_pipeline_quality": "The order book for Q1 FY25 was $1.4B. The company highlighted several significant wins, including a platform engineering deal with a major US airline and an application development program with a US-based insurance company. The deal pipeline appears healthy, with several deals on the cusp of being signed.  The nature of deals is shifting towards high-priority transformations and AI-driven solutions.",
+    "management_commentary_outlook": "Management expects the positive momentum to continue in Q2 FY25, driven by continued cost optimization efforts and reinvestment in high-priority transformations. They acknowledge the macro environment remains unchanged, but are optimistic about the company\u0027s positioning to capitalize on emerging opportunities, especially in AI. They also emphasized the importance of their \u0022AI for Everything\u0022 strategy.",
+    "comparison_to_expectations": "Q1 FY25 performance was in line with company expectations. Management expressed confidence in continued momentum for Q2.",
+    "key_risks_headwinds": "Management noted the continued macro uncertainties and client focus on cost optimization as potential headwinds. They emphasized the need for agile strategies to adapt to any significant changes in the business environment.",
+    "operational_efficiency": "Utilization excluding trainees increased to 88.3% from 86.9% in the previous quarter. TTM attrition remained stable at 14.4%.  The company onboarded 1,400 freshers in Q1. DSO improved to 55 days from 57 days."
+  }
+}

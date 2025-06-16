@@ -1,0 +1,170 @@
+{
+  "metadata": {
+    "company": "LTIM",
+    "report_generated_on": "2024-07-19",
+    "source_documents": [
+      {
+        "file_name": "LTI_Q3_FY22_Earnings_Transcript.pdf",
+        "type": "Earnings Call Transcript",
+        "period_covered": "Q3 FY22",
+        "url": ""
+      },
+      {
+        "file_name": "LTI_Q3_FY22_Investor_Presentation.pdf",
+        "type": "Investor Presentation",
+        "period_covered": "Q3 FY22",
+        "url": ""
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q3 FY22",
+      "revenue": {
+        "total_inr": 41376,
+        "total_usd": 553,
+        "cc_growth_pct": {
+          "qoq": 9.2,
+          "yoy": 30.1
+        },
+        "usd_growth_pct": {
+          "qoq": 8.7,
+          "yoy": 29.3
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": 7426,
+        "ebit_margin_pct": 17.9,
+        "pat_inr": 6125,
+        "pat_usd": null,
+        "pat_margin_pct": 14.8,
+        "basic_eps_inr": 34.9
+      },
+      "order_book": {
+        "tcv_new_deals": null,
+        "pipeline_commentary": "Pipeline is up significantly over last year. It\u0027s north of the company growth rate."
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": 70.3,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": 36142,
+        "cash_and_investments_usd": null,
+        "dso_days": 66
+      },
+      "segment_performance": [
+        {
+          "segment": "BFS",
+          "revenue_inr": null,
+          "growth_pct_qoq": 9.7
+        },
+        {
+          "segment": "Insurance",
+          "revenue_inr": null,
+          "growth_pct_qoq": 2
+        },
+        {
+          "segment": "Manufacturing",
+          "revenue_inr": null,
+          "growth_pct_qoq": 18.3
+        },
+        {
+          "segment": "Energy and Utilities",
+          "revenue_inr": null,
+          "growth_pct_qoq": 6.7
+        },
+        {
+          "segment": "CPG, Retail and Pharma",
+          "revenue_inr": null,
+          "growth_pct_qoq": 7.2
+        },
+        {
+          "segment": "Hi Tech and Media",
+          "revenue_inr": null,
+          "growth_pct_qoq": 3.0
+        },
+        {
+          "segment": "Others",
+          "revenue_inr": null,
+          "growth_pct_qoq": 10.7
+        }
+      ],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": 44200,
+        "net_additions_yoy": 1818,
+        "attrition_pct_ttm": 22.5,
+        "utilization_excl_trainees_pct": 81.4
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": null
+      }
+    },
+    "current_fy": {
+      "period_label": "FY22",
+      "revenue": {
+        "total_inr": null,
+        "total_usd": 1670.1,
+        "cc_growth_pct_yoy": null,
+        "usd_growth_pct_yoy": null
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": 25919,
+        "ebit_margin_pct": 17.7,
+        "pat_inr": 22067,
+        "pat_usd": null,
+        "pat_margin_pct": 15.1,
+        "basic_eps_inr": null
+      },
+      "order_book": {
+        "tcv_fy": null,
+        "tcv_growth_pct_yoy": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": 79,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": null
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "LTIM reported strong financial performance in Q3 FY22, with 8.7% QoQ and 29.3% YoY revenue growth in USD. This was driven by broad-based growth across verticals, service lines, and geographies.  Profitability remained healthy, with a PAT margin of 14.8%.  The company highlighted strong deal pipeline and growth momentum driven by digital transformation initiatives.",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": "Q3 FY22 saw robust growth compared to both Q2 FY22 and Q3 FY21. Revenue increased by 8.7% QoQ and 29.3% YoY in USD. EBIT margin improved to 17.9% from 17.2% in Q2 FY22. PAT margin also saw a slight improvement, reaching 14.8% compared to 14.6% in Q2 FY22. Key drivers include strong demand for digital transformation services, successful execution of projects, and favorable currency movements. \n\nSuitable Charts:\n* Bar chart comparing revenue, EBIT, and PAT across Q2 FY22, Q3 FY22, and Q3 FY21.\n* Line chart showing EBIT and PAT margin trends over the past few quarters."
+      },
+      "full_year": {
+        "narrative": "FY22 is shaping up to be one of the highest growth years since listing for LTIM.  Management expressed confidence in achieving continued growth with stable PAT margins in the 14-15% range.  Factors influencing operating margins include wage hikes, potential productivity pass-backs, and cost optimization measures."
+      }
+    },
+    "segment_geographic_deep_dive": "BFS, the largest vertical, continued to show strong growth at 38% YoY and 9.7% QoQ. Manufacturing also performed well, growing over 30% YoY. Hi Tech and Media \u0026 Entertainment showed strong growth at 44.5% and 44% YoY respectively.  Europe showed a turnaround with 30% YTD growth. All geographies grew over 25% YoY.",
+    "deal_wins_pipeline_quality": "The company reported 27 new logos in Q3, including one Global Fortune 500 company, bringing the total to 72.  A significant deal win in the pharma vertical in North America with a TCV of $32 million was also highlighted. The deal pipeline is strong and growing faster than the company\u0027s growth rate, indicating continued momentum.",
+    "management_commentary_outlook": "Management expressed confidence in LTIM\u0027s growth trajectory and expects the company to be in the leader\u0027s quadrant for growth with stable PAT margins. They highlighted the ongoing conversations with customers, strong pipeline, and broad-based performance as reasons for their optimism. While acknowledging macro uncertainties like inflation, supply chain challenges, and the Omicron spread, management believes the demand for digital transformation will continue to drive growth.",
+    "comparison_to_expectations": "",
+    "key_risks_headwinds": "Management noted inflation, supply chain challenges, and the Omicron spread as potential headwinds. Talent scarcity is also a concern.",
+    "operational_efficiency": "Utilization excluding trainees was at 81.4%, slightly down from 83.7% in Q2. DSO increased to 66 days from 61 days in the previous quarter, partly due to license sales booked at the end of the quarter. Attrition increased to 22.5% from 19.6% in Q2.  The company is actively hiring, including freshers and experienced professionals through their Hire, Train, Deploy model, to address talent needs and support growth."
+  }
+}

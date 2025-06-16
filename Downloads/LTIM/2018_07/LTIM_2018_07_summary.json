@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "company": "LTIM",
+    "report_generated_on": "2024-07-31",
+    "source_documents": [
+      {
+        "file_name": "LTI_SE_STAT_2018-19_44.pdf",
+        "type": "Earnings Call Transcript",
+        "period_covered": "Q1 FY2019",
+        "url": ""
+      },
+      {
+        "file_name": "LTI_SE_STAT_2018-19_43.pdf",
+        "type": "Investor Presentation",
+        "period_covered": "Q1 FY2019",
+        "url": ""
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q1 FY2019",
+      "revenue": {
+        "total_inr": 21557,
+        "total_usd": 319.9,
+        "cc_growth_pct": {
+          "qoq": 5.1,
+          "yoy": 22.9
+        },
+        "usd_growth_pct": {
+          "qoq": 3.5,
+          "yoy": 23.4
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": 3811,
+        "ebit_margin_pct": 17.7,
+        "pat_inr": 3612,
+        "pat_usd": null,
+        "pat_margin_pct": 16.8,
+        "basic_eps_inr": 21
+      },
+      "order_book": {
+        "tcv_new_deals": 50,
+        "pipeline_commentary": "The deal pipeline is healthy with many deals happening, though the deal size and duration have shrunk. These deals are well-suited for a company of LTIM\u0027s size."
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": 16547,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [
+        {
+          "segment": "BFS",
+          "revenue_inr": null,
+          "growth_pct_qoq": 11.4
+        },
+        {
+          "segment": "Insurance",
+          "revenue_inr": null,
+          "growth_pct_qoq": 3.3
+        },
+        {
+          "segment": "Manufacturing",
+          "revenue_inr": null,
+          "growth_pct_qoq": -5.8
+        },
+        {
+          "segment": "Energy \u0026 Utilities",
+          "revenue_inr": null,
+          "growth_pct_qoq": -8.4
+        },
+        {
+          "segment": "CPG, Retail \u0026 Pharma",
+          "revenue_inr": null,
+          "growth_pct_qoq": 5.2
+        },
+        {
+          "segment": "Hi-Tech \u0026 Media",
+          "revenue_inr": null,
+          "growth_pct_qoq": 10
+        }
+      ],
+      "geographic_performance": [
+        {
+          "region": "North America",
+          "revenue_inr": null,
+          "growth_pct_qoq": 4.5
+        },
+        {
+          "region": "Europe",
+          "revenue_inr": null,
+          "growth_pct_qoq": 4.7
+        },
+        {
+          "region": "Rest of the World",
+          "revenue_inr": null,
+          "growth_pct_qoq": 30.8
+        }
+      ],
+      "headcount_metrics": {
+        "total_headcount": 25150,
+        "net_additions_yoy": 1011,
+        "attrition_pct_ttm": 15.1,
+        "utilization_excl_trainees_pct": 81.2
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": null
+      }
+    },
+    "current_fy": {
+      "period_label": null,
+      "revenue": {
+        "total_inr": null,
+        "total_usd": null,
+        "cc_growth_pct_yoy": null,
+        "usd_growth_pct_yoy": null
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": null,
+        "ebit_margin_pct": null,
+        "pat_inr": null,
+        "pat_usd": null,
+        "pat_margin_pct": null,
+        "basic_eps_inr": null
+      },
+      "order_book": {
+        "tcv_fy": null,
+        "tcv_growth_pct_yoy": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": null
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "LTIM delivered a strong performance in Q1 FY2019, driven by large deal wins, effective client mining, and capability enhancements. Revenue grew by 23.4% YoY in USD terms and 5.1% QoQ in CC terms. Digital revenue now contributes 34% of the total revenue, showcasing strong growth of 43% YoY.  Profitability remained stable with a PAT margin of 16.8%.  A new large deal with a Fortune 100 pharmaceutical and consumer major was signed, adding to the robust order book. However, delays in April invoicing due to internal IT transformation affected operating cash flow.",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": "Q1 FY2019 saw robust YoY growth across key metrics. Revenue increased by 23.4% in USD and 29% in INR, driven by large deal ramp-ups and new client additions. EBIT increased by 58.4% YoY, with margin expanding to 17.7% from 15.9% (adjusted) in the previous quarter. PAT also grew by 35.2% YoY, maintaining a stable margin of 16.8%. QoQ growth was also positive, with revenue up by 3.5% in USD and 7.7% in INR, driven by continued momentum in key verticals. EBIT margin expanded by 180 bps QoQ, while PAT margin remained stable.\n\nSuitable Visualizations:\n* Bar chart comparing USD Revenue, INR Revenue, EBIT (INR), and PAT (INR) for Q1 FY2019 vs. Q4 FY2018 and Q1 FY2018.\n* Line chart showing EBIT margin and PAT margin trends over the three quarters."
+      },
+      "full_year": {
+        "narrative": ""
+      }
+    },
+    "segment_geographic_deep_dive": "BFS showed robust growth of 11.4% QoQ, driven by digital transformation initiatives and a shift in focus from cost to business growth. Insurance grew by 3.3% QoQ, with digital driving cost optimization and agility. Manufacturing declined by 5.8% QoQ primarily due to a high passthrough revenue in the previous quarter. Energy \u0026 Utilities declined 8.4% QoQ but is expected to recover in Q2 based on the order book and deal pipeline. CPG, Retail \u0026 Pharma continued its growth momentum with a 5.2% QoQ increase, driven by large deal wins.  Hi-Tech \u0026 Media recorded double-digit growth of 10% QoQ, fueled by investments in digital, analytics, DevOps, and automation.\n\nGeographically, North America grew by 4.5% QoQ, while Europe grew by 4.7% QoQ in CC terms. Rest of the World witnessed significant growth of 30.8% QoQ.",
+    "deal_wins_pipeline_quality": "The order book is healthy, with a new large deal win in Q1 FY2019 with a TCV of over $50 million.  The deal pipeline is also strong, although deal sizes and durations are shrinking, aligning well with LTIM\u0027s size and focus.  The company emphasizes mining existing accounts, opening new strategic accounts, and closing large deals as key growth drivers.",
+    "management_commentary_outlook": "Management is optimistic about the future growth prospects, particularly in the BFS sector. While specific guidance was not provided, they expect continued momentum in Q2 FY2019, especially in Energy and Utilities, driven by a large deal with Exxon. Management is confident in their ability to maintain margin guidance despite wage inflation, with the help of expected lower visa costs.",
+    "comparison_to_expectations": "",
+    "key_risks_headwinds": "The primary headwind mentioned is the delay in April invoicing due to the internal IT transformation. While management expects this to recover in Q2, it highlights the operational risks associated with such transitions.  The changing nature of deals, with shrinking sizes and durations, also presents a challenge in maintaining growth momentum.",
+    "operational_efficiency": "Utilization remained stable at 79.7% including trainees and 81.2% excluding trainees. Attrition increased slightly to 15.1% from 14.8% in the previous quarter.  Headcount increased by 1,011 in Q1. The DSO performance was negatively impacted by the internal IT transformation, leading to a decline in operating cash flow.  However, management expects this to recover in the next quarter."
+  }
+}

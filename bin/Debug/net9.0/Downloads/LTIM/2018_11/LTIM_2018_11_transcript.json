@@ -1,0 +1,134 @@
+﻿{
+  "metadata": {
+    "company": "LTIM",
+    "report_generated_on": "2023-11-07",
+    "source_documents": [
+      {
+        "file_name": "LTI_Q2FY19_Earnings_Call_Transcript.pdf",
+        "type": "Earnings Call Transcript",
+        "period_covered": "Q2 FY19",
+        "url": ""
+      },
+      {
+        "file_name": "LTI_Q2FY19_Investor_Presentation.pdf",
+        "type": "Investor Presentation",
+        "period_covered": "Q2 FY19",
+        "url": ""
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q2 FY19",
+      "revenue": {
+        "total_inr": 23312,
+        "total_usd": 328.5,
+        "cc_growth_pct": {
+          "qoq": 3.5,
+          "yoy": 22.9
+        },
+        "usd_growth_pct": {
+          "qoq": 2.7,
+          "yoy": 21.4
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": 4424,
+        "ebit_margin_pct": 19,
+        "pat_inr": 4003,
+        "pat_usd": null,
+        "pat_margin_pct": 17.2,
+        "basic_eps_inr": 23.14
+      },
+      "order_book": {
+        "tcv_new_deals": null,
+        "pipeline_commentary": "The company won a deal with a global pharma major, opened two marquee new logos (a Global Fortune 500 Life Sciences company and a Fortune 100 energy company), and saw growth momentum in top 20 accounts strengthened by programs like Minecraft and ADEA."
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": 0.965,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": 17160,
+        "cash_and_investments_usd": null,
+        "dso_days": 75
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": 26414,
+        "net_additions_yoy": 1264,
+        "attrition_pct_ttm": 15.3,
+        "utilization_excl_trainees_pct": 82.3
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": null
+      }
+    },
+    "current_fy": {
+      "period_label": "FY19 (Partial - Up to Q2)",
+      "revenue": {
+        "total_inr": null,
+        "total_usd": null,
+        "cc_growth_pct_yoy": null,
+        "usd_growth_pct_yoy": null
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": null,
+        "ebit_margin_pct": null,
+        "pat_inr": null,
+        "pat_usd": null,
+        "pat_margin_pct": null,
+        "basic_eps_inr": 75.9
+      },
+      "order_book": {
+        "tcv_fy": null,
+        "tcv_growth_pct_yoy": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": 12.5
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "LTIM delivered strong Q2 FY19 results, with revenue growth driven by digital services.  Profitability improved both sequentially and YoY, aided by operational efficiencies and INR depreciation. Digital revenue now accounts for 37% of total revenue. The company secured a large deal with a pharma major and added two new Fortune 500 logos.",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": "Q2 FY19 revenue grew by 2.7% QoQ in USD terms and 3.5% in constant currency.  YoY growth was strong at 21.4% USD and 22.9% CC. EBIT margin expanded to 19% from 17.7% in Q1, while PAT margin reached 17.2% from 16.8%. Key drivers for these improvements include operational efficiencies, lower visa costs, and INR depreciation. Suggested charts: Bar chart comparing USD revenue, INR revenue, EBIT, and PAT for Q1 FY19 and Q2 FY19. Line chart showing QoQ and YoY growth rates (USD and CC) for revenue over the past few quarters. Line chart showing EBIT and PAT margin trends over the past few quarters."
+      },
+      "full_year": {
+        "narrative": "Full-year FY19 data is not available as this report covers only Q2.  However, EPS for the trailing twelve months stood at INR 75.9.  The company declared an interim dividend of INR 12.5 per share."
+      }
+    },
+    "segment_geographic_deep_dive": "BFS growth was slightly negative in USD terms (-0.9% QoQ) but positive in constant currency.  Management expects a record year for BFS in FY19.  Insurance grew by 0.5% QoQ, while Manufacturing grew by 0.6% QoQ. Energy \u0026 Utilities showed strong growth at 8.4% QoQ, driven by recovering commodity prices. CPG, Retail, and Pharma delivered exceptional growth at 15% QoQ. High Tech and Media grew at 1.8% QoQ.  Geographic performance details were not provided in the documents.",
+    "deal_wins_pipeline_quality": "The company reported strong deal wins, including a multi-year, multi-million dollar deal with a global pharma major for IoT-led transformation.  Two new marquee logos were added: a Fortune 500 Life Sciences company and a Fortune 100 energy company. The pipeline appears healthy, with the company highlighting its focus on large deals, new logo acquisition, and client mining.",
+    "management_commentary_outlook": "Management expressed confidence in achieving industry-leading performance in FY19, highlighting the strong performance in the first two quarters and a healthy deal pipeline. They expect continued growth driven by digital services and the increasing adoption of technologies like cloud, AI, and automation.",
+    "comparison_to_expectations": "The documents did not provide specific guidance or market expectations to compare against.",
+    "key_risks_headwinds": "Management mentioned potential macro uncertainties related to trade wars, but noted that they haven\u0027t seen any impact on client IT budgets so far.  Supply-side challenges related to talent acquisition were also acknowledged.",
+    "operational_efficiency": "Utilization improved to 82.3% (excluding trainees) from 81.2% in Q1. Attrition inched up slightly to 15.3%. DSO improved by 5 days overall, but billed DSO increased slightly to 75 days due to invoicing of milestones in large programs. Working capital improved to 21.3% of revenue. The company added 1,264 employees during the quarter."
+  }
+}

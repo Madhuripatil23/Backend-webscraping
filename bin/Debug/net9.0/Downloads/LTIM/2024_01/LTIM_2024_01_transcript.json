@@ -1,0 +1,176 @@
+﻿{
+  "metadata": {
+    "company": "LTIM",
+    "report_generated_on": "2024-01-20",
+    "source_documents": [
+      {
+        "file_name": "LTIMindtree Limited\u0027s Q3 FY\u002724 Earnings Conference Call Transcript - January 17, 2024.pdf",
+        "type": "Earnings Call Transcript",
+        "period_covered": "Q3 FY24",
+        "url": ""
+      },
+      {
+        "file_name": "LTIMindtree Limited Investor Presentation - January 17, 2024.pdf",
+        "type": "Investor Presentation",
+        "period_covered": "Q3 FY24",
+        "url": ""
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q3 FY24",
+      "revenue": {
+        "total_inr": 90166,
+        "total_usd": 1083.7,
+        "cc_growth_pct": {
+          "qoq": 0.7,
+          "yoy": 3.1
+        },
+        "usd_growth_pct": {
+          "qoq": 0.8,
+          "yoy": 3.5
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": 13859,
+        "ebit_margin_pct": 15.4,
+        "pat_inr": 11693,
+        "pat_usd": null,
+        "pat_margin_pct": 13.0,
+        "basic_eps_inr": 39.5
+      },
+      "order_book": {
+        "tcv_new_deals": 1500,
+        "pipeline_commentary": "Strong order inflow reflects increasing relevance and strength of edge-to-experience capabilities. Deal pipeline at $4.6B, up 30% YoY. Several deals in final stages of closure, some delays in decision-making observed."
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": 155.7,
+        "fcf_to_pat_ratio": 143.7,
+        "cash_and_investments_inr": 101150,
+        "cash_and_investments_usd": 1216,
+        "dso_days": 85
+      },
+      "segment_performance": [
+        {
+          "segment": "Banking, Financial Services \u0026 Insurance",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Hi-Tech, Media \u0026 Entertainment",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Manufacturing \u0026 Resources",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Retail, CPG, Travel, Transport \u0026 Hospitality",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Healthcare, Life Sciences \u0026 Public Services",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        }
+      ],
+      "geographic_performance": [
+        {
+          "region": "North America",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "region": "Europe",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "region": "Rest of the World",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        }
+      ],
+      "headcount_metrics": {
+        "total_headcount": 77203,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": 14.2,
+        "utilization_excl_trainees_pct": 87.4
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": null
+      }
+    },
+    "current_fy": {
+      "period_label": "FY24",
+      "revenue": {
+        "total_inr": null,
+        "total_usd": null,
+        "cc_growth_pct_yoy": null,
+        "usd_growth_pct_yoy": null
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": null,
+        "ebit_margin_pct": null,
+        "pat_inr": null,
+        "pat_usd": null,
+        "pat_margin_pct": null,
+        "basic_eps_inr": null
+      },
+      "order_book": {
+        "tcv_fy": 4200,
+        "tcv_growth_pct_yoy": 19,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": null
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "LTIM delivered resilient Q3 FY24 performance amidst a challenging macro environment and higher-than-anticipated seasonality, achieving highest-ever order bookings of $1.5B (up 21% YoY).\nRevenue growth was muted due to higher furloughs, impacting USD revenue growth (0.8% QoQ, 3.5% YoY) and CC revenue growth (0.7% QoQ, 3.1% YoY). EBIT margin was impacted by furloughs, lower working days, and pass-through revenue, partially offset by improved SG\u0026A and operating efficiencies, resulting in a 15.4% margin. PAT margin remained stable at 13%.",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": "Q3 FY24 saw muted revenue growth QoQ due to higher furloughs, impacting both USD and CC growth.  YoY growth was moderate in USD and CC terms. EBIT margin declined QoQ due to furloughs and seasonality, partially offset by SG\u0026A and efficiency improvements. PAT margin remained stable YoY. \nSuitable Charts: Bar charts comparing USD revenue, INR EBIT, and INR PAT for Q3 FY24 vs Q2 FY24 and Q3 FY23. Line charts showing QoQ and YoY trends for EBIT and PAT margins."
+      },
+      "full_year": {
+        "narrative": "Full year FY24 data not available in the provided documents. Operating margin trajectory over FY24 cannot be analyzed without full year data."
+      }
+    },
+    "segment_geographic_deep_dive": "BFSI saw a decline due to higher furloughs, while Insurance remained resilient. Manufacturing showed strong growth (20.1% YoY) due to seasonal higher pass-through. Hi-Tech remained resilient despite higher furloughs. Retail and CPG focused on cost optimization and supplier consolidation. Travel, Transport, and Hospitality showed demand for data services. Health and Life Sciences grew 6% YoY. North America contributed 72.7% of revenue, Europe 14.5%, and Rest of the World 12.8%. North America grew 4.1% YoY.",
+    "deal_wins_pipeline_quality": "Order book healthy with $1.5B in new TCV in Q3 and $4.2B in 9M FY24 (up 19% YoY). Deal pipeline strong at $4.6B, up 30% YoY, driven by efficiency-led and transformation deals. Several large deals are in the final stages of closure, indicating potential for future growth.  Notable wins include a US-based oil and gas producer, a multinational media corporation for ServiceNow transformation, and a financial services technology company for product development.",
+    "management_commentary_outlook": "Management expects Q4 FY24 performance to be similar to Q3 FY24 due to a continued challenging macro environment and delays in client decision-making.  They remain focused on expanding their value proposition and see the strong order inflow and healthy deal pipeline as positive indicators for medium-term growth. While the 17-18% exit margin target is delayed by a few quarters, the margin optimization program continues, with a focus on reinvesting in the business for future growth opportunities, including training over 10,000 employees on GenAI.",
+    "comparison_to_expectations": "While management anticipated above-average furloughs, actual furloughs were deeper and wider than expected, impacting Q3 performance. Discretionary spending did not recover as anticipated, impacting Q4 outlook.  No specific comparison to analyst estimates or previous guidance provided in the documents.",
+    "key_risks_headwinds": "Key risks and headwinds include a challenging macroeconomic environment, delays in client decision-making, and continued cautious client spending, particularly in discretionary areas.  Wider and deeper furloughs than anticipated impacted Q3 performance. Management also noted delays in finalizing some large deals.",
+    "operational_efficiency": "Utilization excluding trainees improved to 87.4% in Q3, up from 86.6% in Q2, driven by increased billability. LTM attrition remained stable at 14.2%, down from 15.2% in Q2.  Over 500 freshers were added in Q3. DSO improved to 85 days from 94 days in Q2, with unbilled DSO reduced to 23 days from 26 days.  Management aims to bring total DSO closer to 75 days."
+  }
+}

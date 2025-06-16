@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "company": "LTIM",
+    "report_generated_on": "2024-07-24",
+    "source_documents": [
+      {
+        "file_name": "LTI_Earnings_Call_Transcript_Q4_FY19.pdf",
+        "type": "Earnings Call Transcript",
+        "period_covered": "Q4 FY2019",
+        "url": ""
+      },
+      {
+        "file_name": "LTI_Investor_Presentation_May_2019.pdf",
+        "type": "Investor Presentation",
+        "period_covered": "FY2019",
+        "url": ""
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q4 FY2019",
+      "revenue": {
+        "total_inr": 24860,
+        "total_usd": 353.8,
+        "cc_growth_pct": {
+          "qoq": 1.9,
+          "yoy": 17.5
+        },
+        "usd_growth_pct": {
+          "qoq": 2,
+          "yoy": 14.5
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": 4393,
+        "ebit_margin_pct": 17.7,
+        "pat_inr": 3785,
+        "pat_usd": null,
+        "pat_margin_pct": 15.2,
+        "basic_eps_inr": 21.6
+      },
+      "order_book": {
+        "tcv_new_deals": null,
+        "pipeline_commentary": "Two large deals announced with net new TCV in excess of USD 100 million each. One in manufacturing, involving multiple application platforms across ERP, CRM, and data platforms. The other in insurance, focusing on global operations and transformation initiatives across applications, infrastructure, service desk, and security."
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": 82.4,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": 21552,
+        "cash_and_investments_usd": null,
+        "dso_days": 71
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": 28169,
+        "net_additions_yoy": 4030,
+        "attrition_pct_ttm": 17.5,
+        "utilization_excl_trainees_pct": 81.1
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": 15.5
+      }
+    },
+    "current_fy": {
+      "period_label": "FY2019",
+      "revenue": {
+        "total_inr": 94458,
+        "total_usd": 1349,
+        "cc_growth_pct_yoy": 20.9,
+        "usd_growth_pct_yoy": 19.1
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": 17351,
+        "ebit_margin_pct": 18.4,
+        "pat_inr": 15155,
+        "pat_usd": null,
+        "pat_margin_pct": 16,
+        "basic_eps_inr": 87.67
+      },
+      "order_book": {
+        "tcv_fy": null,
+        "tcv_growth_pct_yoy": null,
+        "pipeline_commentary": "Order book is up 35% YoY. Large deal pipeline has increased significantly since last reported and several large deals are up for closure within the next six months."
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": 92,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": 81.9
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": 28
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "LTIM delivered strong FY2019 results with 19.1% YoY revenue growth in USD terms and 20.9% in constant currency.  Digital revenue reached 38% of total revenue.  Two large deals were signed in Q4, contributing to a healthy pipeline. Profitability improved for the full year, with a 16% PAT margin. Q4 saw a slight dip in margins due to investments in sales, lower utilization, and Rupee appreciation. Attrition increased to 17.5% in Q4, a key area of focus for management.",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": "Q4 FY19 revenue grew by 2% QoQ and 14.5% YoY in USD terms.  Constant currency growth was stronger at 1.9% QoQ and 17.5% YoY.  EBIT margin declined to 17.7% from 19.1% in Q3, while PAT margin remained stable at 15.2%.  The decline in profitability was attributed to investments in sales, a drop in utilization, and Rupee appreciation.  A suitable visual representation would be a bar chart comparing revenue, EBIT, and PAT across Q3 and Q4 FY19 and the corresponding quarters of the previous year.  Line charts could show margin trends."
+      },
+      "full_year": {
+        "narrative": "FY19 revenue grew by 19.1% YoY in USD and 20.9% in CC. Operating margin improved to 18.4% from prior year. PAT margin also saw improvement, reaching 16%.  Key factors influencing operating margins include operational efficiencies, currency tailwinds, and higher employee costs. A suitable visualization would be a bar chart showing revenue and profitability for FY18 and FY19. A line chart could depict the trajectory of operating margins over the quarters of FY19."
+      }
+    },
+    "segment_geographic_deep_dive": "BFS showed strong growth of 27% YoY, driven by client mining and a large deal ramp-up. Insurance grew by 8.6% YoY, with a large transformation deal win. Manufacturing grew by 12.4% YoY, with investments in ERP modernization driving growth. CPG, Retail, and Pharma saw strong growth of over 35% YoY. High-Tech and Media grew by 28.7% YoY.  Energy and Utilities and Other verticals grew by 8.7% and 14.6% respectively. Tightness in spending was noted in the largest client within the BFS segment.",
+    "deal_wins_pipeline_quality": "The order book health is strong, with a 35% YoY increase. The deal pipeline is healthy, with several large deals expected to close in the next six months. Two large deals were won in Q4 in manufacturing and insurance, indicating continued momentum in deal wins.  The manufacturing deal involves complex transformation, while the insurance deal focuses on modernization and automation.",
+    "management_commentary_outlook": "Management is positive about the demand environment and expects to be in the leadership quadrant for revenue growth in FY20.  They acknowledge growth challenges in their top client but remain optimistic about overall growth trajectory.  They emphasize their focus on investing in the business and maintaining a stable net income margin around 15%.",
+    "comparison_to_expectations": "",
+    "key_risks_headwinds": "Key risks include the spending slowdown at the top client, increasing attrition, and potential macroeconomic uncertainties. Management is actively addressing attrition through initiatives like Mission Ubuntu, focusing on employee engagement and upskilling.",
+    "operational_efficiency": "DSO improved to 71 days in Q4.  Utilization decreased to 81.1% (excluding trainees) as planned, aiming for a more sustainable level. Attrition increased to 17.5%, posing a challenge that management is addressing through various initiatives. Headcount grew by 16.7% YoY, with 4,030 net additions in FY19."
+  }
+}

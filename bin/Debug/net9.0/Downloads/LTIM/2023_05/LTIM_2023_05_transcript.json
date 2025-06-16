@@ -1,0 +1,176 @@
+﻿{
+  "metadata": {
+    "company": "LTIMindtree",
+    "report_generated_on": "2024-07-20",
+    "source_documents": [
+      {
+        "file_name": "LTIMindtree_Earnings_Call_Transcript_Q4_FY23.pdf",
+        "type": "Earnings Call Transcript",
+        "period_covered": "Q4 FY23",
+        "url": ""
+      },
+      {
+        "file_name": "LTIMindtree_Investor_Presentation_Q4_FY23.pdf",
+        "type": "Investor Presentation",
+        "period_covered": "Q4 FY23",
+        "url": ""
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q4 FY23",
+      "revenue": {
+        "total_inr": 86910,
+        "total_usd": 1057.5,
+        "cc_growth_pct": {
+          "qoq": 0.7,
+          "yoy": 13.5
+        },
+        "usd_growth_pct": {
+          "qoq": 1,
+          "yoy": 11.9
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": 14214,
+        "ebit_margin_pct": 16.4,
+        "pat_inr": 11141,
+        "pat_usd": null,
+        "pat_margin_pct": 12.8,
+        "basic_eps_inr": 37.7
+      },
+      "order_book": {
+        "tcv_new_deals": 1350,
+        "pipeline_commentary": "Pipeline is promising with several large deals in final stages (BFSI). High-Tech industry focusing on customer support, subscription management, and product engineering. Decision-making timelines remain extended, but vendor consolidation is driving up deal sizes. Overall pipeline is very strong, order book is very strong, and deal activity is very strong."
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": 88.5,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": 8355,
+        "cash_and_investments_usd": 1020,
+        "dso_days": 60
+      },
+      "segment_performance": [
+        {
+          "segment": "Banking, Financial Services \u0026 Insurance",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Hi-Tech, Media \u0026 Entertainment",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Manufacturing \u0026 Resources",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Retail, CPG, Travel, Transportation \u0026 Hospitality",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "Health, Life Sciences \u0026 Public Services",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        }
+      ],
+      "geographic_performance": [
+        {
+          "region": "North America",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "region": "Europe",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "region": "Rest of the World",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        }
+      ],
+      "headcount_metrics": {
+        "total_headcount": 80283,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": 20.2,
+        "utilization_excl_trainees_pct": 81.7
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": 40
+      }
+    },
+    "current_fy": {
+      "period_label": "FY23",
+      "revenue": {
+        "total_inr": 331830,
+        "total_usd": 4105.7,
+        "cc_growth_pct_yoy": 19.9,
+        "usd_growth_pct_yoy": 17.2
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": 53850,
+        "ebit_margin_pct": 16.2,
+        "pat_inr": 44103,
+        "pat_usd": null,
+        "pat_margin_pct": 13.3,
+        "basic_eps_inr": 149.1
+      },
+      "order_book": {
+        "tcv_fy": 4870,
+        "tcv_growth_pct_yoy": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": 60
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "LTIMindtree reported strong FY23 results with 19.9% YoY CC revenue growth and 17.2% YoY USD revenue growth. Q4 FY23 revenue reached $1.06B, up 13.5% YoY in CC terms. EBIT margin for Q4 FY23 improved to 16.4%, up 250 bps QoQ. Order inflow for Q4 was $1.35B, leading to a full-year inflow of $4.87B. The company highlighted successful merger integration, robust performance amidst macro uncertainties, and expanded capabilities driving cross-sell/upsell opportunities.",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": "Q4 FY23 revenue grew by 1% QoQ in USD terms and 0.7% in CC terms. YoY growth was strong at 11.9% in USD and 13.5% in CC. EBIT margin expanded significantly by 250 bps QoQ to 16.4%, driven by absence of furloughs, lower integration costs, and operational efficiencies. PAT margin also improved to 12.8% from 11.6% in Q3 FY23. Charts could depict these QoQ and YoY changes using bar charts for revenue and line charts for margins."
+      },
+      "full_year": {
+        "narrative": "FY23 revenue showed robust growth of 19.9% YoY in CC and 17.2% in USD.  EBIT margin for FY23 was 16.2%, down from 17.8% in FY22, while PAT margin was 13.3%, down from 15.1%. The trajectory of operating margins throughout FY23 could be visualized using a line chart, potentially highlighting factors like merger-related costs and operational efficiencies impacting profitability."
+      }
+    },
+    "segment_geographic_deep_dive": "BFSI performed well, growing 23% YoY in USD terms despite a challenging macro environment. High-Tech, Media, and Entertainment reached $1B in revenue, growing 14.5% YoY. North America remained the strongest market with 21.5% YoY growth, reaching $3B in revenue. Europe grew 14.1% YoY in CC but only 3.9% in USD due to forex impact. Some client-specific slowdowns and hiring freezes were noted, particularly in BFSI, impacting Q4 performance and potentially Q1 FY24.",
+    "deal_wins_pipeline_quality": "The order book and deal pipeline appear healthy, with a total contract value (TCV) of $1.35B in new deals for Q4 and $4.87B for FY23.  Significant wins include onsemi, demonstrating LTIMindtree\u0027s ability to secure large transformation deals. While there are some delays in deal ramp-ups due to client caution and hiring freezes, the pipeline remains robust with a good mix of efficiency-driven deals and large deals in final stages, particularly in BFSI.",
+    "management_commentary_outlook": "Management is optimistic about FY24, expecting double-digit revenue growth despite potential Q1 softness due to continued client caution. They highlight cross-sell/upsell opportunities and strong pipeline.  Macro uncertainties and client decision-making delays are acknowledged, but the focus is on long-term growth driven by robust order book and pipeline. Wage hikes are expected in Q2 FY24 but at a lower rate than previous years.",
+    "comparison_to_expectations": "",
+    "key_risks_headwinds": "Key risks include macro uncertainties, client caution in spending, delayed decision-making, and hiring freezes impacting deal ramp-ups.  Management also noted reduced consumer confidence impacting retail and CPG spending.",
+    "operational_efficiency": "DSO improved slightly to 60 days in Q4. Utilization excluding trainees was 81.7%, slightly down QoQ. Attrition continued to trend lower at 13.7% quarterly annualized and 20.2% TTM. Headcount decreased slightly QoQ due to reduced lateral hiring during the merger integration.  The return-to-office program is progressing well, with new satellite offices aiding talent acquisition."
+  }
+}

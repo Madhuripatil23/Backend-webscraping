@@ -1,0 +1,128 @@
+﻿{
+  "metadata": {
+    "company": "ANGELONE",
+    "report_generated_on": "2024-07-26",
+    "source_documents": [
+      {
+        "file_name": "angelone_transcript_2022_05_31.pdf",
+        "type": "Earnings Call Transcript",
+        "period_covered": "FY22",
+        "url": ""
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q4 FY22",
+      "revenue": {
+        "total_inr": 23050000000,
+        "total_usd": null,
+        "cc_growth_pct": {
+          "qoq": null,
+          "yoy": null
+        },
+        "usd_growth_pct": {
+          "qoq": null,
+          "yoy": null
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": 8600000000,
+        "ebitda_margin_pct": 50.8,
+        "ebit_inr": null,
+        "ebit_margin_pct": null,
+        "pat_inr": 6300000000,
+        "pat_usd": null,
+        "pat_margin_pct": null,
+        "basic_eps_inr": 74.44
+      },
+      "order_book": {
+        "tcv_new_deals": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": 3298,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": 27
+      }
+    },
+    "current_fy": {
+      "period_label": "FY22",
+      "revenue": {
+        "total_inr": 23050000000,
+        "total_usd": null,
+        "cc_growth_pct_yoy": 78,
+        "usd_growth_pct_yoy": null
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": 8600000000,
+        "ebitda_margin_pct": 50.8,
+        "ebit_inr": null,
+        "ebit_margin_pct": null,
+        "pat_inr": 6300000000,
+        "pat_usd": null,
+        "pat_margin_pct": null,
+        "basic_eps_inr": 74.44
+      },
+      "order_book": {
+        "tcv_fy": null,
+        "tcv_growth_pct_yoy": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": 3298,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": 27.1
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "ANGELONE reported strong financial performance in FY22, with a 78% YoY increase in revenue to INR 23.05 billion and a 110% YoY increase in PAT to INR 6.3 billion.  This growth was driven by a significant increase in client acquisition, order volume, and average daily turnover (ADTO). The company\u0027s active client base grew by 123.7% YoY to 9.2 million, and its market share in India\u0027s D-MAT accounts reached 10.3%.  Operating leverage led to an expansion of operating profit margin to 50.8%.",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": "Detailed QoQ and YoY analysis for the latest quarter is not possible due to the information provided being for the full year FY22 only in the transcript. Suitable visual representations would include bar charts comparing key metrics (revenue, EBIT, PAT) for Q4 FY22 vs. Q4 FY21 and Q4 FY22 vs. Q3 FY22. Line charts could illustrate margin trends over several quarters."
+      },
+      "full_year": {
+        "narrative": "ANGELONE experienced substantial growth in FY22, with a 78% YoY increase in revenue and a 110% YoY increase in PAT. Operating margin expanded to 50.8% due to operating leverage. Key factors influencing this performance include increased client acquisition, higher order volumes, and improved ADTO. The transcript doesn\u0027t provide enough detail for a deeper analysis of operating margin trajectory or specific cost drivers."
+      }
+    },
+    "segment_geographic_deep_dive": "Segment and geographic performance details are not available in the provided transcript.",
+    "deal_wins_pipeline_quality": "Information on deal wins and pipeline quality is not available in the provided document. The transcript primarily focuses on financial results and operational updates.",
+    "management_commentary_outlook": "Management expressed optimism about future growth prospects, citing India\u0027s underpenetrated market and the company\u0027s strong digital platform. They highlighted the potential of the newly launched super app to further drive client engagement and revenue growth.  Management also discussed plans to expand into asset management and wealth management businesses, pending regulatory approvals. They refrained from providing specific financial guidance but emphasized the company\u0027s focus on gaining market share and maintaining profitability.",
+    "comparison_to_expectations": "The transcript does not contain information about prior guidance or market expectations, making a comparison to actual performance impossible.",
+    "key_risks_headwinds": "While the transcript doesn\u0027t explicitly mention specific risks, management acknowledged the potential impact of negative market returns on client acquisition and trading activity. They also emphasized the importance of obtaining regulatory approvals for their planned expansion into new business areas.",
+    "operational_efficiency": "The transcript does not provide sufficient data to analyze trends in DSO, utilization, and attrition. However, it mentions the onboarding of key technology talent and the company\u0027s focus on process automation, suggesting efforts to enhance operational efficiency."
+  }
+}

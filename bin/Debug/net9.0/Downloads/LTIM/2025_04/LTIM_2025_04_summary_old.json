@@ -1,0 +1,218 @@
+{
+  "metadata": {
+    "company": "LTIM",
+    "report_generated_on": "2025-04-28",
+    "source_documents": [
+      {
+        "file_name": "LTIM/SE/STAT/2025-26/14",
+        "type": "Earnings Call Transcript",
+        "period_covered": "Q4 FY25",
+        "url": ""
+      },
+      {
+        "file_name": "LTIM/SE/STAT/2025-26/11",
+        "type": "Investor Presentation",
+        "period_covered": "Q4 FY25",
+        "url": ""
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q4 FY25",
+      "revenue": {
+        "total_inr": 97717,
+        "total_usd": 1131,
+        "cc_growth_pct": {
+          "qoq": -0.6,
+          "yoy": 6.3
+        },
+        "usd_growth_pct": {
+          "qoq": -0.7,
+          "yoy": 5.8
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": 27.9,
+        "ebitda_inr": 15962,
+        "ebitda_margin_pct": 16.3,
+        "ebit_inr": 13454,
+        "ebit_margin_pct": 13.8,
+        "pat_inr": 11286,
+        "pat_usd": 130.6,
+        "pat_margin_pct": 11.5,
+        "basic_eps_inr": 38.1
+      },
+      "order_book": {
+        "tcv_new_deals": 1600,
+        "pipeline_commentary": "Our year-end deal pipeline continues to remain robust."
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": 98.8,
+        "fcf_to_pat_ratio": 78.5,
+        "cash_and_investments_inr": 133460,
+        "cash_and_investments_usd": 1560,
+        "dso_days": 79
+      },
+      "segment_performance": [
+        {
+          "segment": "Banking, Financial Services \u0026 Insurance",
+          "revenue_inr": 36242,
+          "growth_pct_qoq": 1.2
+        },
+        {
+          "segment": "Technology, Media \u0026 Communications",
+          "revenue_inr": 22952,
+          "growth_pct_qoq": -1.5
+        },
+        {
+          "segment": "Manufacturing \u0026 Resources",
+          "revenue_inr": 19486,
+          "growth_pct_qoq": 2.3
+        },
+        {
+          "segment": "Consumer Business",
+          "revenue_inr": 13705,
+          "growth_pct_qoq": -2.4
+        },
+        {
+          "segment": "Healthcare, Life Sciences \u0026 Public Services",
+          "revenue_inr": 5332,
+          "growth_pct_qoq": -14
+        }
+      ],
+      "geographic_performance": [
+        {
+          "region": "North America",
+          "revenue_inr": null,
+          "growth_pct_qoq": -1
+        },
+        {
+          "region": "Europe",
+          "revenue_inr": null,
+          "growth_pct_qoq": -2
+        },
+        {
+          "region": "Rest of the World",
+          "revenue_inr": null,
+          "growth_pct_qoq": 2.9
+        }
+      ],
+      "headcount_metrics": {
+        "total_headcount": 84307,
+        "net_additions_yoy": 2657,
+        "attrition_pct_ttm": 14.4,
+        "utilization_excl_trainees_pct": 85.8
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": 45
+      }
+    },
+    "current_fy": {
+      "period_label": "FY25",
+      "revenue": {
+        "total_inr": 380081,
+        "total_usd": 4492.5,
+        "cc_growth_pct_yoy": 5,
+        "usd_growth_pct_yoy": 4.8
+      },
+      "profitability": {
+        "gross_margin_pct": 29.4,
+        "ebitda_inr": 64949,
+        "ebitda_margin_pct": 17.1,
+        "ebit_inr": 55034,
+        "ebit_margin_pct": 14.5,
+        "pat_inr": 46020,
+        "pat_usd": 543.9,
+        "pat_margin_pct": 12.1,
+        "basic_eps_inr": 155.3
+      },
+      "order_book": {
+        "tcv_fy": 6000,
+        "tcv_growth_pct_yoy": 6.1,
+        "pipeline_commentary": "Our year-end deal pipeline continues to remain robust."
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": 133460,
+        "cash_and_investments_usd": 1560,
+        "dso_days": 79
+      },
+      "segment_performance": [
+        {
+          "segment": "Banking, Financial Services \u0026 Insurance",
+          "revenue_inr": 137318,
+          "growth_pct_yoy": 4.6
+        },
+        {
+          "segment": "Technology, Media \u0026 Communications",
+          "revenue_inr": 93125,
+          "growth_pct_yoy": 8.7
+        },
+        {
+          "segment": "Manufacturing \u0026 Resources",
+          "revenue_inr": 72137,
+          "growth_pct_yoy": 7.2
+        },
+        {
+          "segment": "Consumer Business",
+          "revenue_inr": 54420,
+          "growth_pct_yoy": 0
+        },
+        {
+          "segment": "Healthcare, Life Sciences \u0026 Public Services",
+          "revenue_inr": 23081,
+          "growth_pct_yoy": -3
+        }
+      ],
+      "geographic_performance": [
+        {
+          "region": "North America",
+          "revenue_inr": null,
+          "growth_pct_yoy": 7.1
+        },
+        {
+          "region": "Europe",
+          "revenue_inr": null,
+          "growth_pct_yoy": -1.2
+        },
+        {
+          "region": "Rest of the World",
+          "revenue_inr": null,
+          "growth_pct_yoy": -1.7
+        }
+      ],
+      "headcount_metrics": {
+        "total_headcount": 84307,
+        "net_additions_yoy": 2657,
+        "attrition_pct_ttm": 14.4,
+        "utilization_excl_trainees_pct": 85.8
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": 65
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "LTIM experienced a year of consolidation in FY25, marked by growth in key verticals and large deal wins, particularly in AI. Despite a strong first half, revenue momentum slowed in the second half due to macro uncertainties. The company focused on supporting clients with cost optimization initiatives. Constant currency revenue growth was 5%, totaling $4.5B. Order inflow was robust at $6B, driven by efficiency-focused deals. Operating margins declined to 14.5%. Headcount increased to 84,307 with stable attrition.",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": "Q4 FY25 saw a slight decline in revenue both QoQ and YoY in USD terms, but an increase in INR terms YoY. EBIT margin remained flat QoQ but decreased YoY. PAT increased QoQ and YoY in INR terms but decreased YoY in USD terms. Key drivers included macro uncertainties impacting client spending and delays in deal ramp-ups, offset by cost optimization measures and new deal wins. \n\nSuitable Charts:\n* Bar chart comparing USD and INR revenues, EBIT, and PAT across Q4 FY24, Q3 FY25, and Q4 FY25.\n* Line chart showing EBIT and PAT margin trends across the same periods."
+      },
+      "full_year": {
+        "narrative": "FY25 revenue grew both in USD and INR terms YoY. Profitability, however, saw a decline in operating margins YoY, primarily attributed to wage hikes, pass-backs related to productivity improvements, and the impact of delayed deal ramp-ups. Cost optimization initiatives were implemented to mitigate these factors.\n\nSuitable Charts:\n* Bar chart comparing USD and INR revenues, EBIT, and PAT for FY24 and FY25.\n* Line chart illustrating operating margin trends over FY25."
+      }
+    },
+    "segment_geographic_deep_dive": "Technology, Media \u0026 Communications and BFSI were key growth drivers in FY25. Manufacturing also showed healthy growth, driven by vendor consolidation and ERP transformation deals. Consumer business remained flat, while Healthcare saw a decline. North America was the strongest performing geography. Client-specific slowdowns were noted in the Travel, Transportation \u0026 Hospitality portfolio within the Consumer business.",
+    "deal_wins_pipeline_quality": "The order book appears healthy with a strong year-end pipeline.  Q4 order inflow was $1.6B, the second consecutive quarter above $1.5B. Total FY25 order inflow reached $6B, a 6.1% YoY increase. There\u0027s a notable shift towards longer-term, efficiency-driven deals, including AI-led projects. Key wins included a multi-year quality engineering deal with a US Life Insurance company, a next-gen ERP support deal with a global Energy major, and an end-to-end operations services deal for a digital company in KSA.",
+    "management_commentary_outlook": "Management expressed confidence in navigating macro challenges and highlighted three key initiatives for FY26: sales transformation (simplifying structure, strengthening leadership, and exploring new sales models in the AI economy), a revamped large deal organization focused on AI integration, and the \u0022Fit4Future\u0022 program for enhanced agility and profitability through cost optimization. They expect margin improvement starting from Q1 FY26.",
+    "comparison_to_expectations": "While the company initially expected stronger growth momentum from Q3 into Q4, macro uncertainties and delays in deal ramp-ups led to slower revenue growth than anticipated. Specific numerical guidance was not provided, but management expressed confidence in returning to growth in Q1 FY26.",
+    "key_risks_headwinds": "Macroeconomic uncertainties, including client spending cuts and delays in project ramp-ups, were identified as key headwinds. The company also noted ongoing uncertainty in the market and the need to adapt to evolving client demands in the AI-driven economy. Client-specific slowdowns in the Travel, Transportation \u0026 Hospitality sector were also mentioned.",
+    "operational_efficiency": "DSO improved slightly. Utilization excluding trainees remained relatively stable. Attrition remained stable at 14.4%. The company onboarded 4,700 freshers during FY25 as part of its pyramid correction strategy. Headcount adjustments were made in Q4 in response to shifting growth expectations and the impact of AI-led productivity improvements."
+  }
+}

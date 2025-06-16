@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "company": "LTI",
+    "report_generated_on": "2024-07-26",
+    "source_documents": [
+      {
+        "file_name": "LTI_Investor_Presentation_May_2017.pdf",
+        "type": "Investor Presentation",
+        "period_covered": "FY17 Q4",
+        "url": ""
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q4FY17",
+      "revenue": {
+        "total_inr": null,
+        "total_usd": 254.1,
+        "cc_growth_pct": {
+          "qoq": 2.4,
+          "yoy": null
+        },
+        "usd_growth_pct": {
+          "qoq": 3.6,
+          "yoy": null
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": 3271,
+        "ebit_margin_pct": 18.9,
+        "pat_inr": 2545,
+        "pat_usd": null,
+        "pat_margin_pct": 14.7,
+        "basic_eps_inr": null
+      },
+      "order_book": {
+        "tcv_new_deals": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": 21000,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": 16.9,
+        "utilization_excl_trainees_pct": 79.3
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": null
+      }
+    },
+    "current_fy": {
+      "period_label": "FY17",
+      "revenue": {
+        "total_inr": null,
+        "total_usd": 970,
+        "cc_growth_pct_yoy": 9.3,
+        "usd_growth_pct_yoy": 10
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": 12166,
+        "ebit_margin_pct": 18.3,
+        "pat_inr": 9709,
+        "pat_usd": null,
+        "pat_margin_pct": 14.6,
+        "basic_eps_inr": null
+      },
+      "order_book": {
+        "tcv_fy": null,
+        "tcv_growth_pct_yoy": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": null
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "LTI demonstrated robust financial performance in Q4 FY17 and FY17 overall.  Revenue grew by 3.6% QoQ and 10% YoY in USD terms, with CC growth of 2.4% QoQ and 9.3% YoY.  Profitability also improved, with EBIT margin expanding by 110 bps QoQ and PAT margin increasing by 30 bps QoQ.  FY17 EBIT margin stood at 18.3% and PAT margin at 14.6%.",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": "Q4 FY17 revenue showed growth of 3.6% QoQ (2.4% in CC) and EBIT margin expanded by 110 bps to 18.9%, driving a 30 bps increase in PAT margin to 14.7%.  A bar chart comparing Q3 and Q4 revenue, EBIT, and PAT would visually represent this growth. Line charts could depict the margin trends across quarters.\n\nYear-on-Year comparisons were not available for the latest quarter in the provided document."
+      },
+      "full_year": {
+        "narrative": "FY17 saw strong revenue growth of 10% YoY (9.3% in CC terms).  EBIT margin improved from 17% in FY16 to 18.3% in FY17, while PAT margin also increased from 13.9% to 14.6%.  This suggests a positive trajectory in operating margins.  The document doesn\u0027t detail specific factors influencing the margin expansion, but bar charts comparing FY16 and FY17 revenues, EBIT, and PAT, along with line charts for margins, would effectively visualize the yearly performance trends."
+      }
+    },
+    "segment_geographic_deep_dive": "While the document presents revenue distribution across client sizes and verticals for FY15, FY16 and FY17, it does not provide specific revenue figures or growth rates for segments or geographies for Q4 FY17. The document highlights a diversified portfolio with increasing concentration towards larger clients (50 million dollar \u002B).  North America contributes the majority of revenue (close to 70%), followed by Europe and other regions.",
+    "deal_wins_pipeline_quality": "The presentation highlights several key deal wins, including Project Insight by CBDT, an infrastructure deal with an international institution, an upstream applications portfolio management deal with a Fortune 10 energy corporation, and a cloud ERP transformation deal with a French transnational company.  No specific TCV figures or broader pipeline commentary are provided.",
+    "management_commentary_outlook": "The document does not provide specific management commentary on the outlook for the next quarter or FY.",
+    "comparison_to_expectations": "The document doesn\u0027t include information on previous guidance or market expectations.",
+    "key_risks_headwinds": "The presentation doesn\u0027t explicitly mention any key risks or headwinds.",
+    "operational_efficiency": "Utilization excluding trainees slightly decreased QoQ from 80.5% to 79.3%. Attrition improved slightly from 18.4% in Q3 FY17 to 16.9% in Q4 FY17. The document does not provide details on headcount changes or fresher onboarding impact."
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "metadata": {
+    "company": "LTIM",
+    "report_generated_on": "2023-10-27",
+    "source_documents": [
+      {
+        "file_name": "LTI_Earnings_Call_Transcript_Q4_FY21.pdf",
+        "type": "Earnings Call Transcript",
+        "period_covered": "Q4 FY21",
+        "url": ""
+      },
+      {
+        "file_name": "LTI_Investor_Presentation_Q4_FY21.pdf",
+        "type": "Investor Presentation",
+        "period_covered": "Q4 FY21",
+        "url": ""
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q4 FY21",
+      "revenue": {
+        "total_inr": 32694,
+        "total_usd": 447.4,
+        "cc_growth_pct": {
+          "qoq": 4.4,
+          "yoy": 7.1
+        },
+        "usd_growth_pct": {
+          "qoq": 4.6,
+          "yoy": 9.1
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": 6329,
+        "ebit_margin_pct": 19.4,
+        "pat_inr": 5457,
+        "pat_usd": null,
+        "pat_margin_pct": 16.7,
+        "basic_eps_inr": 31.2
+      },
+      "order_book": {
+        "tcv_new_deals": 66,
+        "pipeline_commentary": "Pipeline continues to be healthy, added 2 Fortune 500 logos to our list of clients in Q4. Total Fortune 500 customer count is 71, an addition of 5 during the year."
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": 130.8,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": 43877,
+        "cash_and_investments_usd": null,
+        "dso_days": 61
+      },
+      "segment_performance": [
+        {
+          "segment": "BFS",
+          "revenue_inr": null,
+          "growth_pct_qoq": 5
+        },
+        {
+          "segment": "Insurance",
+          "revenue_inr": null,
+          "growth_pct_qoq": 0.8
+        },
+        {
+          "segment": "Manufacturing",
+          "revenue_inr": null,
+          "growth_pct_qoq": 5
+        },
+        {
+          "segment": "Energy \u0026 Utilities",
+          "revenue_inr": null,
+          "growth_pct_qoq": null
+        },
+        {
+          "segment": "CPG, Retail and Pharma",
+          "revenue_inr": null,
+          "growth_pct_qoq": 3.5
+        },
+        {
+          "segment": "Hi-Tech \u0026 Media",
+          "revenue_inr": null,
+          "growth_pct_qoq": 16
+        },
+        {
+          "segment": "Others",
+          "revenue_inr": null,
+          "growth_pct_qoq": 8.2
+        }
+      ],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": 35991,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": 12.3,
+        "utilization_excl_trainees_pct": 82.2
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": 25
+      }
+    },
+    "current_fy": {
+      "period_label": "FY21",
+      "revenue": {
+        "total_inr": 123698,
+        "total_usd": 1670.1,
+        "cc_growth_pct_yoy": 8.8,
+        "usd_growth_pct_yoy": 9.5
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": 23926,
+        "ebit_margin_pct": 19.3,
+        "pat_inr": 19382,
+        "pat_usd": null,
+        "pat_margin_pct": 15.7,
+        "basic_eps_inr": 110.3
+      },
+      "order_book": {
+        "tcv_fy": null,
+        "tcv_growth_pct_yoy": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": 123.8,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": 4554,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": 82
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": 40
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "LTIM delivered strong financial performance in FY21, achieving market-leading revenue growth of 9.5% in USD terms and 8.8% in constant currency. Q4 FY21 revenue grew by 9.1% YoY and 4.6% QoQ.  Operating margin for FY21 was 19.3%, while PAT margin reached 15.7%.  Two large deals were signed in Q4, one in Insurance and another in BFS, contributing to a healthy order book. The company\u0027s digital revenue continued to grow, representing 45.6% of total revenue in Q4.  However, certain verticals like Insurance and Energy \u0026 Utilities experienced softness.  The company also announced a final dividend of INR 25 per share, bringing the total dividend for FY21 to INR 40 per share.",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": "Q4 FY21 showed robust growth compared to both Q3 FY21 and Q4 FY20. Revenue grew by 4.6% QoQ and 9.1% YoY in USD terms. EBIT margin decreased slightly to 19.4% from 20.6% in Q3, primarily due to wage hikes partially offset by operational efficiencies. PAT margin improved to 16.7% compared to 16.5% in Q3, though this was influenced by a one-time write-back.  A bar chart would effectively visualize the QoQ and YoY revenue, EBIT, and PAT changes, while a line chart could track margin trends over the past few quarters."
+      },
+      "full_year": {
+        "narrative": "FY21 demonstrated strong overall revenue and profitability growth compared to FY20. Revenue increased by 9.5% in USD and 8.8% in CC.  Operating margin improved significantly to 19.3% from 16.1% in FY20.  The trajectory of operating margins over FY21 was generally upward, driven by operational efficiencies and strong revenue growth, although Q4 saw a minor dip due to wage hikes.  A bar chart comparing FY20 and FY21 revenue, EBIT, and PAT, along with a line chart illustrating quarterly operating margin trends for FY21 would clearly depict the performance."
+      }
+    },
+    "segment_geographic_deep_dive": "BFS showed 5% QoQ growth, driven by broad-based performance and a new logo win in digital banking. Insurance had a soft quarter with 0.8% QoQ growth, but a large vendor consolidation win is expected to improve future performance. Manufacturing grew by 5% QoQ due to ramp-ups and pass-through revenues. Energy \u0026 Utilities continued to struggle with declining oil prices and COVID-19 impact. CPG, Retail and Pharma saw 3.5% QoQ growth, while Hi-Tech \u0026 Media grew strongly at 16% QoQ, driven by a large deal win with Injazat.  The \u0022Others\u0022 segment also performed well with 8.2% QoQ growth. Geographic performance details were not provided in the transcript or presentation.",
+    "deal_wins_pipeline_quality": "The order book and deal pipeline appear healthy, with two large deal wins in Q4 totaling $66 million TCV and the addition of two Fortune 500 clients. The deal wins showcase LTIM\u0027s strength in digital transformation, particularly in core banking and insurance modernization.  Management expressed confidence in the pipeline and its ability to drive future growth.",
+    "management_commentary_outlook": "Management expects to be in the leaders\u0027 quadrant for growth in FY22, driven by a strong Q4 exit rate, a healthy pipeline, and positive client conversations.  However, they acknowledge uncertainties related to the second wave of the pandemic in India. Margins are expected to be in the 14-15% range for FY22 due to planned investments in capacity building, sales, post-COVID workspaces, reskilling, diversity, and localization.",
+    "comparison_to_expectations": "Specific guidance or market expectations were not mentioned in the provided documents, making a direct comparison difficult. However, the company\u0027s performance seems to have exceeded internal expectations, as evidenced by the advanced performance review cycle and salary hikes.",
+    "key_risks_headwinds": "The second wave of the pandemic in India poses a significant risk, potentially impacting operations and client deliverables.  Management also highlighted supply constraints in the talent market as a potential headwind.",
+    "operational_efficiency": "Utilization excluding trainees was 82.2% in Q4, slightly down from 84.1% in Q3. Attrition remained stable at 12.3%.  The company added over 2,000 employees in Q4 and over 4,500 during FY21.  DSO improved to 61 days.  The company is actively hiring to meet demand and is preponing its fresher intake to address potential supply constraints. The impact of fresher onboarding on utilization will need to be monitored in the coming quarters."
+  }
+}

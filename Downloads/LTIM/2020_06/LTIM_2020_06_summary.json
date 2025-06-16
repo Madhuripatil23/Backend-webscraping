@@ -1,0 +1,1 @@
+Error: '$' is an invalid escapable character within a JSON string. The string should be correctly escaped. LineNumber: 127 | BytePositionInLine: 81.

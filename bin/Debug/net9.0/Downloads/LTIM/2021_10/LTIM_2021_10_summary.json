@@ -1,0 +1,170 @@
+{
+  "metadata": {
+    "company": "LTIM",
+    "report_generated_on": "2023-10-27",
+    "source_documents": [
+      {
+        "file_name": "LTI_Q2_FY22_Earnings_Call_Transcript.pdf",
+        "type": "Earnings Call Transcript",
+        "period_covered": "Q2 FY22",
+        "url": ""
+      },
+      {
+        "file_name": "LTI_Q2_FY22_Earnings_Presentation.pdf",
+        "type": "Investor Presentation",
+        "period_covered": "Q2 FY22",
+        "url": ""
+      }
+    ],
+    "base_currency": {
+      "inr": "INR",
+      "usd": "USD"
+    }
+  },
+  "data_extraction": {
+    "latest_quarter": {
+      "period_label": "Q2 FY22",
+      "revenue": {
+        "total_inr": 37670,
+        "total_usd": 509,
+        "cc_growth_pct": {
+          "qoq": 8.9,
+          "yoy": 25.5
+        },
+        "usd_growth_pct": {
+          "qoq": 8.3,
+          "yoy": 25.8
+        }
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": 6482,
+        "ebit_margin_pct": 17.2,
+        "pat_inr": 5517,
+        "pat_usd": null,
+        "pat_margin_pct": 14.6,
+        "basic_eps_inr": 31.5
+      },
+      "order_book": {
+        "tcv_new_deals": null,
+        "pipeline_commentary": "Robust pipeline across multiple deals, including a large deal win in Europe. Strong demand driven by great restructuring, new spend areas like ESG and cybersecurity, and the great resignation."
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": 91.3,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": 38403,
+        "cash_and_investments_usd": null,
+        "dso_days": 61
+      },
+      "segment_performance": [
+        {
+          "segment": "BFS",
+          "revenue_inr": null,
+          "growth_pct_qoq": 9.6
+        },
+        {
+          "segment": "Insurance",
+          "revenue_inr": null,
+          "growth_pct_qoq": 5.6
+        },
+        {
+          "segment": "Manufacturing",
+          "revenue_inr": null,
+          "growth_pct_qoq": 12.4
+        },
+        {
+          "segment": "Energy and Utilities",
+          "revenue_inr": null,
+          "growth_pct_qoq": 6.3
+        },
+        {
+          "segment": "CPG, Retail and Pharma",
+          "revenue_inr": null,
+          "growth_pct_qoq": 1.9
+        },
+        {
+          "segment": "Hi Tech and Media",
+          "revenue_inr": null,
+          "growth_pct_qoq": 6.9
+        },
+        {
+          "segment": "Others",
+          "revenue_inr": null,
+          "growth_pct_qoq": 14.2
+        }
+      ],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": 42382,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": 19.6,
+        "utilization_excl_trainees_pct": 83.7
+      },
+      "dividend": {
+        "final_dividend_per_share_inr": 15
+      }
+    },
+    "current_fy": {
+      "period_label": "FY22",
+      "revenue": {
+        "total_inr": null,
+        "total_usd": null,
+        "cc_growth_pct_yoy": null,
+        "usd_growth_pct_yoy": null
+      },
+      "profitability": {
+        "gross_margin_pct": null,
+        "ebitda_inr": null,
+        "ebitda_margin_pct": null,
+        "ebit_inr": null,
+        "ebit_margin_pct": null,
+        "pat_inr": null,
+        "pat_usd": null,
+        "pat_margin_pct": null,
+        "basic_eps_inr": null
+      },
+      "order_book": {
+        "tcv_fy": null,
+        "tcv_growth_pct_yoy": null,
+        "pipeline_commentary": ""
+      },
+      "cash_flow_balance_sheet": {
+        "ocf_to_pat_ratio": null,
+        "fcf_to_pat_ratio": null,
+        "cash_and_investments_inr": null,
+        "cash_and_investments_usd": null,
+        "dso_days": null
+      },
+      "segment_performance": [],
+      "geographic_performance": [],
+      "headcount_metrics": {
+        "total_headcount": null,
+        "net_additions_yoy": null,
+        "attrition_pct_ttm": null,
+        "utilization_excl_trainees_pct": null
+      },
+      "dividend": {
+        "total_dividend_per_share_inr": null
+      }
+    }
+  },
+  "financial_analysis": {
+    "performance_summary": "LTIM achieved record sequential CC revenue growth of 8.9% in Q2 FY22, crossing the $2 billion annualized revenue mark. Growth was broad-based across verticals, service lines, and client segments. Profitability remained stable within the 14-15% guided range, with PAT margin at 14.6%.  Key highlights include strong growth in BFS, Hi-Tech and Media \u0026 Entertainment, and Others segments.  The company added 25 new logos and witnessed upward movement across client buckets.  Key challenges include high attrition (19.6%) and managing talent supply in a tight labor market.",
+    "trend_analysis": {
+      "latest_quarter": {
+        "narrative": "Q2 FY22 showed strong QoQ growth in revenue (8.3% USD, 8.9% CC), EBIT (INR, 17.2% margin), and PAT (INR, 14.6% margin). YoY growth was also robust across these metrics. Key drivers include broad-based demand, new business models, and new spend areas like ESG and Cloud Security.  Suitable charts: Bar charts comparing revenues, EBIT, and PAT across Q1 FY22 and Q2 FY22; Line charts showing margin trends QoQ and YoY."
+      },
+      "full_year": {
+        "narrative": "Full year FY22 analysis is not available as the provided documents only cover Q2 FY22 results.  However, management expressed confidence in crossing the $2 billion revenue mark for FY22 and maintaining stable PAT margins in the 14-15% band.  Further analysis requires full-year data."
+      }
+    },
+    "segment_geographic_deep_dive": "BFS continued its strong growth trajectory with 9.6% QoQ growth. Insurance showed signs of recovery with 5.6% QoQ growth. Manufacturing performed well with 12.4% QoQ growth.  Energy and Utilities saw volatile spends with 6.3% QoQ growth. CPG, Retail, and Pharma grew by 1.9% QoQ.  Hi-Tech and Media saw strong growth at 6.9% QoQ and 48.5% YoY.  Others segment grew by 14.2% QoQ. Geographic performance details were not provided in the documents.",
+    "deal_wins_pipeline_quality": "LTIM reported a healthy deal pipeline with strong demand driven by digital transformation initiatives.  A large deal win in Europe with a TCV of $30 million over five years was highlighted. The company added multiple clients across different revenue buckets.  The overall commentary suggests a positive outlook for future deal wins.",
+    "management_commentary_outlook": "Management expressed confidence in achieving $2 billion in revenue for FY22 and maintaining stable PAT margins in the 14-15% band. They highlighted the robust demand environment and the company\u0027s ability to navigate the talent market challenges.  Management also emphasized the importance of investing in capabilities and talent for future growth.  No specific guidance was provided for the next quarter or FY.",
+    "comparison_to_expectations": "The provided documents did not include specific comparisons to previous guidance or market expectations.",
+    "key_risks_headwinds": "Key risks and headwinds mentioned include the ongoing talent crunch, high attrition rates, and wage inflation.  Management acknowledged the need to manage talent supply effectively and focus on upskilling and reskilling initiatives.",
+    "operational_efficiency": "DSO remained stable at 61 days. Utilization excluding trainees was at 83.7%, slightly lower than the previous quarter.  Attrition increased to 19.6% LTM. The company is actively hiring freshers and experienced professionals to address talent supply challenges.  The impact of fresher onboarding and headcount changes on operational efficiency will need to be monitored in subsequent quarters."
+  }
+}

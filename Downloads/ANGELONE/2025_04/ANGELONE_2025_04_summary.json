@@ -4,15 +4,15 @@
     "report_generated_on": "2025-04-21",
     "source_documents": [
       {
-        "file_name": "Angel One Limited Filing of Transcript of Earnings Call 21042025.pdf",
+        "file_name": "angelone_q4fy25_earnings_call_transcript.pdf",
         "type": "Earnings Call Transcript",
-        "period_covered": "Q4 FY2025",
+        "period_covered": "Q4 FY25",
         "url": ""
       },
       {
-        "file_name": "Angel One Limited Investor Presentation 16042025.pdf",
+        "file_name": "angelone_q4fy25_investor_presentation.pdf",
         "type": "Investor Presentation",
-        "period_covered": "Q4 FY2025",
+        "period_covered": "Q4 FY25",
         "url": ""
       }
     ],
@@ -23,13 +23,13 @@
   },
   "data_extraction": {
     "latest_quarter": {
-      "period_label": "Q4 FY2025",
+      "period_label": "Q4 FY25",
       "revenue": {
-        "total_inr": null,
+        "total_inr": 10578,
         "total_usd": null,
         "cc_growth_pct": {
-          "qoq": null,
-          "yoy": null
+          "qoq": -22.1,
+          "yoy": 19.1
         },
         "usd_growth_pct": {
           "qoq": null,
@@ -38,13 +38,13 @@
       },
       "profitability": {
         "gross_margin_pct": null,
-        "ebitda_inr": 2600000000,
+        "ebitda_inr": 2643,
         "ebitda_margin_pct": 31.8,
         "ebit_inr": null,
         "ebit_margin_pct": null,
-        "pat_inr": 1700000000,
+        "pat_inr": 1745,
         "pat_usd": null,
-        "pat_margin_pct": null,
+        "pat_margin_pct": -38,
         "basic_eps_inr": null
       },
       "order_book": {
@@ -54,11 +54,32 @@
       "cash_flow_balance_sheet": {
         "ocf_to_pat_ratio": null,
         "fcf_to_pat_ratio": null,
-        "cash_and_investments_inr": null,
+        "cash_and_investments_inr": 118044,
         "cash_and_investments_usd": null,
         "dso_days": null
       },
-      "segment_performance": [],
+      "segment_performance": [
+        {
+          "segment": "Gross Broking",
+          "revenue_inr": 6290,
+          "growth_pct_qoq": -22
+        },
+        {
+          "segment": "Interest Income",
+          "revenue_inr": 3378,
+          "growth_pct_qoq": -4
+        },
+        {
+          "segment": "Depository",
+          "revenue_inr": null,
+          "growth_pct_qoq": -21
+        },
+        {
+          "segment": "Distribution",
+          "revenue_inr": 314,
+          "growth_pct_qoq": 5
+        }
+      ],
       "geographic_performance": [],
       "headcount_metrics": {
         "total_headcount": null,
@@ -71,11 +92,11 @@
       }
     },
     "current_fy": {
-      "period_label": "FY2025",
+      "period_label": "FY25",
       "revenue": {
-        "total_inr": null,
+        "total_inr": 52477,
         "total_usd": null,
-        "cc_growth_pct_yoy": null,
+        "cc_growth_pct_yoy": 22.6,
         "usd_growth_pct_yoy": null
       },
       "profitability": {
@@ -84,9 +105,9 @@
         "ebitda_margin_pct": null,
         "ebit_inr": null,
         "ebit_margin_pct": null,
-        "pat_inr": 11700000000,
+        "pat_inr": 11721,
         "pat_usd": null,
-        "pat_margin_pct": null,
+        "pat_margin_pct": 4.2,
         "basic_eps_inr": 130
       },
       "order_book": {
